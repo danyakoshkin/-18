@@ -1,0 +1,977 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4601,
+    "width": 3354
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "-",
+        "confidence": 0.8164769245479996,
+        "startIndex": 0
+      },
+      {
+        "text": " подготовить",
+        "confidence": 0.9328681550137133,
+        "startIndex": 1
+      },
+      {
+        "text": " систему",
+        "confidence": 0.9999829533624089,
+        "startIndex": 13
+      },
+      {
+        "text": " охлаждения",
+        "confidence": 0.9999443984177462,
+        "startIndex": 21
+      },
+      {
+        "text": " холодильной",
+        "confidence": 0.999979377257262,
+        "startIndex": 32
+      },
+      {
+        "text": " установки",
+        "confidence": 0.9997965511486372,
+        "startIndex": 44
+      },
+      {
+        "text": " системы",
+        "confidence": 0.999998927117538,
+        "startIndex": 54
+      },
+      {
+        "text": " кондиционирования",
+        "confidence": 0.9999529753457266,
+        "startIndex": 62
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999969005680498,
+        "startIndex": 80
+      },
+      {
+        "text": " в",
+        "confidence": 0.999997854237364,
+        "startIndex": 88
+      },
+      {
+        "text": " соответствии",
+        "confidence": 0.9999901057270286,
+        "startIndex": 90
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999990463265931,
+        "startIndex": 103
+      },
+      {
+        "text": " инструкцией",
+        "confidence": 0.9999605538225612,
+        "startIndex": 105
+      },
+      {
+        "text": " 20385.360085.002ТО27.",
+        "confidence": 0.9982337571739687,
+        "startIndex": 117
+      },
+      {
+        "text": "2.1.3.2",
+        "confidence": 0.9999801612819986,
+        "startIndex": 141
+      },
+      {
+        "text": " В",
+        "confidence": 0.9999458819130859,
+        "startIndex": 148
+      },
+      {
+        "text": " летний",
+        "confidence": 0.9999604922022399,
+        "startIndex": 150
+      },
+      {
+        "text": " период:",
+        "confidence": 0.9999657172990519,
+        "startIndex": 157
+      },
+      {
+        "text": "-",
+        "confidence": 0.9983365832801401,
+        "startIndex": 167
+      },
+      {
+        "text": " ввести",
+        "confidence": 0.993325090984166,
+        "startIndex": 168
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999589936855495,
+        "startIndex": 175
+      },
+      {
+        "text": " действие",
+        "confidence": 0.9999948740268748,
+        "startIndex": 177
+      },
+      {
+        "text": " холодильную",
+        "confidence": 0.9999772912267765,
+        "startIndex": 186
+      },
+      {
+        "text": " машину",
+        "confidence": 0.9999829363328009,
+        "startIndex": 198
+      },
+      {
+        "text": " 232",
+        "confidence": 0.9999945462048817,
+        "startIndex": 205
+      },
+      {
+        "text": " (233)",
+        "confidence": 0.9999950925784542,
+        "startIndex": 209
+      },
+      {
+        "text": " в",
+        "confidence": 0.999991297797926,
+        "startIndex": 215
+      },
+      {
+        "text": " соответствии",
+        "confidence": 0.9999847414437658,
+        "startIndex": 217
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999363462880796,
+        "startIndex": 230
+      },
+      {
+        "text": " УШИД.701525.009",
+        "confidence": 0.9121904898605994,
+        "startIndex": 232
+      },
+      {
+        "text": " РЭ",
+        "confidence": 0.999667771672137,
+        "startIndex": 248
+      },
+      {
+        "text": " (для",
+        "confidence": 0.9998495880314326,
+        "startIndex": 251
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9973636053018824,
+        "startIndex": 256
+      },
+      {
+        "text": " 1005),",
+        "confidence": 0.9999970368095046,
+        "startIndex": 261
+      },
+      {
+        "text": " УШИД.701525.015",
+        "confidence": 0.9999773214997646,
+        "startIndex": 268
+      },
+      {
+        "text": " РЭ",
+        "confidence": 0.9999012272940463,
+        "startIndex": 284
+      },
+      {
+        "text": " (для",
+        "confidence": 0.9999821904930039,
+        "startIndex": 287
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.999931483775561,
+        "startIndex": 292
+      },
+      {
+        "text": " 1006);",
+        "confidence": 0.9999951465291825,
+        "startIndex": 297
+      },
+      {
+        "text": "-",
+        "confidence": 0.999565075345956,
+        "startIndex": 306
+      },
+      {
+        "text": " установить",
+        "confidence": 0.999443483270214,
+        "startIndex": 307
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999965429424904,
+        "startIndex": 318
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9926528711713151,
+        "startIndex": 321
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999867679437158,
+        "startIndex": 329
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999567288990747,
+        "startIndex": 340
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999829793173459,
+        "startIndex": 343
+      },
+      {
+        "text": " №1-№18,",
+        "confidence": 0.9999307058145923,
+        "startIndex": 357
+      },
+      {
+        "text": " №20-№27",
+        "confidence": 0.9999965876512348,
+        "startIndex": 365
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999709308970286,
+        "startIndex": 373
+      },
+      {
+        "text": " режимов",
+        "confidence": 0.9999876322195563,
+        "startIndex": 387
+      },
+      {
+        "text": " работы",
+        "confidence": 0.9999982118638471,
+        "startIndex": 395
+      },
+      {
+        "text": " ОХЛ/ВЕНТ/НАГР",
+        "confidence": 0.9984885292458893,
+        "startIndex": 402
+      },
+      {
+        "text": " в",
+        "confidence": 0.999979138810205,
+        "startIndex": 416
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9971909971238246,
+        "startIndex": 418
+      },
+      {
+        "text": " ОХЛ;",
+        "confidence": 0.9999131070179023,
+        "startIndex": 428
+      },
+      {
+        "text": "-",
+        "confidence": 0.9669019145882524,
+        "startIndex": 435
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9999809268774651,
+        "startIndex": 436
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999990463265931,
+        "startIndex": 447
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9996044241723779,
+        "startIndex": 450
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999976158197796,
+        "startIndex": 458
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999816421070834,
+        "startIndex": 469
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999951209863592,
+        "startIndex": 472
+      },
+      {
+        "text": " №19",
+        "confidence": 0.9999951720577246,
+        "startIndex": 486
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999964237340748,
+        "startIndex": 490
+      },
+      {
+        "text": " №25",
+        "confidence": 0.9999657886760253,
+        "startIndex": 492
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999317000211001,
+        "startIndex": 496
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999949932351057,
+        "startIndex": 510
+      },
+      {
+        "text": " положение",
+        "confidence": 0.999924546211394,
+        "startIndex": 512
+      },
+      {
+        "text": " ОХЛ",
+        "confidence": 0.9999324137178026,
+        "startIndex": 522
+      },
+      {
+        "text": " АВТ;",
+        "confidence": 0.9984655663416632,
+        "startIndex": 526
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999473122717736,
+        "startIndex": 533
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9999843838268748,
+        "startIndex": 534
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999994039539004,
+        "startIndex": 545
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.999845924479089,
+        "startIndex": 548
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999984502816872,
+        "startIndex": 556
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999858142961154,
+        "startIndex": 567
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999973603805823,
+        "startIndex": 570
+      },
+      {
+        "text": " №3,",
+        "confidence": 0.9999765171370931,
+        "startIndex": 584
+      },
+      {
+        "text": " №6,",
+        "confidence": 0.999998986723158,
+        "startIndex": 588
+      },
+      {
+        "text": " №7,",
+        "confidence": 0.9999992847451598,
+        "startIndex": 592
+      },
+      {
+        "text": " №8,",
+        "confidence": 0.9999990165249266,
+        "startIndex": 596
+      },
+      {
+        "text": " №11,",
+        "confidence": 0.9999995708467975,
+        "startIndex": 600
+      },
+      {
+        "text": " №12,",
+        "confidence": 0.9999997377396471,
+        "startIndex": 605
+      },
+      {
+        "text": " №13,",
+        "confidence": 0.9999998807907247,
+        "startIndex": 610
+      },
+      {
+        "text": " №15,",
+        "confidence": 0.9999979257652553,
+        "startIndex": 615
+      },
+      {
+        "text": " №16,",
+        "confidence": 0.9999995231630748,
+        "startIndex": 620
+      },
+      {
+        "text": " №17,",
+        "confidence": 0.9999986648579398,
+        "startIndex": 625
+      },
+      {
+        "text": " №20,",
+        "confidence": 0.9999994039539232,
+        "startIndex": 630
+      },
+      {
+        "text": " №26",
+        "confidence": 0.9999959469049314,
+        "startIndex": 635
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999794113546852,
+        "startIndex": 639
+      },
+      {
+        "text": " УПРАВЛЕНИЕ",
+        "confidence": 0.9998040330693974,
+        "startIndex": 653
+      },
+      {
+        "text": " МЕСТ/ДИСТ",
+        "confidence": 0.9996711730612939,
+        "startIndex": 664
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999028538701035,
+        "startIndex": 674
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9994453885120366,
+        "startIndex": 676
+      },
+      {
+        "text": " МЕСТ;",
+        "confidence": 0.9999474714761675,
+        "startIndex": 686
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999394453479565,
+        "startIndex": 694
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9999883176260755,
+        "startIndex": 695
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999988079084972,
+        "startIndex": 706
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9999350661217095,
+        "startIndex": 709
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999979734461775,
+        "startIndex": 717
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999907017622996,
+        "startIndex": 728
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999982203817736,
+        "startIndex": 731
+      },
+      {
+        "text": " №1,",
+        "confidence": 0.9999992847452148,
+        "startIndex": 745
+      },
+      {
+        "text": " №2,",
+        "confidence": 0.9999995231633001,
+        "startIndex": 749
+      },
+      {
+        "text": " №4,",
+        "confidence": 0.9999985992935909,
+        "startIndex": 753
+      },
+      {
+        "text": " №5,",
+        "confidence": 0.9999992549426797,
+        "startIndex": 757
+      },
+      {
+        "text": " №9,",
+        "confidence": 0.999999016525225,
+        "startIndex": 761
+      },
+      {
+        "text": " №10,",
+        "confidence": 0.9999994277957671,
+        "startIndex": 765
+      },
+      {
+        "text": " №14,",
+        "confidence": 0.9999970913057507,
+        "startIndex": 770
+      },
+      {
+        "text": " №18,",
+        "confidence": 0.9999991655357775,
+        "startIndex": 775
+      },
+      {
+        "text": " №19,",
+        "confidence": 0.9999995231630748,
+        "startIndex": 780
+      },
+      {
+        "text": " №21,",
+        "confidence": 0.9999994754794455,
+        "startIndex": 785
+      },
+      {
+        "text": " №22,",
+        "confidence": 0.9999996185304485,
+        "startIndex": 790
+      },
+      {
+        "text": " №23,",
+        "confidence": 0.999999713897817,
+        "startIndex": 795
+      },
+      {
+        "text": " №24,",
+        "confidence": 0.999999141694052,
+        "startIndex": 800
+      },
+      {
+        "text": " №25,",
+        "confidence": 0.9999955892816799,
+        "startIndex": 805
+      },
+      {
+        "text": " №27",
+        "confidence": 0.9999986290952467,
+        "startIndex": 810
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999752988759293,
+        "startIndex": 814
+      },
+      {
+        "text": " УПРАВЛЕНИЕ",
+        "confidence": 0.9999696680316209,
+        "startIndex": 828
+      },
+      {
+        "text": " МЕСТ/ДИСТ",
+        "confidence": 0.9999575278149452,
+        "startIndex": 839
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999427828150717,
+        "startIndex": 849
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9994420543703182,
+        "startIndex": 851
+      },
+      {
+        "text": " ДИСТ;",
+        "confidence": 0.9995858408163252,
+        "startIndex": 861
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999299098534469,
+        "startIndex": 869
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9999929667012066,
+        "startIndex": 870
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999992847447459,
+        "startIndex": 881
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9999467471317555,
+        "startIndex": 884
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999984502816872,
+        "startIndex": 892
+      },
+      {
+        "text": " на",
+        "confidence": 0.999985218266486,
+        "startIndex": 903
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.999998433254633,
+        "startIndex": 906
+      },
+      {
+        "text": " №7,",
+        "confidence": 0.9999057870520418,
+        "startIndex": 920
+      },
+      {
+        "text": " №8",
+        "confidence": 0.999995907174291,
+        "startIndex": 924
+      },
+      {
+        "text": " №15,",
+        "confidence": 0.9987989762456141,
+        "startIndex": 927
+      },
+      {
+        "text": " №16,",
+        "confidence": 0.9999978780801828,
+        "startIndex": 932
+      },
+      {
+        "text": " №17,",
+        "confidence": 0.9999959707523675,
+        "startIndex": 937
+      },
+      {
+        "text": " №22,",
+        "confidence": 0.999999451637623,
+        "startIndex": 942
+      },
+      {
+        "text": " №25,",
+        "confidence": 0.9999980449734107,
+        "startIndex": 947
+      },
+      {
+        "text": " №27",
+        "confidence": 0.9999995231630692,
+        "startIndex": 952
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.999996083140564,
+        "startIndex": 956
+      },
+      {
+        "text": " ДАТЧИК",
+        "confidence": 0.999882697839743,
+        "startIndex": 970
+      },
+      {
+        "text": " МЕСТ/ДИСТ",
+        "confidence": 0.9999705681992508,
+        "startIndex": 977
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999970197767496,
+        "startIndex": 987
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9989571728484148,
+        "startIndex": 989
+      },
+      {
+        "text": " МЕСТ;",
+        "confidence": 0.9999658875919899,
+        "startIndex": 999
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999176331638507,
+        "startIndex": 1007
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9999749666753994,
+        "startIndex": 1008
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999995231630692,
+        "startIndex": 1019
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9999626298031972,
+        "startIndex": 1022
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999961853172863,
+        "startIndex": 1030
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999821189265068,
+        "startIndex": 1041
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999979904786646,
+        "startIndex": 1044
+      },
+      {
+        "text": " №1,",
+        "confidence": 0.9999969005756384,
+        "startIndex": 1058
+      },
+      {
+        "text": " №2,",
+        "confidence": 0.9999982714695257,
+        "startIndex": 1062
+      },
+      {
+        "text": " №3,",
+        "confidence": 0.9999961555273277,
+        "startIndex": 1066
+      },
+      {
+        "text": " №4,",
+        "confidence": 0.999997258196581,
+        "startIndex": 1070
+      },
+      {
+        "text": " №5,",
+        "confidence": 0.9999996125699835,
+        "startIndex": 1074
+      },
+      {
+        "text": " №6,",
+        "confidence": 0.9999971091850477,
+        "startIndex": 1078
+      },
+      {
+        "text": " №9,",
+        "confidence": 0.9999927283127561,
+        "startIndex": 1082
+      },
+      {
+        "text": " №10,",
+        "confidence": 0.9999973535628686,
+        "startIndex": 1086
+      },
+      {
+        "text": " №11,",
+        "confidence": 0.9999996662141132,
+        "startIndex": 1091
+      },
+      {
+        "text": " №12,",
+        "confidence": 0.9999993801121139,
+        "startIndex": 1096
+      },
+      {
+        "text": " №13,",
+        "confidence": 0.9999994754794284,
+        "startIndex": 1101
+      },
+      {
+        "text": " №14,",
+        "confidence": 0.9999972105128375,
+        "startIndex": 1106
+      },
+      {
+        "text": " №18,",
+        "confidence": 0.9999985456492143,
+        "startIndex": 1111
+      },
+      {
+        "text": " №19,",
+        "confidence": 0.9999975442953567,
+        "startIndex": 1116
+      },
+      {
+        "text": " №20,",
+        "confidence": 0.9999975919786496,
+        "startIndex": 1121
+      },
+      {
+        "text": " №21,",
+        "confidence": 0.9999979734466777,
+        "startIndex": 1126
+      },
+      {
+        "text": " №23,",
+        "confidence": 0.9999970436201966,
+        "startIndex": 1131
+      },
+      {
+        "text": " №24,",
+        "confidence": 0.9999984025982397,
+        "startIndex": 1136
+      },
+      {
+        "text": " №26",
+        "confidence": 0.9999939799781019,
+        "startIndex": 1141
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999445640075386,
+        "startIndex": 1145
+      },
+      {
+        "text": " ДАТЧИК",
+        "confidence": 0.9999923876948741,
+        "startIndex": 1159
+      },
+      {
+        "text": " МЕСТ/ДИСТ",
+        "confidence": 0.9999705920208765,
+        "startIndex": 1166
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999926090786457,
+        "startIndex": 1176
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9999576824925632,
+        "startIndex": 1178
+      },
+      {
+        "text": " ДИСТ;",
+        "confidence": 0.9997803382893531,
+        "startIndex": 1188
+      }
+    ],
+    "averagePageConfidenceScore": 0.9976874066769679,
+    "minimumPageConfidenceScore": 0.8164769245479996
+  },
+  "blocks": [
+    {
+      "topLeftX": 168,
+      "topLeftY": 0,
+      "bottomRightX": 3136,
+      "bottomRightY": 520,
+      "content": "- подготовить систему охлаждения холодильной установки системы кондиционирования воздуха в соответствии с инструкцией 20385.360085.002ТО27.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 525,
+      "bottomRightX": 1554,
+      "bottomRightY": 659,
+      "content": "2.1.3.2 В летний период:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 691,
+      "bottomRightX": 3122,
+      "bottomRightY": 1197,
+      "content": "- ввести в действие холодильную машину 232 (233) в соответствии с УШИД.701525.009 РЭ (для зак. 1005), УШИД.701525.015 РЭ (для зак. 1006);",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 1234,
+      "bottomRightX": 2971,
+      "bottomRightY": 1690,
+      "content": "- установить на пультах управления на кондиционерах №1-№18, №20-№27 переключатель режимов работы ОХЛ/ВЕНТ/НАГР в положение ОХЛ;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 1759,
+      "bottomRightX": 3035,
+      "bottomRightY": 2045,
+      "content": "- установить на пультах управления на кондиционерах №19 и №25 переключатель в положение ОХЛ АВТ;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 2086,
+      "bottomRightX": 3122,
+      "bottomRightY": 2547,
+      "content": "- установить на пультах управления на кондиционерах №3, №6, №7, №8, №11, №12, №13, №15, №16, №17, №20, №26 переключатель УПРАВЛЕНИЕ МЕСТ/ДИСТ в положение МЕСТ;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 2565,
+      "bottomRightX": 3122,
+      "bottomRightY": 3072,
+      "content": "- установить на пультах управления на кондиционерах №1, №2, №4, №5, №9, №10, №14, №18, №19, №21, №22, №23, №24, №25, №27 переключатель УПРАВЛЕНИЕ МЕСТ/ДИСТ в положение ДИСТ;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 3035,
+      "bottomRightX": 3136,
+      "bottomRightY": 3606,
+      "content": "- установить на пультах управления на кондиционерах №7, №8 №15, №16, №17, №22, №25, №27 переключатель ДАТЧИК МЕСТ/ДИСТ в положение МЕСТ;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 3505,
+      "bottomRightX": 3122,
+      "bottomRightY": 4279,
+      "content": "- установить на пультах управления на кондиционерах №1, №2, №3, №4, №5, №6, №9, №10, №11, №12, №13, №14, №18, №19, №20, №21, №23, №24, №26 переключатель ДАТЧИК МЕСТ/ДИСТ в положение ДИСТ;",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

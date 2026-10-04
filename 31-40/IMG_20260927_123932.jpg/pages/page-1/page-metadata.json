@@ -1,0 +1,66 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 3472,
+    "width": 4624
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 0,
+      "topLeftY": 118,
+      "bottomRightX": 102,
+      "bottomRightY": 202,
+      "content": "75",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 3305,
+      "topLeftY": 129,
+      "bottomRightX": 3606,
+      "bottomRightY": 198,
+      "content": "Форма 504",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 4184,
+      "topLeftY": 139,
+      "bottomRightX": 4494,
+      "bottomRightY": 209,
+      "content": "Формат А4",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 379,
+      "bottomRightX": 1185,
+      "bottomRightY": 469,
+      "content": "Продолжение таблицы 3",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 469,
+      "bottomRightX": 4481,
+      "bottomRightY": 1894,
+      "content": "|  Наименование обслуживаемого помещения | Место расположения помещения | Обслуживают |   | Место расположения |   | Приме- чание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |   |  кондиционер, его индекс, номер, поз. по схеме | вентилятор, его индекс, номер, поз. по схеме | кондиционера | вентиля- тора  |   |\n|  Каюта заместителя командира | Палуба I яруса надстройки 52-55 шп. ПрБ | КНМ-II-Пр- 1,7 207 |  | Каюта заместителя командира |  | *  |\n|  Каюта флагмана | Палуба I яруса надстройки 62-65 шп. ПрБ | КНМ-II-Пр- 2,6 214 |  | Каюта флагмана |  | *  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 2047,
+      "bottomRightX": 4254,
+      "bottomRightY": 2464,
+      "content": "Примечание - * Все помещения, обслуживаемые кондиционерами неавтономными местными типа КНМ, соответственно обслуживаются холодильной машиной МХМВ-90 – поз. 232 или 233, насосом тепло/хладоносителя – поз. 234, проточным нагревателем – поз. 231.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

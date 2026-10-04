@@ -1,0 +1,565 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2608,
+    "width": 4624
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999861503032307,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999986886995842,
+        "startIndex": 11
+      },
+      {
+        "text": " 3",
+        "confidence": 0.9999898077127095,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9981259418083552,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9981259418083552,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9981259418083552,
+        "startIndex": 54
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999905011375783,
+        "startIndex": 66
+      },
+      {
+        "text": "расположения",
+        "confidence": 0.9999905011375783,
+        "startIndex": 72
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9999905011375783,
+        "startIndex": 85
+      },
+      {
+        "text": "Обслуживают",
+        "confidence": 0.9999846601048135,
+        "startIndex": 97
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999902315834366,
+        "startIndex": 115
+      },
+      {
+        "text": " расположения",
+        "confidence": 0.9990914604535361,
+        "startIndex": 120
+      },
+      {
+        "text": "Приме-",
+        "confidence": 0.9988825299314088,
+        "startIndex": 140
+      },
+      {
+        "text": "чание",
+        "confidence": 0.9988825299314088,
+        "startIndex": 147
+      },
+      {
+        "text": "кондиционер,",
+        "confidence": 0.9988825299314088,
+        "startIndex": 211
+      },
+      {
+        "text": "его",
+        "confidence": 0.9988825299314088,
+        "startIndex": 224
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.999987652638472,
+        "startIndex": 227
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.999987652638472,
+        "startIndex": 236
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999351305245904,
+        "startIndex": 242
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999717522485759,
+        "startIndex": 247
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999717522485759,
+        "startIndex": 251
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999717522485759,
+        "startIndex": 259
+      },
+      {
+        "text": "его",
+        "confidence": 0.9999717522485759,
+        "startIndex": 271
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999984126397485,
+        "startIndex": 274
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999984126397485,
+        "startIndex": 283
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999951323189057,
+        "startIndex": 289
+      },
+      {
+        "text": "по",
+        "confidence": 0.9999951323189057,
+        "startIndex": 295
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.9997659515454884,
+        "startIndex": 297
+      },
+      {
+        "text": "кондиционера",
+        "confidence": 0.9997659515454884,
+        "startIndex": 306
+      },
+      {
+        "text": "вентиля-",
+        "confidence": 0.9997659515454884,
+        "startIndex": 321
+      },
+      {
+        "text": "тора",
+        "confidence": 0.9997659515454884,
+        "startIndex": 330
+      },
+      {
+        "text": "ПДРЦ",
+        "confidence": 0.9997659515454884,
+        "startIndex": 345
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9997659515454884,
+        "startIndex": 352
+      },
+      {
+        "text": " I",
+        "confidence": 0.9999216856339493,
+        "startIndex": 358
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9728638107216062,
+        "startIndex": 360
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9728638107216062,
+        "startIndex": 367
+      },
+      {
+        "text": "38-43",
+        "confidence": 0.9728638107216062,
+        "startIndex": 378
+      },
+      {
+        "text": "1",
+        "confidence": 0.9728638107216062,
+        "startIndex": 385
+      },
+      {
+        "text": "⁄",
+        "confidence": 0.9728638107216062,
+        "startIndex": 387
+      },
+      {
+        "text": "2",
+        "confidence": 0.9728638107216062,
+        "startIndex": 390
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.997665451244451,
+        "startIndex": 392
+      },
+      {
+        "text": " ЛБ",
+        "confidence": 0.9997456015546624,
+        "startIndex": 396
+      },
+      {
+        "text": "АКР45-П-О",
+        "confidence": 0.9924877982798699,
+        "startIndex": 402
+      },
+      {
+        "text": "№19",
+        "confidence": 0.9924877982798699,
+        "startIndex": 412
+      },
+      {
+        "text": "РССМ40/25",
+        "confidence": 0.9996301612353152,
+        "startIndex": 418
+      },
+      {
+        "text": "-1.1.1-1",
+        "confidence": 0.9996301612353152,
+        "startIndex": 428
+      },
+      {
+        "text": "№8СКВ",
+        "confidence": 0.9996301612353152,
+        "startIndex": 437
+      },
+      {
+        "text": "(подпорный)",
+        "confidence": 0.9996301612353152,
+        "startIndex": 443
+      },
+      {
+        "text": "172",
+        "confidence": 0.9996301612353152,
+        "startIndex": 455
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.999982114926192,
+        "startIndex": 461
+      },
+      {
+        "text": " №9",
+        "confidence": 0.9999995448375993,
+        "startIndex": 474
+      },
+      {
+        "text": "Рубка",
+        "confidence": 0.9969588436585274,
+        "startIndex": 491
+      },
+      {
+        "text": " радиосвязи",
+        "confidence": 0.9999969051587406,
+        "startIndex": 496
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9999969051587406,
+        "startIndex": 510
+      },
+      {
+        "text": " I",
+        "confidence": 0.9999893904859,
+        "startIndex": 516
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999953547249599,
+        "startIndex": 518
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9999953547249599,
+        "startIndex": 525
+      },
+      {
+        "text": "38-46",
+        "confidence": 0.9999953547249599,
+        "startIndex": 536
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9998422915405701,
+        "startIndex": 541
+      },
+      {
+        "text": "ДП-ПрБ",
+        "confidence": 0.9998422915405701,
+        "startIndex": 546
+      },
+      {
+        "text": "Амбулатория",
+        "confidence": 0.9998422915405701,
+        "startIndex": 579
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9998422915405701,
+        "startIndex": 593
+      },
+      {
+        "text": "60-65",
+        "confidence": 0.9998422915405701,
+        "startIndex": 596
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9995804639442002,
+        "startIndex": 601
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999888939040014,
+        "startIndex": 605
+      },
+      {
+        "text": "АКН15/10-П",
+        "confidence": 0.9979075605675247,
+        "startIndex": 612
+      },
+      {
+        "text": "(для",
+        "confidence": 0.9979075605675247,
+        "startIndex": 623
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999048334722572,
+        "startIndex": 627
+      },
+      {
+        "text": " 1005)",
+        "confidence": 0.9999284407859012,
+        "startIndex": 632
+      },
+      {
+        "text": "АКН",
+        "confidence": 0.9999284407859012,
+        "startIndex": 639
+      },
+      {
+        "text": " 15У-П",
+        "confidence": 0.9998618746393255,
+        "startIndex": 642
+      },
+      {
+        "text": "(для",
+        "confidence": 0.9998618746393255,
+        "startIndex": 649
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999977111875341,
+        "startIndex": 653
+      },
+      {
+        "text": " 1006)",
+        "confidence": 0.9999992793266866,
+        "startIndex": 658
+      },
+      {
+        "text": "№20",
+        "confidence": 0.9999992793266866,
+        "startIndex": 665
+      },
+      {
+        "text": "-",
+        "confidence": 0.9995188126090853,
+        "startIndex": 671
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.9989962584790036,
+        "startIndex": 675
+      },
+      {
+        "text": "№10",
+        "confidence": 0.9989962584790036,
+        "startIndex": 689
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999789061411027,
+        "startIndex": 695
+      },
+      {
+        "text": "Лазарет",
+        "confidence": 0.9999146910284363,
+        "startIndex": 706
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999146910284363,
+        "startIndex": 716
+      },
+      {
+        "text": "55-58",
+        "confidence": 0.9999146910284363,
+        "startIndex": 719
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999567893197656,
+        "startIndex": 724
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9998570276365643,
+        "startIndex": 728
+      },
+      {
+        "text": "Медкладовая",
+        "confidence": 0.9998570276365643,
+        "startIndex": 759
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9998570276365643,
+        "startIndex": 773
+      },
+      {
+        "text": "62-65",
+        "confidence": 0.9998570276365643,
+        "startIndex": 776
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999749073381571,
+        "startIndex": 781
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999624666050562,
+        "startIndex": 785
+      },
+      {
+        "text": "Санкладовая",
+        "confidence": 0.9999624666050562,
+        "startIndex": 816
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999624666050562,
+        "startIndex": 830
+      },
+      {
+        "text": "58-60",
+        "confidence": 0.9999624666050562,
+        "startIndex": 833
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999864402049847,
+        "startIndex": 838
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999321967677004,
+        "startIndex": 842
+      },
+      {
+        "text": "Санузел",
+        "confidence": 0.9999321967677004,
+        "startIndex": 873
+      },
+      {
+        "text": " лазарета",
+        "confidence": 0.9995885929037154,
+        "startIndex": 880
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9995885929037154,
+        "startIndex": 892
+      },
+      {
+        "text": "55-58",
+        "confidence": 0.9995885929037154,
+        "startIndex": 895
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999657290557171,
+        "startIndex": 900
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.999998317452868,
+        "startIndex": 904
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.999998317452868,
+        "startIndex": 935
+      },
+      {
+        "text": " №10",
+        "confidence": 0.9999992895138109,
+        "startIndex": 948
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999992895138109,
+        "startIndex": 955
+      },
+      {
+        "text": "60-62",
+        "confidence": 0.9999992895138109,
+        "startIndex": 958
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.999973774962748,
+        "startIndex": 963
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999760680386022,
+        "startIndex": 967
+      }
+    ],
+    "averagePageConfidenceScore": 0.998027366099338,
+    "minimumPageConfidenceScore": 0.9728638107216062
+  },
+  "blocks": [
+    {
+      "topLeftX": 287,
+      "topLeftY": 86,
+      "bottomRightX": 1092,
+      "bottomRightY": 164,
+      "content": "Продолжение таблицы 3",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 170,
+      "bottomRightX": 4055,
+      "bottomRightY": 2608,
+      "content": "|  Наименование обслуживаемого помещения | Место расположения помещения | Обслуживают |   | Место расположения |   | Приме- чание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |   |  кондиционер, его индекс, номер, поз. по схеме | вентилятор, его индекс, номер, поз. по схеме | кондиционера | вентиля- тора  |   |\n|  ПДРЦ | Палуба I яруса надстройки 38-43^{1}⁄_{2} шп. ЛБ | АКР45-П-О №19 | РССМ40/25 -1.1.1-1 №8СКВ (подпорный) 172 | Вентиляторная №9 |   |   |\n|  Рубка радиосвязи | Палуба I яруса надстройки 38-46 шп. ДП-ПрБ  |   |   |   |   |   |\n|  Амбулатория | ВП 60-65 шп. ПрБ | АКН15/10-П (для зак. 1005) АКН 15У-П (для зак. 1006) №20 | - | Вентиляторная №10 | - |   |\n|  Лазарет | ВП 55-58 шп. ПрБ  |   |   |   |   |   |\n|  Медкладовая | ВП 62-65 шп. ПрБ  |   |   |   |   |   |\n|  Санкладовая | ВП 58-60 шп. ПрБ  |   |   |   |   |   |\n|  Санузел лазарета | ВП 55-58 шп. ПрБ  |   |   |   |   |   |\n|  Вентиляторная №10 | ВП 60-62 шп. ПрБ  |   |   |   |   |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

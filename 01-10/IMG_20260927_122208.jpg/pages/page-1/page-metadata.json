@@ -1,0 +1,65 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2578,
+    "width": 4372
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 236,
+      "topLeftY": 10,
+      "bottomRightX": 3860,
+      "bottomRightY": 310,
+      "content": "по эксплуатации. Часть 24. Системы вентиляции и электроотопления спецпомещений 20385.360085.002ТО23.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 369,
+      "bottomRightX": 4228,
+      "bottomRightY": 723,
+      "content": "– Системы управления и сигнализации технических средств. Техническое описание и инструкция по эксплуатации. 20385.360086.020ТО.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 792,
+      "bottomRightX": 4280,
+      "bottomRightY": 1587,
+      "content": "В системе кондиционирования воздуха установлено 29 автономных блочных кондиционеров, две холодильные морские винтовые машины (одна в резерве), шесть электронасосов тепло/хладоносителя и 39 кондиционеров неавтономных местных (теплообменников).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 1641,
+      "bottomRightX": 4319,
+      "bottomRightY": 2250,
+      "content": "Номера кондиционеров №1, №2, №3, №4, №5, №6, №7, №8, №9, №10, №11, №12, №13, №14, №15, №16, №17, №18, №19, №20, №21, №22, №23, №24, №25, №26, №27, №1СККВ, №2СККВ.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 586,
+      "topLeftY": 2289,
+      "bottomRightX": 4127,
+      "bottomRightY": 2480,
+      "content": "К эксплуатации систем кондиционирования воздуха и аварийного",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 2871,
+      "topLeftY": 2501,
+      "bottomRightX": 3947,
+      "bottomRightY": 2578,
+      "content": "МУМВ-90",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

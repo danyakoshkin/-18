@@ -1,0 +1,838 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4624,
+    "width": 3472
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Формат",
+        "confidence": 0.9763079479241189,
+        "startIndex": 0
+      },
+      {
+        "text": " А4",
+        "confidence": 0.9859040857139277,
+        "startIndex": 6
+      },
+      {
+        "text": "Форма",
+        "confidence": 0.9946431815814935,
+        "startIndex": 11
+      },
+      {
+        "text": " 504",
+        "confidence": 0.957177508342876,
+        "startIndex": 16
+      },
+      {
+        "text": "-",
+        "confidence": 0.9523629397691292,
+        "startIndex": 22
+      },
+      {
+        "text": " от",
+        "confidence": 0.9893515603911881,
+        "startIndex": 23
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.9998518579998884,
+        "startIndex": 26
+      },
+      {
+        "text": " №13",
+        "confidence": 0.999956312548571,
+        "startIndex": 39
+      },
+      {
+        "text": " –",
+        "confidence": 0.7592953863604062,
+        "startIndex": 43
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9964293359905559,
+        "startIndex": 45
+      },
+      {
+        "text": " I",
+        "confidence": 0.9993000165462781,
+        "startIndex": 52
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9990794608223145,
+        "startIndex": 54
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9989652893063513,
+        "startIndex": 60
+      },
+      {
+        "text": " 86-87",
+        "confidence": 0.9999322356651908,
+        "startIndex": 71
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.6269333045200584,
+        "startIndex": 77
+      },
+      {
+        "text": " ЛБ;",
+        "confidence": 0.9914069887931329,
+        "startIndex": 81
+      },
+      {
+        "text": "-",
+        "confidence": 0.9998183580434946,
+        "startIndex": 87
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999940395710211,
+        "startIndex": 88
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.9999706582639343,
+        "startIndex": 91
+      },
+      {
+        "text": " №14",
+        "confidence": 0.9999933839464191,
+        "startIndex": 104
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999312209700014,
+        "startIndex": 108
+      },
+      {
+        "text": " верхняя",
+        "confidence": 0.9998850666594543,
+        "startIndex": 110
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9998778259102855,
+        "startIndex": 118
+      },
+      {
+        "text": " 96-97",
+        "confidence": 0.9999922912081377,
+        "startIndex": 125
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9998592635728467,
+        "startIndex": 131
+      },
+      {
+        "text": " ПрБ;",
+        "confidence": 0.996743432146077,
+        "startIndex": 135
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999984502816872,
+        "startIndex": 142
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999990463265931,
+        "startIndex": 143
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.9999817159534404,
+        "startIndex": 146
+      },
+      {
+        "text": " №15",
+        "confidence": 0.9999992251403871,
+        "startIndex": 159
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999948740268748,
+        "startIndex": 163
+      },
+      {
+        "text": " верхняя",
+        "confidence": 0.9999860080200208,
+        "startIndex": 165
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999144832618948,
+        "startIndex": 173
+      },
+      {
+        "text": " 109-110",
+        "confidence": 0.999998405578345,
+        "startIndex": 180
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999704072869317,
+        "startIndex": 188
+      },
+      {
+        "text": " ЛБ;",
+        "confidence": 0.999853370273807,
+        "startIndex": 192
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999963045256735,
+        "startIndex": 198
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999988079084972,
+        "startIndex": 199
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.999954339124229,
+        "startIndex": 202
+      },
+      {
+        "text": " №16",
+        "confidence": 0.9999985694912681,
+        "startIndex": 215
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999949932351057,
+        "startIndex": 219
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9998443723586503,
+        "startIndex": 221
+      },
+      {
+        "text": " I",
+        "confidence": 0.9997717663077113,
+        "startIndex": 228
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9997002654254618,
+        "startIndex": 230
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999912436179805,
+        "startIndex": 236
+      },
+      {
+        "text": " 28-29",
+        "confidence": 0.999984244980343,
+        "startIndex": 247
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999527659026756,
+        "startIndex": 253
+      },
+      {
+        "text": " ЛБ;",
+        "confidence": 0.9999469555033673,
+        "startIndex": 257
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999921322487634,
+        "startIndex": 263
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999992847447459,
+        "startIndex": 264
+      },
+      {
+        "text": " кондиционеров",
+        "confidence": 0.9999895097614936,
+        "startIndex": 267
+      },
+      {
+        "text": " №4,",
+        "confidence": 0.9999993145476194,
+        "startIndex": 281
+      },
+      {
+        "text": " №17,",
+        "confidence": 0.9999998569488855,
+        "startIndex": 285
+      },
+      {
+        "text": " №18,",
+        "confidence": 0.9999990940108102,
+        "startIndex": 290
+      },
+      {
+        "text": " №19",
+        "confidence": 0.9999998807907318,
+        "startIndex": 295
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999972581939645,
+        "startIndex": 299
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999626209073478,
+        "startIndex": 301
+      },
+      {
+        "text": " I",
+        "confidence": 0.9998668609494783,
+        "startIndex": 308
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9996990080225573,
+        "startIndex": 310
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999845247174026,
+        "startIndex": 316
+      },
+      {
+        "text": " 37-38",
+        "confidence": 0.9997467353365239,
+        "startIndex": 327
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999221930788497,
+        "startIndex": 333
+      },
+      {
+        "text": " ПрБ;",
+        "confidence": 0.9998762806612991,
+        "startIndex": 337
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999920130413283,
+        "startIndex": 344
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999995231630692,
+        "startIndex": 345
+      },
+      {
+        "text": " кондиционеров",
+        "confidence": 0.9999944823720889,
+        "startIndex": 348
+      },
+      {
+        "text": " №20",
+        "confidence": 0.9999998211860994,
+        "startIndex": 362
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999994039539004,
+        "startIndex": 366
+      },
+      {
+        "text": " №24",
+        "confidence": 0.9999991059313675,
+        "startIndex": 368
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999996423722521,
+        "startIndex": 372
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999622973878016,
+        "startIndex": 374
+      },
+      {
+        "text": " II",
+        "confidence": 0.9999430212054865,
+        "startIndex": 381
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999641197913964,
+        "startIndex": 384
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999843622014132,
+        "startIndex": 390
+      },
+      {
+        "text": " 60-61",
+        "confidence": 0.9999916753393988,
+        "startIndex": 401
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999714800745071,
+        "startIndex": 407
+      },
+      {
+        "text": " ПрБ;",
+        "confidence": 0.9999753720353078,
+        "startIndex": 411
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999966621509202,
+        "startIndex": 418
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999992847447459,
+        "startIndex": 419
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.9999888588280231,
+        "startIndex": 422
+      },
+      {
+        "text": " №21",
+        "confidence": 0.9999997615814813,
+        "startIndex": 435
+      },
+      {
+        "text": " –",
+        "confidence": 0.999998927117538,
+        "startIndex": 439
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999570698431589,
+        "startIndex": 441
+      },
+      {
+        "text": " I",
+        "confidence": 0.999926930045521,
+        "startIndex": 448
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999705965514971,
+        "startIndex": 450
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999923706682856,
+        "startIndex": 456
+      },
+      {
+        "text": " 66-67",
+        "confidence": 0.999998331073769,
+        "startIndex": 467
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999811951420291,
+        "startIndex": 473
+      },
+      {
+        "text": " ЛБ;",
+        "confidence": 0.9999758012090275,
+        "startIndex": 477
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999988079084972,
+        "startIndex": 483
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999994039539004,
+        "startIndex": 484
+      },
+      {
+        "text": " кондиционеров",
+        "confidence": 0.9999961683006512,
+        "startIndex": 487
+      },
+      {
+        "text": " №22,",
+        "confidence": 0.9999995470050311,
+        "startIndex": 501
+      },
+      {
+        "text": " №23",
+        "confidence": 0.9999994635586251,
+        "startIndex": 506
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999996423722521,
+        "startIndex": 510
+      },
+      {
+        "text": " №27",
+        "confidence": 0.9999994635585256,
+        "startIndex": 512
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999997615814777,
+        "startIndex": 516
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999733319076902,
+        "startIndex": 518
+      },
+      {
+        "text": " II",
+        "confidence": 0.9999946356109105,
+        "startIndex": 525
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999837084817478,
+        "startIndex": 528
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999904416812441,
+        "startIndex": 534
+      },
+      {
+        "text": " 52-63",
+        "confidence": 0.9999553198786449,
+        "startIndex": 545
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.999953332092818,
+        "startIndex": 551
+      },
+      {
+        "text": " ЛБ;",
+        "confidence": 0.9999766058348776,
+        "startIndex": 555
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999984502816872,
+        "startIndex": 561
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999994039539004,
+        "startIndex": 562
+      },
+      {
+        "text": " кондиционера",
+        "confidence": 0.9999834397539962,
+        "startIndex": 565
+      },
+      {
+        "text": " №25",
+        "confidence": 0.9999997019768809,
+        "startIndex": 578
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999986886995842,
+        "startIndex": 582
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999573080346907,
+        "startIndex": 584
+      },
+      {
+        "text": " III",
+        "confidence": 0.9998377824705392,
+        "startIndex": 591
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999807680408956,
+        "startIndex": 595
+      },
+      {
+        "text": " надстройки",
+        "confidence": 0.9999895313828381,
+        "startIndex": 601
+      },
+      {
+        "text": " 58-59",
+        "confidence": 0.9999999801317865,
+        "startIndex": 612
+      },
+      {
+        "text": " шт.",
+        "confidence": 0.9999841156521477,
+        "startIndex": 618
+      },
+      {
+        "text": " ПрБ;",
+        "confidence": 0.9999769693407881,
+        "startIndex": 622
+      },
+      {
+        "text": "От",
+        "confidence": 0.9999953508594287,
+        "startIndex": 629
+      },
+      {
+        "text": " засорения",
+        "confidence": 0.9995796340187013,
+        "startIndex": 631
+      },
+      {
+        "text": " трубопровода",
+        "confidence": 0.9997522800867608,
+        "startIndex": 641
+      },
+      {
+        "text": " между",
+        "confidence": 0.9999941587791524,
+        "startIndex": 654
+      },
+      {
+        "text": " гуськами",
+        "confidence": 0.9994689468719496,
+        "startIndex": 660
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999995231630692,
+        "startIndex": 669
+      },
+      {
+        "text": " стаканами",
+        "confidence": 0.9988351778643981,
+        "startIndex": 671
+      },
+      {
+        "text": " установлена",
+        "confidence": 0.9970795229205802,
+        "startIndex": 681
+      },
+      {
+        "text": " глухая",
+        "confidence": 0.9968308818543019,
+        "startIndex": 693
+      },
+      {
+        "text": " прокладка",
+        "confidence": 0.9999235223460283,
+        "startIndex": 700
+      },
+      {
+        "text": " из",
+        "confidence": 0.9998870023665102,
+        "startIndex": 710
+      },
+      {
+        "text": " пропарафиненной",
+        "confidence": 0.8130239209707317,
+        "startIndex": 713
+      },
+      {
+        "text": " кальки.",
+        "confidence": 0.9964755447695121,
+        "startIndex": 729
+      },
+      {
+        "text": "1.3.2.2",
+        "confidence": 0.9992311695393051,
+        "startIndex": 739
+      },
+      {
+        "text": " Трубопроводы",
+        "confidence": 0.9983319388132821,
+        "startIndex": 746
+      },
+      {
+        "text": " и",
+        "confidence": 0.999997854237364,
+        "startIndex": 759
+      },
+      {
+        "text": " арматура",
+        "confidence": 0.9999508485787778,
+        "startIndex": 761
+      },
+      {
+        "text": " системы",
+        "confidence": 0.9999986886995842,
+        "startIndex": 770
+      },
+      {
+        "text": " аварийного",
+        "confidence": 0.9999632751143605,
+        "startIndex": 778
+      },
+      {
+        "text": " выброса",
+        "confidence": 0.9993034754511357,
+        "startIndex": 789
+      },
+      {
+        "text": " хладона",
+        "confidence": 0.9960981892176175,
+        "startIndex": 797
+      },
+      {
+        "text": " –",
+        "confidence": 0.9992081241980351,
+        "startIndex": 805
+      },
+      {
+        "text": " стальные,",
+        "confidence": 0.9986792085274685,
+        "startIndex": 807
+      },
+      {
+        "text": " соединения",
+        "confidence": 0.9953898327919899,
+        "startIndex": 817
+      },
+      {
+        "text": " штуцерные.",
+        "confidence": 0.9910750038972785,
+        "startIndex": 828
+      }
+    ],
+    "averagePageConfidenceScore": 0.9928935395774038,
+    "minimumPageConfidenceScore": 0.6269333045200584
+  },
+  "blocks": [
+    {
+      "topLeftX": 174,
+      "topLeftY": 912,
+      "bottomRightX": 229,
+      "bottomRightY": 1227,
+      "content": "Формат А4",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 163,
+      "topLeftY": 1884,
+      "bottomRightX": 209,
+      "bottomRightY": 2185,
+      "content": "Форма 504",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 662,
+      "bottomRightX": 3107,
+      "bottomRightY": 889,
+      "content": "- от кондиционера №13 – палуба I яруса надстройки 86-87 шт. ЛБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 833,
+      "bottomRightX": 2749,
+      "bottomRightY": 1028,
+      "content": "- от кондиционера №14 – верхняя палуба 96-97 шт. ПрБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 1000,
+      "bottomRightX": 2777,
+      "bottomRightY": 1185,
+      "content": "- от кондиционера №15 – верхняя палуба 109-110 шт. ЛБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 1162,
+      "bottomRightX": 3097,
+      "bottomRightY": 1356,
+      "content": "- от кондиционера №16 – палуба I яруса надстройки 28-29 шт. ЛБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 1333,
+      "bottomRightX": 3201,
+      "bottomRightY": 1588,
+      "content": "- от кондиционеров №4, №17, №18, №19 – палуба I яруса надстройки 37-38 шт. ПрБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 1657,
+      "bottomRightX": 2881,
+      "bottomRightY": 1912,
+      "content": "- от кондиционеров №20 и №24 – палуба II яруса надстройки 60-61 шт. ПрБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 514,
+      "topLeftY": 1976,
+      "bottomRightX": 3069,
+      "bottomRightY": 2125,
+      "content": "- от кондиционера №21 – палуба I яруса надстройки 66-67 шт. ЛБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 2138,
+      "bottomRightX": 3211,
+      "bottomRightY": 2374,
+      "content": "- от кондиционеров №22, №23 и №27 – палуба II яруса надстройки 52-63 шт. ЛБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 514,
+      "topLeftY": 2444,
+      "bottomRightX": 3159,
+      "bottomRightY": 2574,
+      "content": "- от кондиционера №25 – палуба III яруса надстройки 58-59 шт. ПрБ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 330,
+      "topLeftY": 2587,
+      "bottomRightX": 3197,
+      "bottomRightY": 2870,
+      "content": "От засорения трубопровода между гуськами и стаканами установлена глухая прокладка из пропарафиненной кальки.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 323,
+      "topLeftY": 3046,
+      "bottomRightX": 2641,
+      "bottomRightY": 3328,
+      "content": "1.3.2.2 Трубопроводы и арматура системы аварийного выброса хладона – стальные, соединения штуцерные.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

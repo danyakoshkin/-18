@@ -1,0 +1,112 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2409,
+    "width": 4226
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 3541,
+      "topLeftY": 113,
+      "bottomRightX": 3752,
+      "bottomRightY": 2231,
+      "content": "Кондиционеры АКН и АКР имеют две модели исполнения П – правая и Л – левая.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3426,
+      "topLeftY": 304,
+      "bottomRightX": 3515,
+      "bottomRightY": 1828,
+      "content": "П – патрубок выхода воздуха из кондиционера справа.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3321,
+      "topLeftY": 304,
+      "bottomRightX": 3401,
+      "bottomRightY": 1794,
+      "content": "Л – патрубок выхода воздуха из кондиционера слева.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3092,
+      "topLeftY": 116,
+      "bottomRightX": 3283,
+      "bottomRightY": 2259,
+      "content": "Технические характеристики автономных кондиционеров приведены в таблице 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 2974,
+      "topLeftY": 121,
+      "bottomRightX": 3054,
+      "bottomRightY": 2040,
+      "content": "Таблица 1- Технические характеристики автономных кондиционеров",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 1679,
+      "topLeftY": 39,
+      "bottomRightX": 2953,
+      "bottomRightY": 2392,
+      "content": "|  Технические характеристики | Марка автономного кондиционера  |   |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  АКН 15/10 | АКН 15/16 | АКН 15/20 | АКН 15У* | АКН 30/10 | АКН 30/16 | АКН 30/20 | АКН 30У | АКР 45  |\n|  Расход воздуха, м³/ч | 1500 |   |   | 800/1200/1500 | 3000 |   |   | 2000/2500/3000 | 4500  |\n|  Холодо-производительность, кВт | 14,0 |   |   | 4-14 | 28,0 |   |   | 8-28 | 40,0  |\n|  Тепло-производительность, кВт | 15,0 |   |   | 1,5-15 | 24,0 |   |   | 2,5-25 | 44,0  |\n|  Избыточное давление, Па | 1000 | 1600 | 2000 | 50-1600 | 1000 | 1600 | 2000 | 50-1600 | -  |\n|  Расход охлаждающей забортной воды, л/с (м³/ч) | 1,1 (4,0) |   |   |   | 1,4 (5,0) |   |   |   | 2,22 (8,0)  |\n|  Примечание - * С зак. 1006.  |   |   |   |   |   |   |   |   |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 1375,
+      "topLeftY": 140,
+      "bottomRightX": 1574,
+      "bottomRightY": 2132,
+      "content": "Питание автономных кондиционеров – от сети переменного тока частотой 50 Гц, напряжением 380 В.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 1265,
+      "topLeftY": 333,
+      "bottomRightX": 1354,
+      "bottomRightY": 1799,
+      "content": "Кондиционеры установлены на фундаментах жестко.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 1041,
+      "topLeftY": 140,
+      "bottomRightX": 1248,
+      "bottomRightY": 2117,
+      "content": "Кондиционеры №19 и №25 имеют подпорные вентиляторы типа РССМ.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 698,
+      "topLeftY": 140,
+      "bottomRightX": 1041,
+      "bottomRightY": 2175,
+      "content": "Кондиционеры №1, №2, №4, №5, №9, №10, №14, №18, №19, №21, №22, №23, №24, №25, №27 имеют дистанционное управление с пульта дистанционного управления (ПДУ), поставляемого с кондиционерами.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 0,
+      "bottomRightX": 305,
+      "bottomRightY": 2409,
+      "content": "|  а5 | зам. | 20385.33.08454 | 10.04 | 5.12.2013 | 20385.360085.002TO18 | Лист  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  Изм | Лист | № докум. | Подп. | Дата |   | 17  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2608,
+    "width": 4624
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999831702587936,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999994039539004,
+        "startIndex": 11
+      },
+      {
+        "text": " 3",
+        "confidence": 0.9999945164040865,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9976568569207274,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9976568569207274,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9976568569207274,
+        "startIndex": 54
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999921344480641,
+        "startIndex": 66
+      },
+      {
+        "text": "расположения",
+        "confidence": 0.9999921344480641,
+        "startIndex": 72
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9999921344480641,
+        "startIndex": 85
+      },
+      {
+        "text": "Обслуживают",
+        "confidence": 0.999984529629836,
+        "startIndex": 97
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999641678375208,
+        "startIndex": 115
+      },
+      {
+        "text": " расположения",
+        "confidence": 0.9999884028015618,
+        "startIndex": 120
+      },
+      {
+        "text": "Приме-",
+        "confidence": 0.9986808870691469,
+        "startIndex": 140
+      },
+      {
+        "text": "чание",
+        "confidence": 0.9986808870691469,
+        "startIndex": 147
+      },
+      {
+        "text": "кондиционер,",
+        "confidence": 0.9986808870691469,
+        "startIndex": 211
+      },
+      {
+        "text": "его",
+        "confidence": 0.9986808870691469,
+        "startIndex": 224
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999836122516093,
+        "startIndex": 227
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999836122516093,
+        "startIndex": 236
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.999923807302252,
+        "startIndex": 242
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999731250867658,
+        "startIndex": 247
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999731250867658,
+        "startIndex": 251
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999731250867658,
+        "startIndex": 259
+      },
+      {
+        "text": "его",
+        "confidence": 0.9999731250867658,
+        "startIndex": 271
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999988079107387,
+        "startIndex": 274
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999988079107387,
+        "startIndex": 283
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999966820253229,
+        "startIndex": 289
+      },
+      {
+        "text": "по",
+        "confidence": 0.9999966820253229,
+        "startIndex": 295
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.9996677426713219,
+        "startIndex": 297
+      },
+      {
+        "text": "кондиционера",
+        "confidence": 0.9996677426713219,
+        "startIndex": 306
+      },
+      {
+        "text": "вентиля-",
+        "confidence": 0.9996677426713219,
+        "startIndex": 321
+      },
+      {
+        "text": "тора",
+        "confidence": 0.9996677426713219,
+        "startIndex": 330
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9996677426713219,
+        "startIndex": 345
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.999995258141932,
+        "startIndex": 350
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999840518909747,
+        "startIndex": 359
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999840518909747,
+        "startIndex": 365
+      },
+      {
+        "text": "41-44",
+        "confidence": 0.9999840518909747,
+        "startIndex": 368
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9875927909026133,
+        "startIndex": 373
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9965285548235112,
+        "startIndex": 377
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9965285548235112,
+        "startIndex": 384
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.9965285548235112,
+        "startIndex": 395
+      },
+      {
+        "text": "175",
+        "confidence": 0.9965285548235112,
+        "startIndex": 399
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.8902903689435164,
+        "startIndex": 408
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.8902903689435164,
+        "startIndex": 414
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999996423724492,
+        "startIndex": 422
+      },
+      {
+        "text": "*",
+        "confidence": 0.9971686542524584,
+        "startIndex": 431
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9971686542524584,
+        "startIndex": 439
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999997350905785,
+        "startIndex": 444
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999997814498699,
+        "startIndex": 453
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999997814498699,
+        "startIndex": 459
+      },
+      {
+        "text": "41-44",
+        "confidence": 0.9999997814498699,
+        "startIndex": 462
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.999852570399904,
+        "startIndex": 467
+      },
+      {
+        "text": " ЛБ",
+        "confidence": 0.9999327276075366,
+        "startIndex": 471
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999327276075366,
+        "startIndex": 477
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.9999327276075366,
+        "startIndex": 488
+      },
+      {
+        "text": "151",
+        "confidence": 0.9999327276075366,
+        "startIndex": 492
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999327276075366,
+        "startIndex": 502
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.9999327276075366,
+        "startIndex": 508
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999811912560764,
+        "startIndex": 516
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999811912560764,
+        "startIndex": 526
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999811912560764,
+        "startIndex": 534
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999997880724472,
+        "startIndex": 539
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9999984254567366,
+        "startIndex": 548
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999984254567366,
+        "startIndex": 554
+      },
+      {
+        "text": "44-47",
+        "confidence": 0.9999984254567366,
+        "startIndex": 557
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999536605372367,
+        "startIndex": 562
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.999913598628942,
+        "startIndex": 566
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.999913598628942,
+        "startIndex": 573
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.999913598628942,
+        "startIndex": 584
+      },
+      {
+        "text": "176",
+        "confidence": 0.999913598628942,
+        "startIndex": 588
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.999913598628942,
+        "startIndex": 598
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.999913598628942,
+        "startIndex": 604
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9999710960899675,
+        "startIndex": 612
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999710960899675,
+        "startIndex": 622
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999710960899675,
+        "startIndex": 630
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999998410543185,
+        "startIndex": 635
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9999997019771664,
+        "startIndex": 644
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999997019771664,
+        "startIndex": 650
+      },
+      {
+        "text": "44-47",
+        "confidence": 0.9999997019771664,
+        "startIndex": 653
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999789900093857,
+        "startIndex": 658
+      },
+      {
+        "text": " ЛБ",
+        "confidence": 0.9999343265642389,
+        "startIndex": 662
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999343265642389,
+        "startIndex": 668
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.9999343265642389,
+        "startIndex": 679
+      },
+      {
+        "text": "150",
+        "confidence": 0.9999343265642389,
+        "startIndex": 683
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999343265642389,
+        "startIndex": 693
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.9999343265642389,
+        "startIndex": 699
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9999526551528389,
+        "startIndex": 707
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999526551528389,
+        "startIndex": 717
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999526551528389,
+        "startIndex": 725
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999998410543185,
+        "startIndex": 730
+      },
+      {
+        "text": " №5",
+        "confidence": 0.999999095998577,
+        "startIndex": 739
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.999999095998577,
+        "startIndex": 745
+      },
+      {
+        "text": "47-50",
+        "confidence": 0.999999095998577,
+        "startIndex": 748
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999608718083155,
+        "startIndex": 753
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999212446974286,
+        "startIndex": 757
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999212446974286,
+        "startIndex": 764
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.9999212446974286,
+        "startIndex": 775
+      },
+      {
+        "text": "177",
+        "confidence": 0.9999212446974286,
+        "startIndex": 779
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999212446974286,
+        "startIndex": 789
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.9999212446974286,
+        "startIndex": 795
+      },
+      {
+        "text": " №5",
+        "confidence": 0.9999299674364688,
+        "startIndex": 803
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999299674364688,
+        "startIndex": 813
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999299674364688,
+        "startIndex": 821
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999997880724472,
+        "startIndex": 826
+      },
+      {
+        "text": " №6",
+        "confidence": 0.9999995579328713,
+        "startIndex": 835
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.9999995579328713,
+        "startIndex": 841
+      },
+      {
+        "text": "44-47",
+        "confidence": 0.9999995579328713,
+        "startIndex": 844
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.999974549685674,
+        "startIndex": 849
+      },
+      {
+        "text": " ДП",
+        "confidence": 0.9999557082497813,
+        "startIndex": 853
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999557082497813,
+        "startIndex": 859
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.9999557082497813,
+        "startIndex": 870
+      },
+      {
+        "text": "149",
+        "confidence": 0.9999557082497813,
+        "startIndex": 874
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999557082497813,
+        "startIndex": 884
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.9999557082497813,
+        "startIndex": 890
+      },
+      {
+        "text": " №6",
+        "confidence": 0.9999834122901556,
+        "startIndex": 898
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999834122901556,
+        "startIndex": 908
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999834122901556,
+        "startIndex": 916
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.999984900518101,
+        "startIndex": 921
+      },
+      {
+        "text": " №7",
+        "confidence": 0.999999071162871,
+        "startIndex": 930
+      },
+      {
+        "text": "ВП",
+        "confidence": 0.999999071162871,
+        "startIndex": 936
+      },
+      {
+        "text": "50-53",
+        "confidence": 0.999999071162871,
+        "startIndex": 939
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999827746953501,
+        "startIndex": 944
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.999966516520189,
+        "startIndex": 948
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.999966516520189,
+        "startIndex": 955
+      },
+      {
+        "text": "1,7",
+        "confidence": 0.999966516520189,
+        "startIndex": 966
+      },
+      {
+        "text": "178",
+        "confidence": 0.999966516520189,
+        "startIndex": 970
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.999966516520189,
+        "startIndex": 980
+      },
+      {
+        "text": "офицеров",
+        "confidence": 0.999966516520189,
+        "startIndex": 986
+      },
+      {
+        "text": " №7",
+        "confidence": 0.999972234705737,
+        "startIndex": 994
+      },
+      {
+        "text": "*",
+        "confidence": 0.999972234705737,
+        "startIndex": 1004
+      }
+    ],
+    "averagePageConfidenceScore": 0.9979154142174799,
+    "minimumPageConfidenceScore": 0.8902903689435164
+  },
+  "blocks": [
+    {
+      "topLeftX": 352,
+      "topLeftY": 63,
+      "bottomRightX": 1171,
+      "bottomRightY": 138,
+      "content": "Продолжение таблицы 3",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 141,
+      "bottomRightX": 4069,
+      "bottomRightY": 2608,
+      "content": "|  Наименование обслуживаемого помещения | Место расположения помещения | Обслуживают |   | Место расположения |   | Приме- чание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |   |  кондиционер, его индекс, номер, поз. по схеме | вентилятор, его индекс, номер, поз. по схеме | кондиционера | вентиля- тора  |   |\n|  Каюта офицеров №1 | ВП 41-44 шп. ПрБ | КНМ-II-Пр- 1,7 175 |  | Каюта офицеров №1 |  | *  |\n|  Каюта офицеров №2 | ВП 41-44 шп. ЛБ | КНМ-II-Пр- 1,7 151 |   | Каюта офицеров №2 |   | *  |\n|  Каюта офицеров №3 | ВП 44-47 шп. ПрБ | КНМ-II-Пр- 1,7 176 |   | Каюта офицеров №3 |   | *  |\n|  Каюта офицеров №4 | ВП 44-47 шп. ЛБ | КНМ-II-Пр- 1,7 150 |   | Каюта офицеров №4 |   | *  |\n|  Каюта офицеров №5 | ВП 47-50 шп. ПрБ | КНМ-II-Пр- 1,7 177 |   | Каюта офицеров №5 |   | *  |\n|  Каюта офицеров №6 | ВП 44-47 шп. ДП | КНМ-II-Пр- 1,7 149 |   | Каюта офицеров №6 |   | *  |\n|  Каюта офицеров №7 | ВП 50-53 шп. ПрБ | КНМ-II-Пр- 1,7 178 |   | Каюта офицеров №7 |   | *  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4607,
+    "width": 3211
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 170,
+      "topLeftY": 300,
+      "bottomRightX": 2710,
+      "bottomRightY": 595,
+      "content": "Наружный воздух поступает в кондиционер №10 через жалюзи, захлопку с пневмоприводом 161 и воздуховод.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 604,
+      "bottomRightX": 2809,
+      "bottomRightY": 1010,
+      "content": "Стравливание воздуха производится из поста гидроакустики через герметичную головку 14, захлопку с пневмоприводом 153, воздуховод и жалюзи.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 1051,
+      "bottomRightX": 2928,
+      "bottomRightY": 2071,
+      "content": "Предусмотрена возможность подачи охлажденного воздуха от кондиционера №10 в помещение запаса ПК-10 №2 через захлопку с пневмоприводом 75 и пламепрерывающую сетку и в помещение запаса стрелкового оружия через захлопку с пневмоприводом 64 и пламепрерывающую сетку. Удаление воздуха из помещения запаса ПК-10 №2 и помещения запаса стрелкового оружия через систему вентиляции (см. 20385.360085.002ТО23).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 2112,
+      "bottomRightX": 2890,
+      "bottomRightY": 2518,
+      "content": "Управление кондиционером №10 дистанционное с ПДУ, расположенного в посту гидроакустики, и местное с пульта управления на кондиционере №10.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 2564,
+      "bottomRightX": 2912,
+      "bottomRightY": 3288,
+      "content": "1.1.2.20 Обработанный в кондиционере №11 воздух по воздуховодам подается через сетки в вентиляторную №3, варочный цех, раздаточную и разделочный цех, через приточный диффузор в посудомоечную. В кладовую культинвентаря воздух поступает через сетки перетоком из тамбура №9.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 370,
+      "topLeftY": 3330,
+      "bottomRightX": 1646,
+      "bottomRightY": 3436,
+      "content": "Возврат воздуха осуществляется:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 3468,
+      "bottomRightX": 2906,
+      "bottomRightY": 4349,
+      "content": "1) H3 IocydomoeHNoI Yepe3 ceTKn B pa3daToHyIO;\n2) H3 pa3JeIOuHOrO Iexa H pa3JaToUHOJ Yepe3 ceTKn B BapOuHbI Iex;\n3) H3 BapouHoro Iexa Ype3 ceTKn H BO3IyXOBOД BO3IyX 3a6HpaetcKOHnHOpom N11 Ype3 NaTpy6ok IIpHema HapyKHO BO3Iyxa.\nHapyKhbI BO3IyX IocTyIaET B KOHIIHIOHeP N11 Yepe3 rpn6OBHHyIO TOIOBky C IIHeBMOIIpHBOJOM 222 H BO3IyXOBOJI.",
+      "confidenceScores": null,
+      "type": "list"
+    }
+  ]
+}

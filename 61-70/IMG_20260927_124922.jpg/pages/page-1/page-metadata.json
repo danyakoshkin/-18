@@ -1,0 +1,1133 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4598,
+    "width": 3315
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "–",
+        "confidence": 0.9947190507375723,
+        "startIndex": 0
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9924075908889919,
+        "startIndex": 1
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999877215940446,
+        "startIndex": 12
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.989081254648997,
+        "startIndex": 15
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999834301824576,
+        "startIndex": 23
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999138191081796,
+        "startIndex": 34
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.999871755517739,
+        "startIndex": 37
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999907017622996,
+        "startIndex": 51
+      },
+      {
+        "text": " модуле",
+        "confidence": 0.979946921738609,
+        "startIndex": 54
+      },
+      {
+        "text": " автоматики",
+        "confidence": 0.9997112309363008,
+        "startIndex": 61
+      },
+      {
+        "text": " УСТАВКА",
+        "confidence": 0.9993762955354825,
+        "startIndex": 72
+      },
+      {
+        "text": " переключателем",
+        "confidence": 0.9999536537813551,
+        "startIndex": 80
+      },
+      {
+        "text": " кнопочным",
+        "confidence": 0.9996661358735897,
+        "startIndex": 95
+      },
+      {
+        "text": " ▲",
+        "confidence": 0.9986586704932948,
+        "startIndex": 105
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999961853172863,
+        "startIndex": 107
+      },
+      {
+        "text": " ▼",
+        "confidence": 0.9995679338777427,
+        "startIndex": 109
+      },
+      {
+        "text": " ЗАДАНИЕ",
+        "confidence": 0.9996605745986789,
+        "startIndex": 111
+      },
+      {
+        "text": " ТЕМПЕРАТУРЫ:",
+        "confidence": 0.9997968701697721,
+        "startIndex": 119
+      },
+      {
+        "text": "а)",
+        "confidence": 0.9981790567645829,
+        "startIndex": 134
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999992847447459,
+        "startIndex": 136
+      },
+      {
+        "text": " кондиционере",
+        "confidence": 0.9983608449669293,
+        "startIndex": 139
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9998067541249617,
+        "startIndex": 152
+      },
+      {
+        "text": " –",
+        "confidence": 0.9997708130697388,
+        "startIndex": 155
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.9999466867935783,
+        "startIndex": 157
+      },
+      {
+        "text": " 22",
+        "confidence": 0.9999468354828919,
+        "startIndex": 169
+      },
+      {
+        "text": " °С;",
+        "confidence": 0.9728359684276116,
+        "startIndex": 172
+      },
+      {
+        "text": "б)",
+        "confidence": 0.9999782450142374,
+        "startIndex": 178
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999997615814777,
+        "startIndex": 180
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999929326856666,
+        "startIndex": 183
+      },
+      {
+        "text": " №3,",
+        "confidence": 0.9999951720809059,
+        "startIndex": 197
+      },
+      {
+        "text": " №4,",
+        "confidence": 0.999999761581492,
+        "startIndex": 201
+      },
+      {
+        "text": " №6,",
+        "confidence": 0.9999962151381684,
+        "startIndex": 205
+      },
+      {
+        "text": " №10,",
+        "confidence": 0.9999995708468344,
+        "startIndex": 209
+      },
+      {
+        "text": " №20,",
+        "confidence": 0.9999972581990164,
+        "startIndex": 214
+      },
+      {
+        "text": " №21,",
+        "confidence": 0.9999993324284742,
+        "startIndex": 219
+      },
+      {
+        "text": " №26",
+        "confidence": 0.9999933243404936,
+        "startIndex": 224
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999650728993075,
+        "startIndex": 228
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.9999649240763384,
+        "startIndex": 230
+      },
+      {
+        "text": " 25",
+        "confidence": 0.9999627686963715,
+        "startIndex": 242
+      },
+      {
+        "text": " °С;",
+        "confidence": 0.9999160595660163,
+        "startIndex": 245
+      },
+      {
+        "text": "в)",
+        "confidence": 0.9999982118654387,
+        "startIndex": 251
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999998807907247,
+        "startIndex": 253
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999943206189396,
+        "startIndex": 256
+      },
+      {
+        "text": " №2,",
+        "confidence": 0.999999880790746,
+        "startIndex": 270
+      },
+      {
+        "text": " №5,",
+        "confidence": 0.9999998509884169,
+        "startIndex": 274
+      },
+      {
+        "text": " №9,",
+        "confidence": 0.9999993741516815,
+        "startIndex": 278
+      },
+      {
+        "text": " №12,",
+        "confidence": 0.999999737739667,
+        "startIndex": 282
+      },
+      {
+        "text": " №13,",
+        "confidence": 0.9999998092651805,
+        "startIndex": 287
+      },
+      {
+        "text": " №14,",
+        "confidence": 0.9999992609030887,
+        "startIndex": 292
+      },
+      {
+        "text": " №18,",
+        "confidence": 0.9999994039539359,
+        "startIndex": 297
+      },
+      {
+        "text": " №19,",
+        "confidence": 0.9999995708467634,
+        "startIndex": 302
+      },
+      {
+        "text": " №22,",
+        "confidence": 0.9999984264406169,
+        "startIndex": 307
+      },
+      {
+        "text": " №23,",
+        "confidence": 0.9999995470049885,
+        "startIndex": 312
+      },
+      {
+        "text": " №24,",
+        "confidence": 0.9999996185304372,
+        "startIndex": 317
+      },
+      {
+        "text": " №25,",
+        "confidence": 0.999999141694143,
+        "startIndex": 322
+      },
+      {
+        "text": " №27",
+        "confidence": 0.9999988079086961,
+        "startIndex": 327
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999995231630692,
+        "startIndex": 331
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.99997839385141,
+        "startIndex": 333
+      },
+      {
+        "text": " 27",
+        "confidence": 0.999995629016518,
+        "startIndex": 345
+      },
+      {
+        "text": " °С;",
+        "confidence": 0.9999769637004138,
+        "startIndex": 348
+      },
+      {
+        "text": "г)",
+        "confidence": 0.999984443550642,
+        "startIndex": 354
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999998807907247,
+        "startIndex": 356
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999943631852188,
+        "startIndex": 359
+      },
+      {
+        "text": " №7,",
+        "confidence": 0.9999996125700599,
+        "startIndex": 373
+      },
+      {
+        "text": " №8,",
+        "confidence": 0.9999981224608523,
+        "startIndex": 377
+      },
+      {
+        "text": " №11",
+        "confidence": 0.9999979138434885,
+        "startIndex": 381
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999969005680498,
+        "startIndex": 385
+      },
+      {
+        "text": " №15",
+        "confidence": 0.9999976754247388,
+        "startIndex": 387
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999994039539004,
+        "startIndex": 391
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.9999725827177149,
+        "startIndex": 393
+      },
+      {
+        "text": " 28",
+        "confidence": 0.9999754436389743,
+        "startIndex": 405
+      },
+      {
+        "text": " °С;",
+        "confidence": 0.9999708848196484,
+        "startIndex": 408
+      },
+      {
+        "text": "д)",
+        "confidence": 0.9993861609836003,
+        "startIndex": 414
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999998807907247,
+        "startIndex": 416
+      },
+      {
+        "text": " кондиционерах",
+        "confidence": 0.9999969516688579,
+        "startIndex": 419
+      },
+      {
+        "text": " №16,",
+        "confidence": 0.9999989986434781,
+        "startIndex": 433
+      },
+      {
+        "text": " №17",
+        "confidence": 0.9999994039539715,
+        "startIndex": 438
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999996423722521,
+        "startIndex": 442
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.9999863805464655,
+        "startIndex": 444
+      },
+      {
+        "text": " 18",
+        "confidence": 0.9999773508771064,
+        "startIndex": 456
+      },
+      {
+        "text": " °С;",
+        "confidence": 0.9999898375629882,
+        "startIndex": 459
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999862911193472,
+        "startIndex": 465
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9988279981922951,
+        "startIndex": 466
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999963045256735,
+        "startIndex": 477
+      },
+      {
+        "text": " пультах",
+        "confidence": 0.9993941556890068,
+        "startIndex": 480
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999872447683118,
+        "startIndex": 488
+      },
+      {
+        "text": " кондиционеров",
+        "confidence": 0.9999522784183089,
+        "startIndex": 499
+      },
+      {
+        "text": " КНМ",
+        "confidence": 0.9994083965171121,
+        "startIndex": 513
+      },
+      {
+        "text": " температуру",
+        "confidence": 0.9999166806152814,
+        "startIndex": 517
+      },
+      {
+        "text": " 25",
+        "confidence": 0.9999859335483235,
+        "startIndex": 529
+      },
+      {
+        "text": " °С",
+        "confidence": 0.9999351964889955,
+        "startIndex": 532
+      },
+      {
+        "text": " (для",
+        "confidence": 0.9999288388077265,
+        "startIndex": 535
+      },
+      {
+        "text": " повышения",
+        "confidence": 0.9999883176260755,
+        "startIndex": 540
+      },
+      {
+        "text": " эффективности",
+        "confidence": 0.9999970197767496,
+        "startIndex": 550
+      },
+      {
+        "text": " охлаждения",
+        "confidence": 0.9998151543092479,
+        "startIndex": 564
+      },
+      {
+        "text": " обслуживаемых",
+        "confidence": 0.9999864274871896,
+        "startIndex": 575
+      },
+      {
+        "text": " помещений",
+        "confidence": 0.9998575651864731,
+        "startIndex": 589
+      },
+      {
+        "text": " закрыть",
+        "confidence": 0.99521959922478,
+        "startIndex": 599
+      },
+      {
+        "text": " приточную",
+        "confidence": 0.9985182668315284,
+        "startIndex": 607
+      },
+      {
+        "text": " и",
+        "confidence": 1,
+        "startIndex": 617
+      },
+      {
+        "text": " вытяжную",
+        "confidence": 0.9999909534408093,
+        "startIndex": 619
+      },
+      {
+        "text": " вентиляционную",
+        "confidence": 0.9999516442787214,
+        "startIndex": 628
+      },
+      {
+        "text": " арматуру).",
+        "confidence": 0.9998847942846519,
+        "startIndex": 643
+      },
+      {
+        "text": "#",
+        "confidence": 0.9996199860349345,
+        "startIndex": 656
+      },
+      {
+        "text": " Примечания:",
+        "confidence": 0.9998679288783694,
+        "startIndex": 657
+      },
+      {
+        "text": "1",
+        "confidence": 0.9999811652878874,
+        "startIndex": 671
+      },
+      {
+        "text": " Указанные",
+        "confidence": 0.9999114402709379,
+        "startIndex": 672
+      },
+      {
+        "text": " уставки",
+        "confidence": 0.999914982938031,
+        "startIndex": 682
+      },
+      {
+        "text": " температуры",
+        "confidence": 0.9999970197767496,
+        "startIndex": 690
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999400413221109,
+        "startIndex": 702
+      },
+      {
+        "text": " даны",
+        "confidence": 0.9924313892913798,
+        "startIndex": 710
+      },
+      {
+        "text": " при",
+        "confidence": 0.9999982118638471,
+        "startIndex": 715
+      },
+      {
+        "text": " температуре",
+        "confidence": 0.9998661483911686,
+        "startIndex": 719
+      },
+      {
+        "text": " наружного",
+        "confidence": 0.9999962568425897,
+        "startIndex": 731
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999928474936721,
+        "startIndex": 741
+      },
+      {
+        "text": " 34",
+        "confidence": 0.9999914964879156,
+        "startIndex": 749
+      },
+      {
+        "text": " °С",
+        "confidence": 0.9998759997449989,
+        "startIndex": 752
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999988079084972,
+        "startIndex": 755
+      },
+      {
+        "text": " при",
+        "confidence": 0.9999961853172863,
+        "startIndex": 757
+      },
+      {
+        "text": " других",
+        "confidence": 0.9999716289935482,
+        "startIndex": 761
+      },
+      {
+        "text": " температурах",
+        "confidence": 0.9996227914894272,
+        "startIndex": 768
+      },
+      {
+        "text": " наружного",
+        "confidence": 0.9999991655360532,
+        "startIndex": 781
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999982118638471,
+        "startIndex": 791
+      },
+      {
+        "text": " могут",
+        "confidence": 0.9999992847447459,
+        "startIndex": 799
+      },
+      {
+        "text": " быть",
+        "confidence": 0.9999969005680498,
+        "startIndex": 805
+      },
+      {
+        "text": " изменены",
+        "confidence": 0.999560939152216,
+        "startIndex": 810
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999911785905904,
+        "startIndex": 819
+      },
+      {
+        "text": " пределах",
+        "confidence": 0.9999817613105537,
+        "startIndex": 821
+      },
+      {
+        "text": " от",
+        "confidence": 0.9999862911193472,
+        "startIndex": 830
+      },
+      {
+        "text": " 18",
+        "confidence": 0.9999950727130276,
+        "startIndex": 833
+      },
+      {
+        "text": " °С",
+        "confidence": 0.9999442154150465,
+        "startIndex": 836
+      },
+      {
+        "text": " до",
+        "confidence": 0.9999939203633587,
+        "startIndex": 839
+      },
+      {
+        "text": " 28",
+        "confidence": 0.9999976158212954,
+        "startIndex": 842
+      },
+      {
+        "text": " °С.",
+        "confidence": 0.9999918044547264,
+        "startIndex": 845
+      },
+      {
+        "text": "2",
+        "confidence": 1,
+        "startIndex": 851
+      },
+      {
+        "text": " Температура",
+        "confidence": 0.9999721853680469,
+        "startIndex": 852
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999997615814777,
+        "startIndex": 864
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999920130413283,
+        "startIndex": 872
+      },
+      {
+        "text": " помещениях",
+        "confidence": 0.9998604437820565,
+        "startIndex": 874
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999982118638471,
+        "startIndex": 885
+      },
+      {
+        "text": " постоянным",
+        "confidence": 0.9999718675059293,
+        "startIndex": 887
+      },
+      {
+        "text": " пребыванием",
+        "confidence": 0.9997246906251374,
+        "startIndex": 898
+      },
+      {
+        "text": " личного",
+        "confidence": 0.9999170979486218,
+        "startIndex": 910
+      },
+      {
+        "text": " состава",
+        "confidence": 0.9999884368330701,
+        "startIndex": 918
+      },
+      {
+        "text": " должна",
+        "confidence": 0.9999990463265931,
+        "startIndex": 926
+      },
+      {
+        "text": " быть",
+        "confidence": 0.9999994039539004,
+        "startIndex": 933
+      },
+      {
+        "text": " не",
+        "confidence": 0.9999823573372132,
+        "startIndex": 938
+      },
+      {
+        "text": " более",
+        "confidence": 0.9999992847447459,
+        "startIndex": 941
+      },
+      {
+        "text": " чем",
+        "confidence": 0.9999811652878874,
+        "startIndex": 947
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999986886995842,
+        "startIndex": 951
+      },
+      {
+        "text": " 10",
+        "confidence": 0.9999874037499139,
+        "startIndex": 954
+      },
+      {
+        "text": " °С",
+        "confidence": 0.9998690090426082,
+        "startIndex": 957
+      },
+      {
+        "text": " ниже",
+        "confidence": 0.9999961853172863,
+        "startIndex": 960
+      },
+      {
+        "text": " температуры",
+        "confidence": 0.9999883176260755,
+        "startIndex": 965
+      },
+      {
+        "text": " наружного",
+        "confidence": 0.9999998092651748,
+        "startIndex": 977
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999995231630692,
+        "startIndex": 987
+      },
+      {
+        "text": " (в",
+        "confidence": 0.9999972184652992,
+        "startIndex": 995
+      },
+      {
+        "text": " летний",
+        "confidence": 0.9998970336882348,
+        "startIndex": 998
+      },
+      {
+        "text": " период).",
+        "confidence": 0.9999861056946319,
+        "startIndex": 1005
+      },
+      {
+        "text": "#",
+        "confidence": 0.9924227367154145,
+        "startIndex": 1016
+      },
+      {
+        "text": " 2.1.3.3",
+        "confidence": 0.9999721669043423,
+        "startIndex": 1017
+      },
+      {
+        "text": " В",
+        "confidence": 0.9999767547297425,
+        "startIndex": 1025
+      },
+      {
+        "text": " зимний",
+        "confidence": 0.9999987908787002,
+        "startIndex": 1027
+      },
+      {
+        "text": " период:",
+        "confidence": 0.9999991357333937,
+        "startIndex": 1034
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999763971175267,
+        "startIndex": 1044
+      },
+      {
+        "text": " ввести",
+        "confidence": 0.99832963562916,
+        "startIndex": 1045
+      },
+      {
+        "text": " в",
+        "confidence": 0.999979258013377,
+        "startIndex": 1052
+      },
+      {
+        "text": " действие",
+        "confidence": 0.9999939203633587,
+        "startIndex": 1054
+      },
+      {
+        "text": " проточный",
+        "confidence": 0.9983361052895621,
+        "startIndex": 1063
+      },
+      {
+        "text": " нагреватель",
+        "confidence": 0.999932235095431,
+        "startIndex": 1073
+      },
+      {
+        "text": " 230",
+        "confidence": 0.9999186462907488,
+        "startIndex": 1085
+      },
+      {
+        "text": " в",
+        "confidence": 0.999029863205609,
+        "startIndex": 1089
+      },
+      {
+        "text": " соответствии",
+        "confidence": 0.9998977288910255,
+        "startIndex": 1091
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999849798550975,
+        "startIndex": 1104
+      },
+      {
+        "text": " УШИД.701525.009",
+        "confidence": 0.9988577095189104,
+        "startIndex": 1106
+      },
+      {
+        "text": " РЭ",
+        "confidence": 0.9995907152233,
+        "startIndex": 1122
+      },
+      {
+        "text": " (для",
+        "confidence": 0.9998066922841902,
+        "startIndex": 1125
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9959723076577478,
+        "startIndex": 1130
+      },
+      {
+        "text": " 1005),",
+        "confidence": 0.9999983140445223,
+        "startIndex": 1135
+      },
+      {
+        "text": " УШИД.701525.015",
+        "confidence": 0.9999889807690748,
+        "startIndex": 1142
+      },
+      {
+        "text": " РЭ",
+        "confidence": 0.999736395665027,
+        "startIndex": 1158
+      },
+      {
+        "text": " (для",
+        "confidence": 0.9999855520874538,
+        "startIndex": 1161
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999475271646145,
+        "startIndex": 1166
+      },
+      {
+        "text": " 1006);",
+        "confidence": 0.999991502225448,
+        "startIndex": 1171
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999946356109105,
+        "startIndex": 1180
+      },
+      {
+        "text": " установить",
+        "confidence": 0.9998593528253739,
+        "startIndex": 1181
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999977350285647,
+        "startIndex": 1192
+      },
+      {
+        "text": " щитах",
+        "confidence": 0.9884848142566851,
+        "startIndex": 1195
+      },
+      {
+        "text": " управления",
+        "confidence": 0.9999976158197796,
+        "startIndex": 1201
+      },
+      {
+        "text": " нагревателей",
+        "confidence": 0.9999222477353958,
+        "startIndex": 1212
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999979734461775,
+        "startIndex": 1225
+      },
+      {
+        "text": " 20,",
+        "confidence": 0.9999845626890773,
+        "startIndex": 1233
+      },
+      {
+        "text": " 21,",
+        "confidence": 0.9999949634564091,
+        "startIndex": 1237
+      },
+      {
+        "text": " 63,",
+        "confidence": 0.9998661700836073,
+        "startIndex": 1241
+      },
+      {
+        "text": " 170",
+        "confidence": 0.9995250915300194,
+        "startIndex": 1245
+      },
+      {
+        "text": " переключатель",
+        "confidence": 0.9999641620785685,
+        "startIndex": 1249
+      },
+      {
+        "text": " АВТ./ДИСТ./РУЧН.",
+        "confidence": 0.9988918283864574,
+        "startIndex": 1263
+      },
+      {
+        "text": " в",
+        "confidence": 0.9998170472131447,
+        "startIndex": 1280
+      },
+      {
+        "text": " положение",
+        "confidence": 0.9978048220455777,
+        "startIndex": 1282
+      },
+      {
+        "text": " АВТ.",
+        "confidence": 0.9979898774444729,
+        "startIndex": 1292
+      }
+    ],
+    "averagePageConfidenceScore": 0.9993190779572906,
+    "minimumPageConfidenceScore": 0.9728359684276116
+  },
+  "blocks": [
+    {
+      "topLeftX": 282,
+      "topLeftY": 110,
+      "bottomRightX": 3050,
+      "bottomRightY": 552,
+      "content": "– установить на пультах управления на кондиционерах на модуле автоматики УСТАВКА переключателем кнопочным ▲ и ▼ ЗАДАНИЕ ТЕМПЕРАТУРЫ:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 451,
+      "topLeftY": 571,
+      "bottomRightX": 2233,
+      "bottomRightY": 704,
+      "content": "а) на кондиционере №1 – температуру 22 °С;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 727,
+      "bottomRightX": 2751,
+      "bottomRightY": 1022,
+      "content": "б) на кондиционерах №3, №4, №6, №10, №20, №21, №26 – температуру 25 °С;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 1049,
+      "bottomRightX": 3126,
+      "bottomRightY": 1335,
+      "content": "в) на кондиционерах №2, №5, №9, №12, №13, №14, №18, №19, №22, №23, №24, №25, №27 – температуру 27 °С;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 445,
+      "topLeftY": 1372,
+      "bottomRightX": 2917,
+      "bottomRightY": 1500,
+      "content": "г) на кондиционерах №7, №8, №11 и №15 – температуру 28 °С;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 451,
+      "topLeftY": 1533,
+      "bottomRightX": 2535,
+      "bottomRightY": 1662,
+      "content": "д) на кондиционерах №16, №17 – температуру 18 °С;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 1698,
+      "bottomRightX": 2751,
+      "bottomRightY": 2292,
+      "content": "– установить на пультах управления кондиционеров КНМ температуру 25 °С (для повышения эффективности охлаждения обслуживаемых помещений закрыть приточную и вытяжную вентиляционную арматуру).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 451,
+      "topLeftY": 2338,
+      "bottomRightX": 986,
+      "bottomRightY": 2449,
+      "content": "# Примечания:",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 2481,
+      "bottomRightX": 3086,
+      "bottomRightY": 2913,
+      "content": "1 Указанные уставки температуры воздуха даны при температуре наружного воздуха 34 °С и при других температурах наружного воздуха могут быть изменены в пределах от 18 °С до 28 °С.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 2936,
+      "bottomRightX": 3033,
+      "bottomRightY": 3392,
+      "content": "2 Температура воздуха в помещениях с постоянным пребыванием личного состава должна быть не более чем на 10 °С ниже температуры наружного воздуха (в летний период).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 451,
+      "topLeftY": 3562,
+      "bottomRightX": 1440,
+      "bottomRightY": 3673,
+      "content": "# 2.1.3.3 В зимний период:",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 3673,
+      "bottomRightX": 2967,
+      "bottomRightY": 4138,
+      "content": "– ввести в действие проточный нагреватель 230 в соответствии с УШИД.701525.009 РЭ (для зак. 1005), УШИД.701525.015 РЭ (для зак. 1006);",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 289,
+      "topLeftY": 4101,
+      "bottomRightX": 3043,
+      "bottomRightY": 4442,
+      "content": "– установить на щитах управления нагревателей воздуха 20, 21, 63, 170 переключатель АВТ./ДИСТ./РУЧН. в положение АВТ.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2596,
+    "width": 4663
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 677,
+      "topLeftY": 96,
+      "bottomRightX": 2390,
+      "bottomRightY": 226,
+      "content": "# Перечень принятых сокращений",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 663,
+      "topLeftY": 504,
+      "bottomRightX": 3617,
+      "bottomRightY": 2354,
+      "content": "|  ЛБ | левый борт  |\n| --- | --- |\n|  ПрБ | правый борт  |\n|  ДП | диаметральная плоскость  |\n|  шп. | Шпангоут  |\n|  см. | смотри  |\n|  ВЩУ | выносной щит управления  |\n|  ОКС | общекорабельные системы  |\n|  ЦПУ | центральный пульт управления  |\n|  ПУ ТС | пульт управления техническими средствами  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 551,
+      "bottomRightX": 196,
+      "bottomRightY": 961,
+      "content": "www.rosok.ru",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 1889,
+      "bottomRightX": 187,
+      "bottomRightY": 2295,
+      "content": "www.rosok.ru",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2421,
+    "width": 4051
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 3143,
+      "topLeftY": 0,
+      "bottomRightX": 3366,
+      "bottomRightY": 36,
+      "content": "Формат А4",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 2465,
+      "topLeftY": 0,
+      "bottomRightX": 2680,
+      "bottomRightY": 36,
+      "content": "Форма 304",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 0,
+      "bottomRightX": 446,
+      "bottomRightY": 41,
+      "content": "34 / 8 / 5",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 51,
+      "bottomRightX": 308,
+      "bottomRightY": 2382,
+      "content": "|  05 | ЗАМ. | 2038533.00454 | Вид. | 5-12-2023 | 20385.360085.002TO18 | Лист  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  Изм | Лист | № докум. | Подп. | Дата |   | 20  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 726,
+      "topLeftY": 51,
+      "bottomRightX": 2534,
+      "bottomRightY": 2370,
+      "content": "|  Наименование, марка оборудования | Технические характеристики  |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Холодо-производительность, кВт | Тепло-производительность, кВт | Расход тепло/хладоносителя, м³/ч | Напор, давление | Расход охлаждающей заборной воды, кг/с (м³/ч) | Производительность по воздуху, м³/с (м³/ч)  |\n|  МХМВ-90 |   | 90,0 | - | 25,0 | - | 5,8 (21,0) | -  |\n|  Проточный нагреватель |   | - | 90,0 | 25,0 | - | - | -  |\n|  Насос | NB 40-250/01 | - | - | 25,0 | 60,0 м | - | -  |\n|  Кондиционер неавтономный местный КНМ | КНМ-II-Пр-1,1 | 1,1 | 0,9 | 0,25 | 50 Па | - | 130  |\n|   |  КНМ-II-Пр-1,7 | 1,7 | 1,1 | 0,40 | 50 Па | - | 165  |\n|   |  КНМ-II-Пр-2,6 | 2,6 | 1,35 | 0,58 | 50 Па | - | 190  |\n|   |  КНМ-II-Пр-3,5 | 3,5 | 1,95 | 0,76 | 50 Па | - | 300  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 2559,
+      "topLeftY": 51,
+      "bottomRightX": 2863,
+      "bottomRightY": 2181,
+      "content": "Технические характеристики оборудования сплит-системы приведены в таблице 2.\nТаблица 2- Технические характеристики оборудования сплит-системы",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 2993,
+      "topLeftY": 51,
+      "bottomRightX": 3297,
+      "bottomRightY": 2133,
+      "content": "Холодильная машина МХМВ-90 и электронасос NB 40-250/01\nустановлены на амортизаторах, кондиционеры КНМ крепятся к подволоку жестко.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3317,
+      "topLeftY": 51,
+      "bottomRightX": 3625,
+      "bottomRightY": 2108,
+      "content": "Питание кондиционеров неавтономных местных КНМ\n(теплообменников) осуществляется от однофазной сети переменного тока частотой 50 Гц, напряжением 220 В.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

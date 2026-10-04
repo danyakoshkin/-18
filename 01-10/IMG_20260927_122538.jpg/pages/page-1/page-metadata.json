@@ -1,0 +1,101 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2462,
+    "width": 4141
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 3714,
+      "topLeftY": 62,
+      "bottomRightX": 3801,
+      "bottomRightY": 325,
+      "content": "# 1.1.2.5.2",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 3731,
+      "topLeftY": 555,
+      "bottomRightX": 3822,
+      "bottomRightY": 1092,
+      "content": "# Оборудованием:",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 3329,
+      "topLeftY": 0,
+      "bottomRightX": 3693,
+      "bottomRightY": 2151,
+      "content": "- дистанционное отключение щитов питания вентиляторов и кондиционеров по аварийным участкам с секции ОКС ЦПУ в КПЭЖ и у ТС в резервном ПДУ с информацией об отключении на дисплее;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 3212,
+      "topLeftY": 104,
+      "bottomRightX": 3312,
+      "bottomRightY": 1851,
+      "content": "- дистанционное управление (включение-выключение)",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 2454,
+      "topLeftY": 0,
+      "bottomRightX": 3188,
+      "bottomRightY": 2073,
+      "content": "кондиционером №7, обслуживающим помещение ПУ ЗРК №1, кондиционером №8, обслуживающим помещение запаса ЛАК, кондиционером №15, обслуживающим помещение ПУ ЗРК №2, кондиционерами №16, №17, обслуживающими помещение ПУ РК, ЩСУС ППЗ в посту «Дозор» с информацией о работе на дисплее на ЩСУС ППЗ в посту «Дозор»;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 2338,
+      "topLeftY": 131,
+      "bottomRightX": 2408,
+      "bottomRightY": 1092,
+      "content": "- автоматическое отключение",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 1588,
+      "topLeftY": 0,
+      "bottomRightX": 2296,
+      "bottomRightY": 2203,
+      "content": "кондиционера №7, обслуживающего помещение ПУ ЗРК №1, кондиционера №8, обслуживающего помещение запаса ЛАК, кондиционера №15, обслуживающего помещение ПУ ЗРК №2, при автоматическом срабатывании ингибиторной системы и быстродействующей системы орошения с информацией об отключении на дисплее ЩСУС ППЗ в посту «Дозор»;",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 1090,
+      "topLeftY": 0,
+      "bottomRightX": 1554,
+      "bottomRightY": 2216,
+      "content": "- автоматическое отключение кондиционеров №16 и №17, обслуживающих помещение ПУ РК, при автоматическом срабатывании быстродействующей системы орошения с информацией об отключении на дисплее ЩСУС ППЗ в посту «Дозор»;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 473,
+      "topLeftY": 0,
+      "bottomRightX": 1057,
+      "bottomRightY": 2260,
+      "content": "- автоматическое отключение кондиционеров №7, №8, №15, №16, №17, обслуживающих помещения ПУ ЗРК №1, №2, помещение ПУ РК и помещение запаса ЛАК, при дистанционном с ЩСУС ППЗ в посту «Дозор» включении систем пожаротушения, обслуживающих данные помещения, с информацией об отключении на дисплее ЩСУС ППЗ;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 4,
+      "topLeftY": 0,
+      "bottomRightX": 174,
+      "bottomRightY": 2462,
+      "content": "РПОДРИ 20285 260085 002Т018",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

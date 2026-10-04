@@ -1,0 +1,48 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2542,
+    "width": 4131
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 3726,
+      "topLeftY": 102,
+      "bottomRightX": 3937,
+      "bottomRightY": 2316,
+      "content": "1.1.2.5 Предусмотрено управление арматурой и оборудованием системы кондиционирования воздуха:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3606,
+      "topLeftY": 303,
+      "bottomRightX": 3693,
+      "bottomRightY": 1000,
+      "content": "1.1.2.5.1 Арматурой:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 815,
+      "topLeftY": 130,
+      "bottomRightX": 3560,
+      "bottomRightY": 2405,
+      "content": "- aBTOMaTHueCKoe OJHOBpeMeHHoe 3aKpbITHe IIpHTOuHbIX, BbITJxHbIX H cTpaBJIHBAIOIIHX rPbOBnIHbIX rOJIOBOK H 3axJIOIOK C IIHeBMOIIpHBOJOM, (O6cJIyXHBAIOIIHX IOMeIeHn, HaxOJaIIneC8 B 3K3), IIO cHrHaJIy OT H3JeJIIn KIV-8Γ;\n- INCTaHIOHOHoe OJHOBpeMeHHoe 3aKpbITHe IprHTOuHbIX, BbITJxHbIX IN CTpaBJIHBAIOIIHX rPbOBnIHbIX rOJIOBOK H 3axJIOIOK C IIHeBMOIIpHBOJOM, (O6cJIyXHBAIOIIHX IOMeIeHn, HaxOJaIIneC8 B 3K3), c IIy B KII3K n IY TC B pe3epBHom IIy n c BIIy B ΓKII;\n- INCTaHIOHOHoe OJHOBpeMeHHoe OTKpbITHe CTpaBJIHBAIOIIHX rPbOBnIHbIX rOJIOBOK H 3axJIOIOK C IIHeBMOIIpHBOJOM c IITY B KII3K n IY TC B pe3epBHom IIy n c BIIy B ΓKII;\n- INCTaHIOHOHoe 3aKpbITHe H OTKpbITHe rPbOBnIHbIX rOJIOBOK H 3axJIOIOK c IIHeBMOIIpHBOJOM IIO aBapnIHbIM yuaCTkam c IIY B KII3K, c IIY TC B pe3epBHom IIY n c BIIY OKC B ΓKII;\n- cnHraJIH3aIIH O 3aKpbITnI rPbOBnIHbIX rOJIOBOK H 3axJIOIOK C IIHeBMOIIpHBOJOM Ha BIIY OKC B ΓKII n Ha cekIINo OKC IIY B KII3K n IY TC B pe3epBHom IIY;\n- aBTOMaTHueCKoe 3aKpbITHe 3axJIOIOK c IIHeBMOIIpHBOJOM, O6cJIyXHBaIOIIHX IOMeIeHnI IY 3PK No1, No2 n IOMeIeHne 3aIaca JIAK, IIprn aBTOMaTHueCKOM n IINCTaHIIOHHom BKJIIOueHnI HIIb6HTopHOJ cHCTeMbI HJIH 6bICTpOJeIcTBYIOSeI cHCTeMbI OPOIeHnI IIprn IINCTaHIIOHHom BKJIIOueHnI cHCTeMbI OPOIeHnI Ipe6OpOK c IHΦOpMaIeH o 3aKpbITnI Ha IINcIIJIee IICYC III3 B IocTy «Дозop»;",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 4,
+      "topLeftY": 0,
+      "bottomRightX": 261,
+      "bottomRightY": 2542,
+      "content": "|   |  |  |  | 20385.360085.002TO18 | Лист  |\n| --- | --- | --- | --- | --- | --- |\n|  Изм | Лист | № докум. | Подп. |   | Дата  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

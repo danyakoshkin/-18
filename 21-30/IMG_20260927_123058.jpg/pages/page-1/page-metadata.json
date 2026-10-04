@@ -1,0 +1,550 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2608,
+    "width": 4624
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999578029765029,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999979734461775,
+        "startIndex": 11
+      },
+      {
+        "text": " 3",
+        "confidence": 0.9999916554272938,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9978951489000325,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9978951489000325,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9978951489000325,
+        "startIndex": 54
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999911180389736,
+        "startIndex": 66
+      },
+      {
+        "text": "расположения",
+        "confidence": 0.9999911180389736,
+        "startIndex": 72
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9999911180389736,
+        "startIndex": 85
+      },
+      {
+        "text": "Обслуживают",
+        "confidence": 0.9999806932672348,
+        "startIndex": 97
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999927746952457,
+        "startIndex": 115
+      },
+      {
+        "text": " расположения",
+        "confidence": 0.9999880962804156,
+        "startIndex": 120
+      },
+      {
+        "text": "Приме-",
+        "confidence": 0.9987307444938882,
+        "startIndex": 140
+      },
+      {
+        "text": "чание",
+        "confidence": 0.9987307444938882,
+        "startIndex": 147
+      },
+      {
+        "text": "кондиционер,",
+        "confidence": 0.9987307444938882,
+        "startIndex": 211
+      },
+      {
+        "text": "его",
+        "confidence": 0.9987307444938882,
+        "startIndex": 224
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999775957031983,
+        "startIndex": 227
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999775957031983,
+        "startIndex": 236
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999398032437987,
+        "startIndex": 242
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999763892641774,
+        "startIndex": 247
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999763892641774,
+        "startIndex": 251
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999763892641774,
+        "startIndex": 259
+      },
+      {
+        "text": "его",
+        "confidence": 0.9999763892641774,
+        "startIndex": 271
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999988016357743,
+        "startIndex": 274
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999988016357743,
+        "startIndex": 283
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999966025509668,
+        "startIndex": 289
+      },
+      {
+        "text": "по",
+        "confidence": 0.9999966025509668,
+        "startIndex": 295
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.9998458797042485,
+        "startIndex": 297
+      },
+      {
+        "text": "кондиционера",
+        "confidence": 0.9998458797042485,
+        "startIndex": 306
+      },
+      {
+        "text": "вентиля-",
+        "confidence": 0.9998458797042485,
+        "startIndex": 321
+      },
+      {
+        "text": "тора",
+        "confidence": 0.9998458797042485,
+        "startIndex": 330
+      },
+      {
+        "text": "Ходовая",
+        "confidence": 0.9998458797042485,
+        "startIndex": 345
+      },
+      {
+        "text": " рубка",
+        "confidence": 0.9999020264169832,
+        "startIndex": 352
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9999020264169832,
+        "startIndex": 361
+      },
+      {
+        "text": " II",
+        "confidence": 0.999911673717352,
+        "startIndex": 367
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9997880679640162,
+        "startIndex": 370
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9997880679640162,
+        "startIndex": 377
+      },
+      {
+        "text": "40-52",
+        "confidence": 0.9997880679640162,
+        "startIndex": 388
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9978641090546072,
+        "startIndex": 393
+      },
+      {
+        "text": "ЛБ-ПрБ",
+        "confidence": 0.9978641090546072,
+        "startIndex": 398
+      },
+      {
+        "text": "АКН15/16-Л",
+        "confidence": 0.9912809379848687,
+        "startIndex": 407
+      },
+      {
+        "text": "(для",
+        "confidence": 0.9912809379848687,
+        "startIndex": 418
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999411145101111,
+        "startIndex": 422
+      },
+      {
+        "text": " 1005)",
+        "confidence": 0.9999361516032135,
+        "startIndex": 427
+      },
+      {
+        "text": "АКН",
+        "confidence": 0.9999361516032135,
+        "startIndex": 434
+      },
+      {
+        "text": " 15У-Л",
+        "confidence": 0.999953526332731,
+        "startIndex": 437
+      },
+      {
+        "text": "(для",
+        "confidence": 0.999953526332731,
+        "startIndex": 444
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999973297198449,
+        "startIndex": 448
+      },
+      {
+        "text": " 1006)",
+        "confidence": 0.9999952262960257,
+        "startIndex": 453
+      },
+      {
+        "text": "№23",
+        "confidence": 0.9999952262960257,
+        "startIndex": 460
+      },
+      {
+        "text": "-",
+        "confidence": 0.9940640542594855,
+        "startIndex": 466
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9998009608900463,
+        "startIndex": 470
+      },
+      {
+        "text": "ВЧП",
+        "confidence": 0.9998009608900463,
+        "startIndex": 480
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999767930800626,
+        "startIndex": 486
+      },
+      {
+        "text": "Штурманская",
+        "confidence": 0.9977529943419851,
+        "startIndex": 497
+      },
+      {
+        "text": " рубка",
+        "confidence": 0.9999974795882672,
+        "startIndex": 508
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9999974795882672,
+        "startIndex": 517
+      },
+      {
+        "text": " II",
+        "confidence": 0.9999789004002659,
+        "startIndex": 523
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999947463230295,
+        "startIndex": 526
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9999947463230295,
+        "startIndex": 533
+      },
+      {
+        "text": "46",
+        "confidence": 0.9999947463230295,
+        "startIndex": 544
+      },
+      {
+        "text": " 2/3-52",
+        "confidence": 0.9999905315341969,
+        "startIndex": 546
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999204664568072,
+        "startIndex": 553
+      },
+      {
+        "text": " ЛБ",
+        "confidence": 0.9999886541914672,
+        "startIndex": 557
+      },
+      {
+        "text": "ГКП",
+        "confidence": 0.9999886541914672,
+        "startIndex": 587
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9999886541914672,
+        "startIndex": 593
+      },
+      {
+        "text": " II",
+        "confidence": 0.9999964237340748,
+        "startIndex": 599
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999968352031222,
+        "startIndex": 602
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9999968352031222,
+        "startIndex": 609
+      },
+      {
+        "text": "52-62",
+        "confidence": 0.9999968352031222,
+        "startIndex": 620
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.999994848386299,
+        "startIndex": 625
+      },
+      {
+        "text": "ЛБ-ПрБ",
+        "confidence": 0.999994848386299,
+        "startIndex": 630
+      },
+      {
+        "text": "ГКП",
+        "confidence": 0.999994848386299,
+        "startIndex": 663
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.999994848386299,
+        "startIndex": 669
+      },
+      {
+        "text": " II",
+        "confidence": 0.9999992847447459,
+        "startIndex": 675
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999966890790627,
+        "startIndex": 678
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9999966890790627,
+        "startIndex": 685
+      },
+      {
+        "text": "52-62",
+        "confidence": 0.9999966890790627,
+        "startIndex": 696
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999943350602296,
+        "startIndex": 701
+      },
+      {
+        "text": "ЛБ-ПрБ",
+        "confidence": 0.9999943350602296,
+        "startIndex": 706
+      },
+      {
+        "text": "АКН15/16-Л",
+        "confidence": 0.9977377517071057,
+        "startIndex": 715
+      },
+      {
+        "text": "(для",
+        "confidence": 0.9977377517071057,
+        "startIndex": 726
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999987602251577,
+        "startIndex": 730
+      },
+      {
+        "text": " 1005)",
+        "confidence": 0.9999759815729622,
+        "startIndex": 735
+      },
+      {
+        "text": "АКН",
+        "confidence": 0.9999759815729622,
+        "startIndex": 742
+      },
+      {
+        "text": " 15У-Л",
+        "confidence": 0.999994945580885,
+        "startIndex": 745
+      },
+      {
+        "text": "(для",
+        "confidence": 0.999994945580885,
+        "startIndex": 752
+      },
+      {
+        "text": " зак.",
+        "confidence": 0.9999974250868445,
+        "startIndex": 756
+      },
+      {
+        "text": " 1006)",
+        "confidence": 0.9999996044426874,
+        "startIndex": 761
+      },
+      {
+        "text": "№24",
+        "confidence": 0.9999996044426874,
+        "startIndex": 768
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999826664133822,
+        "startIndex": 774
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.9999850197964387,
+        "startIndex": 778
+      },
+      {
+        "text": "№12",
+        "confidence": 0.9999850197964387,
+        "startIndex": 792
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999963912316827,
+        "startIndex": 798
+      },
+      {
+        "text": "Трансляционный",
+        "confidence": 0.9999595451875911,
+        "startIndex": 809
+      },
+      {
+        "text": "пост",
+        "confidence": 0.9999595451875911,
+        "startIndex": 824
+      },
+      {
+        "text": "Палуба",
+        "confidence": 0.9999595451875911,
+        "startIndex": 831
+      },
+      {
+        "text": " I",
+        "confidence": 0.9998952260097348,
+        "startIndex": 837
+      },
+      {
+        "text": " яруса",
+        "confidence": 0.9999949009731874,
+        "startIndex": 839
+      },
+      {
+        "text": "надстройки",
+        "confidence": 0.9999949009731874,
+        "startIndex": 846
+      },
+      {
+        "text": "58-60",
+        "confidence": 0.9999949009731874,
+        "startIndex": 857
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999867364725583,
+        "startIndex": 862
+      },
+      {
+        "text": "ПрБ",
+        "confidence": 0.9999867364725583,
+        "startIndex": 867
+      }
+    ],
+    "averagePageConfidenceScore": 0.9995229016005985,
+    "minimumPageConfidenceScore": 0.9912809379848687
+  },
+  "blocks": [
+    {
+      "topLeftX": 278,
+      "topLeftY": 31,
+      "bottomRightX": 1157,
+      "bottomRightY": 117,
+      "content": "Продолжение таблицы 3",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 117,
+      "bottomRightX": 4194,
+      "bottomRightY": 2608,
+      "content": "|  Наименование обслуживаемого помещения | Место расположения помещения | Обслуживают |   | Место расположения |   | Приме- чание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |   |  кондиционер, его индекс, номер, поз. по схеме | вентилятор, его индекс, номер, поз. по схеме | кондиционера | вентиля- тора  |   |\n|  Ходовая рубка | Палуба II яруса надстройки 40-52 шп. ЛБ-ПрБ | АКН15/16-Л (для зак. 1005) АКН 15У-Л (для зак. 1006) №23 | - | Помещение ВЧП | - |   |\n|  Штурманская рубка | Палуба II яруса надстройки 46 2/3-52 шп. ЛБ  |   |   |   |   |   |\n|  ГКП | Палуба II яруса надстройки 52-62 шп. ЛБ-ПрБ  |   |   |   |   |   |\n|  ГКП | Палуба II яруса надстройки 52-62 шп. ЛБ-ПрБ | АКН15/16-Л (для зак. 1005) АКН 15У-Л (для зак. 1006) №24 | - | Вентиляторная №12 | - |   |\n|  Трансляционный пост | Палуба I яруса надстройки 58-60 шп. ПрБ  |   |   |   |   |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

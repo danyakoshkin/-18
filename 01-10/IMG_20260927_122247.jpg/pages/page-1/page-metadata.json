@@ -1,0 +1,102 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2608,
+    "width": 4624
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 4119,
+      "topLeftY": 379,
+      "bottomRightX": 4194,
+      "bottomRightY": 1188,
+      "content": "1 Техническое описание",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3995,
+      "topLeftY": 379,
+      "bottomRightX": 4078,
+      "bottomRightY": 1616,
+      "content": "1.1 Система кондиционирования воздуха",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3758,
+      "topLeftY": 379,
+      "bottomRightX": 3967,
+      "bottomRightY": 2334,
+      "content": "(Приложение А. Рисунки А.1, А.2, А.3, А.4, А.5, А.6, А.7, А.9, А.10, А.11, А.12)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3527,
+      "topLeftY": 392,
+      "bottomRightX": 3601,
+      "bottomRightY": 1133,
+      "content": "1.1.1 Назначение и состав",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 3046,
+      "topLeftY": 196,
+      "bottomRightX": 3365,
+      "bottomRightY": 2146,
+      "content": "Система кондиционирования воздуха предназначена для круглогодичного поддержания в обитаемых помещениях требуемых температур воздуха путем его обработки в кондиционерах.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 2939,
+      "topLeftY": 402,
+      "bottomRightX": 3018,
+      "bottomRightY": 1149,
+      "content": "В состав системы входят:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 1463,
+      "topLeftY": 402,
+      "bottomRightX": 2907,
+      "bottomRightY": 2240,
+      "content": "KoHIIINHOHeBbI aBTOHOMHbIe HAnOpHbIe TnHa AKH15, AKH30, AKH 15Y (c 3ak. 1006), AKH 30Y;\nKoHIIINHOHeBbI aBTOHOMHbIe 6JIOuHbIe TnHa AKP45;\nXOIOJIbHbIe MOpCKHe BnHTOBbe MaIIHHbI MXMB-90;\nKoHIIINHOHeBbI HeaBTOHOMHbIe MeCTHbIe TnHa KHM (TeIIIOO6MeHHNK);\n3JIeKToHaocbI TeIIIO/XJaIOHOCHTeJIa;\n- IpoToHbI HaRpeBaTeJIb;\npaCIIINpHTeJIbHaI IINCTepHa;\n- HarpeBaTeJIH BO3IyXa HB3I;\n- BeHTHJIaTOpbl TnHa PCCM;\nTpy6oIIpoBOIOB, BO3IyXOBoIOB;\napMaTypa.",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 1361,
+      "topLeftY": 439,
+      "bottomRightX": 1449,
+      "bottomRightY": 2141,
+      "content": "1.1.2 Общее описание и основные технические данные",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 1014,
+      "topLeftY": 248,
+      "bottomRightX": 1240,
+      "bottomRightY": 2329,
+      "content": "1.1.2.1 Кондиционеры АКН – автономные, напорные, блочного исполнения, кондиционеры АКР – автономные, блочного исполнения.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 477,
+      "topLeftY": 151,
+      "bottomRightX": 704,
+      "bottomRightY": 2564,
+      "content": "|  85 | зам. | 20385.33.08454 | Годп. | 5.12.2020 | 20385.360085.002TO18 | Лист  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  Изм | Лист | № докум. |  | Дата |   | 16  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4514,
+    "width": 3263
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 180,
+      "topLeftY": 506,
+      "bottomRightX": 2874,
+      "bottomRightY": 926,
+      "content": "Возврат воздуха осуществляется из СКП-ЗКП через сетку, захлопку 122 и сетку в коридор №7, из строевой канцелярии – через сетки в коридор №7, из в кают офицеров №8, №9 – через жалюзи в дверях в коридор №7.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 944,
+      "bottomRightX": 2466,
+      "bottomRightY": 1202,
+      "content": "Из коридора №7 через сетку, захлопку 111 и сетку воздух возвращается в вентиляторную №4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 1243,
+      "bottomRightX": 2829,
+      "bottomRightY": 1505,
+      "content": "Возврат воздуха из кают старшин №1, №2, №3, №4 осуществляется через жалюзи в дверях в тамбур №14 и через сетки – вентиляторную №4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 1536,
+      "bottomRightX": 2799,
+      "bottomRightY": 1785,
+      "content": "Из вентиляторной №4 воздух забирается кондиционером №6 через рециркуляционный патрубок.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 1825,
+      "bottomRightX": 2936,
+      "bottomRightY": 2083,
+      "content": "Наружный воздух поступает в кондиционер №6 через грибовидную головку с пневмоприводом 194, захлопки 117, 113, 37 и воздуховод.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 2110,
+      "bottomRightX": 2508,
+      "bottomRightY": 2499,
+      "content": "Стравливание воздуха производится из коридора №7 через герметичную головку 104, захлопки 103, 102, 101, воздуховод и грибовидную головку с пневмоприводом 193.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 2535,
+      "bottomRightX": 2718,
+      "bottomRightY": 2779,
+      "content": "Управление кондиционером №6 местное с пульта управления на кондиционере №6.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 2820,
+      "bottomRightX": 2930,
+      "bottomRightY": 3344,
+      "content": "1.1.2.16 Обработанный в кондиционере №7 воздух по воздуховоду подается через задвижки 240, 241 и сетки в аппаратную ЗРК №1, через захлопку с пневмоприводом 38 и пламепрерывающую сетку – в помещение ПУ ЗРК №1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 3393,
+      "bottomRightX": 2874,
+      "bottomRightY": 3945,
+      "content": "Возврат воздуха осуществляется из помещения ПУ ЗРК №1 через пламепрерывающие сетки, захлопку с пневмоприводом 39, из аппаратной ЗРК №1 – через сетки, и по воздуховоду воздух забирается кондиционером №7 через патрубок приема наружного воздуха.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 3963,
+      "bottomRightX": 2554,
+      "bottomRightY": 4220,
+      "content": "Кондиционер №7 работает по замкнутому циклу без приема наружного воздуха.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

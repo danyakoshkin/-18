@@ -1,0 +1,520 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 2608,
+    "width": 4624
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999706868160446,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999970197767496,
+        "startIndex": 11
+      },
+      {
+        "text": " 3",
+        "confidence": 0.9999958872963806,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9976410902868347,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9976410902868347,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9976410902868347,
+        "startIndex": 54
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999923833009369,
+        "startIndex": 66
+      },
+      {
+        "text": "расположения",
+        "confidence": 0.9999923833009369,
+        "startIndex": 72
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9999923833009369,
+        "startIndex": 85
+      },
+      {
+        "text": "Обслуживают",
+        "confidence": 0.9999731361918941,
+        "startIndex": 97
+      },
+      {
+        "text": "Место",
+        "confidence": 0.9999465785748909,
+        "startIndex": 115
+      },
+      {
+        "text": " расположения",
+        "confidence": 0.9999872277727416,
+        "startIndex": 120
+      },
+      {
+        "text": "Приме-",
+        "confidence": 0.9988558673221789,
+        "startIndex": 140
+      },
+      {
+        "text": "чание",
+        "confidence": 0.9988558673221789,
+        "startIndex": 147
+      },
+      {
+        "text": "кондиционер,",
+        "confidence": 0.9988558673221789,
+        "startIndex": 211
+      },
+      {
+        "text": "его",
+        "confidence": 0.9988558673221789,
+        "startIndex": 224
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999888258678579,
+        "startIndex": 227
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999888258678579,
+        "startIndex": 236
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999511265825236,
+        "startIndex": 242
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999706942669826,
+        "startIndex": 247
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999706942669826,
+        "startIndex": 251
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999706942669826,
+        "startIndex": 259
+      },
+      {
+        "text": "его",
+        "confidence": 0.9999706942669826,
+        "startIndex": 271
+      },
+      {
+        "text": " индекс,",
+        "confidence": 0.9999987890889338,
+        "startIndex": 274
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9999987890889338,
+        "startIndex": 283
+      },
+      {
+        "text": " поз.",
+        "confidence": 0.9999955296796341,
+        "startIndex": 289
+      },
+      {
+        "text": "по",
+        "confidence": 0.9999955296796341,
+        "startIndex": 295
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.9998647366127371,
+        "startIndex": 297
+      },
+      {
+        "text": "кондиционера",
+        "confidence": 0.9998647366127371,
+        "startIndex": 306
+      },
+      {
+        "text": "вентиля-",
+        "confidence": 0.9998647366127371,
+        "startIndex": 321
+      },
+      {
+        "text": "тора",
+        "confidence": 0.9998647366127371,
+        "startIndex": 330
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9914996879982221,
+        "startIndex": 345
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999902578260496,
+        "startIndex": 351
+      },
+      {
+        "text": "II",
+        "confidence": 0.9998507081764461,
+        "startIndex": 357
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999742169286414,
+        "startIndex": 359
+      },
+      {
+        "text": "12-22",
+        "confidence": 0.9999742169286414,
+        "startIndex": 367
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9986324109258757,
+        "startIndex": 372
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9995415028831367,
+        "startIndex": 376
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9995415028831367,
+        "startIndex": 383
+      },
+      {
+        "text": "2,6",
+        "confidence": 0.9995415028831367,
+        "startIndex": 394
+      },
+      {
+        "text": "68",
+        "confidence": 0.9995415028831367,
+        "startIndex": 398
+      },
+      {
+        "text": "РССМ",
+        "confidence": 0.9857567022980037,
+        "startIndex": 403
+      },
+      {
+        "text": " 6,3/10-",
+        "confidence": 0.9998041123242195,
+        "startIndex": 407
+      },
+      {
+        "text": "1.1.1-1",
+        "confidence": 0.9998041123242195,
+        "startIndex": 416
+      },
+      {
+        "text": "№1СКВ",
+        "confidence": 0.9998041123242195,
+        "startIndex": 424
+      },
+      {
+        "text": "(приточный)",
+        "confidence": 0.9998041123242195,
+        "startIndex": 430
+      },
+      {
+        "text": "22,",
+        "confidence": 0.9998041123242195,
+        "startIndex": 442
+      },
+      {
+        "text": "НВЭ1-0,63/40",
+        "confidence": 0.9998041123242195,
+        "startIndex": 446
+      },
+      {
+        "text": "21",
+        "confidence": 0.9998041123242195,
+        "startIndex": 459
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9874452802284474,
+        "startIndex": 464
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999998266047274,
+        "startIndex": 470
+      },
+      {
+        "text": "Тамбур",
+        "confidence": 0.9853844124865152,
+        "startIndex": 476
+      },
+      {
+        "text": "№1",
+        "confidence": 0.9853844124865152,
+        "startIndex": 483
+      },
+      {
+        "text": "*",
+        "confidence": 0.9970774001109918,
+        "startIndex": 488
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9970774001109918,
+        "startIndex": 504
+      },
+      {
+        "text": "2,6",
+        "confidence": 0.9970774001109918,
+        "startIndex": 515
+      },
+      {
+        "text": "70",
+        "confidence": 0.9970774001109918,
+        "startIndex": 519
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9996778599149704,
+        "startIndex": 544
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999999349767598,
+        "startIndex": 550
+      },
+      {
+        "text": "II",
+        "confidence": 0.9999959628322225,
+        "startIndex": 556
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999989411427681,
+        "startIndex": 558
+      },
+      {
+        "text": "12-22",
+        "confidence": 0.9999989411427681,
+        "startIndex": 566
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.99998220846877,
+        "startIndex": 571
+      },
+      {
+        "text": " ЛБ",
+        "confidence": 0.9999812627118131,
+        "startIndex": 575
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999812627118131,
+        "startIndex": 581
+      },
+      {
+        "text": "3,5",
+        "confidence": 0.9999812627118131,
+        "startIndex": 592
+      },
+      {
+        "text": "65",
+        "confidence": 0.9999812627118131,
+        "startIndex": 596
+      },
+      {
+        "text": "РССМ",
+        "confidence": 0.9862411541935587,
+        "startIndex": 601
+      },
+      {
+        "text": " 6,3/10-",
+        "confidence": 0.9999846616656085,
+        "startIndex": 605
+      },
+      {
+        "text": "1.1.1-1",
+        "confidence": 0.9999846616656085,
+        "startIndex": 614
+      },
+      {
+        "text": "№2СКВ",
+        "confidence": 0.9999846616656085,
+        "startIndex": 622
+      },
+      {
+        "text": "(приточный)",
+        "confidence": 0.9999846616656085,
+        "startIndex": 628
+      },
+      {
+        "text": "17,",
+        "confidence": 0.9999846616656085,
+        "startIndex": 640
+      },
+      {
+        "text": "НВЭ1-0,63/40",
+        "confidence": 0.9999846616656085,
+        "startIndex": 644
+      },
+      {
+        "text": "20",
+        "confidence": 0.9999846616656085,
+        "startIndex": 657
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9875138569487955,
+        "startIndex": 662
+      },
+      {
+        "text": " №2",
+        "confidence": 0.99999966404675,
+        "startIndex": 668
+      },
+      {
+        "text": "*",
+        "confidence": 0.9999169315670947,
+        "startIndex": 677
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999169315670947,
+        "startIndex": 693
+      },
+      {
+        "text": "3,5",
+        "confidence": 0.9999169315670947,
+        "startIndex": 704
+      },
+      {
+        "text": "67",
+        "confidence": 0.9999169315670947,
+        "startIndex": 708
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9953493570450335,
+        "startIndex": 733
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9999997290699314,
+        "startIndex": 739
+      },
+      {
+        "text": "II",
+        "confidence": 0.9999978065643055,
+        "startIndex": 745
+      },
+      {
+        "text": " палуба",
+        "confidence": 0.9999975246645705,
+        "startIndex": 747
+      },
+      {
+        "text": "22-28",
+        "confidence": 0.9999975246645705,
+        "startIndex": 755
+      },
+      {
+        "text": " шп.",
+        "confidence": 0.9999851885675181,
+        "startIndex": 760
+      },
+      {
+        "text": " ПрБ",
+        "confidence": 0.9999961983241256,
+        "startIndex": 764
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.9999961983241256,
+        "startIndex": 771
+      },
+      {
+        "text": "2,6",
+        "confidence": 0.9999961983241256,
+        "startIndex": 782
+      },
+      {
+        "text": "68",
+        "confidence": 0.9999961983241256,
+        "startIndex": 786
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9999254832739806,
+        "startIndex": 794
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9999998374419228,
+        "startIndex": 800
+      },
+      {
+        "text": "*",
+        "confidence": 0.999991725464506,
+        "startIndex": 809
+      },
+      {
+        "text": "КНМ-II-Пр-",
+        "confidence": 0.999991725464506,
+        "startIndex": 825
+      },
+      {
+        "text": "2,6",
+        "confidence": 0.999991725464506,
+        "startIndex": 836
+      },
+      {
+        "text": "70",
+        "confidence": 0.999991725464506,
+        "startIndex": 840
+      }
+    ],
+    "averagePageConfidenceScore": 0.9987066822255437,
+    "minimumPageConfidenceScore": 0.9853844124865152
+  },
+  "blocks": [
+    {
+      "topLeftX": 389,
+      "topLeftY": 39,
+      "bottomRightX": 1273,
+      "bottomRightY": 123,
+      "content": "Продолжение таблицы 3",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 123,
+      "bottomRightX": 4351,
+      "bottomRightY": 2569,
+      "content": "|  Наименование обслуживаемого помещения | Место расположения помещения | Обслуживают |   | Место расположения |   | Приме- чание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |   |  кондиционер, его индекс, номер, поз. по схеме | вентилятор, его индекс, номер, поз. по схеме | кондиционера | вентиля- тора  |   |\n|  Кубрик №1 | II палуба 12-22 шп. ПрБ | КНМ-II-Пр- 2,6 68 | РССМ 6,3/10- 1.1.1-1 №1СКВ (приточный) 22, НВЭ1-0,63/40 21 | Кубрик №1 | Тамбур №1 | *  |\n|   |   |  КНМ-II-Пр- 2,6 70  |   |   |   |   |\n|  Кубрик №2 | II палуба 12-22 шп. ЛБ | КНМ-II-Пр- 3,5 65 | РССМ 6,3/10- 1.1.1-1 №2СКВ (приточный) 17, НВЭ1-0,63/40 20 | Кубрик №2 |  | *  |\n|   |   |  КНМ-II-Пр- 3,5 67  |   |   |   |   |\n|  Кубрик №3 | II палуба 22-28 шп. ПрБ | КНМ-II-Пр- 2,6 68 |  | Кубрик №3 |  | *  |\n|   |   |  КНМ-II-Пр- 2,6 70  |   |   |   |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}
