@@ -1,0 +1,580 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4776,
+    "width": 3240
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.998500402609523,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999846222381212,
+        "startIndex": 11
+      },
+      {
+        "text": " 6",
+        "confidence": 0.9991854580252263,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9937521616063737,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9937521616063737,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9937521616063737,
+        "startIndex": 54
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9994871762800809,
+        "startIndex": 66
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9999347454645591,
+        "startIndex": 75
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.9995614730891109,
+        "startIndex": 95
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.9999837049177337,
+        "startIndex": 110
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9996460121243945,
+        "startIndex": 175
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.999853095387192,
+        "startIndex": 185
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9403887434820976,
+        "startIndex": 199
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9403887434820976,
+        "startIndex": 207
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9403887434820976,
+        "startIndex": 213
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9403887434820976,
+        "startIndex": 220
+      },
+      {
+        "text": " по",
+        "confidence": 0.9998276306857846,
+        "startIndex": 224
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9998276306857846,
+        "startIndex": 228
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.999852697843927,
+        "startIndex": 236
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.999852697843927,
+        "startIndex": 248
+      },
+      {
+        "text": " по",
+        "confidence": 0.999909821184146,
+        "startIndex": 252
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.999909821184146,
+        "startIndex": 256
+      },
+      {
+        "text": "номер",
+        "confidence": 0.999909821184146,
+        "startIndex": 263
+      },
+      {
+        "text": "приток",
+        "confidence": 0.999909821184146,
+        "startIndex": 287
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.999909821184146,
+        "startIndex": 296
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.999909821184146,
+        "startIndex": 322
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9928273074112386,
+        "startIndex": 331
+      },
+      {
+        "text": "ЛАК",
+        "confidence": 0.9928273074112386,
+        "startIndex": 339
+      },
+      {
+        "text": "—",
+        "confidence": 0.9928273074112386,
+        "startIndex": 345
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9928273074112386,
+        "startIndex": 349
+      },
+      {
+        "text": " 4,",
+        "confidence": 0.9999894700115792,
+        "startIndex": 357
+      },
+      {
+        "text": " 6",
+        "confidence": 0.9999505708942623,
+        "startIndex": 360
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999505708942623,
+        "startIndex": 365
+      },
+      {
+        "text": " 40,",
+        "confidence": 0.9979037582491159,
+        "startIndex": 373
+      },
+      {
+        "text": "43",
+        "confidence": 0.9979037582491159,
+        "startIndex": 378
+      },
+      {
+        "text": "№8",
+        "confidence": 0.9979037582491159,
+        "startIndex": 383
+      },
+      {
+        "text": "—",
+        "confidence": 0.9979037582491159,
+        "startIndex": 388
+      },
+      {
+        "text": "Медкладовая",
+        "confidence": 0.9979037582491159,
+        "startIndex": 399
+      },
+      {
+        "text": " НЗ",
+        "confidence": 0.9992493352111795,
+        "startIndex": 410
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9992493352111795,
+        "startIndex": 414
+      },
+      {
+        "text": " УВК",
+        "confidence": 0.9998734258331072,
+        "startIndex": 424
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9998734258331072,
+        "startIndex": 429
+      },
+      {
+        "text": " буев",
+        "confidence": 0.9976084137723944,
+        "startIndex": 438
+      },
+      {
+        "text": "Агрегатная",
+        "confidence": 0.9976084137723944,
+        "startIndex": 444
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9998381845044699,
+        "startIndex": 454
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9998381845044699,
+        "startIndex": 459
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9996927176044663,
+        "startIndex": 468
+      },
+      {
+        "text": "ДП-64",
+        "confidence": 0.9996927176044663,
+        "startIndex": 476
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9996927176044663,
+        "startIndex": 482
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.998736467508031,
+        "startIndex": 491
+      },
+      {
+        "text": "ПК-10",
+        "confidence": 0.998736467508031,
+        "startIndex": 499
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999410287765921,
+        "startIndex": 504
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999410287765921,
+        "startIndex": 510
+      },
+      {
+        "text": " 42,",
+        "confidence": 0.9999876126188275,
+        "startIndex": 518
+      },
+      {
+        "text": "45,",
+        "confidence": 0.9999876126188275,
+        "startIndex": 523
+      },
+      {
+        "text": " 121",
+        "confidence": 0.9996848031368455,
+        "startIndex": 526
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9996848031368455,
+        "startIndex": 531
+      },
+      {
+        "text": " 89",
+        "confidence": 0.9999887886453637,
+        "startIndex": 538
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999887886453637,
+        "startIndex": 544
+      },
+      {
+        "text": " 41,",
+        "confidence": 0.9999975562207173,
+        "startIndex": 552
+      },
+      {
+        "text": "44,",
+        "confidence": 0.9999975562207173,
+        "startIndex": 557
+      },
+      {
+        "text": " 90,",
+        "confidence": 0.9999875132141118,
+        "startIndex": 560
+      },
+      {
+        "text": " 91,",
+        "confidence": 0.9999702433951748,
+        "startIndex": 564
+      },
+      {
+        "text": "119",
+        "confidence": 0.9999702433951748,
+        "startIndex": 569
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9999702433951748,
+        "startIndex": 575
+      },
+      {
+        "text": " 92,",
+        "confidence": 0.9999773798135402,
+        "startIndex": 582
+      },
+      {
+        "text": "120",
+        "confidence": 0.9999773798135402,
+        "startIndex": 587
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999773798135402,
+        "startIndex": 591
+      },
+      {
+        "text": " 3,",
+        "confidence": 0.9999928475094365,
+        "startIndex": 599
+      },
+      {
+        "text": " 5",
+        "confidence": 0.9999810473439863,
+        "startIndex": 602
+      },
+      {
+        "text": "№9",
+        "confidence": 0.9999810473439863,
+        "startIndex": 607
+      },
+      {
+        "text": "—",
+        "confidence": 0.9999810473439863,
+        "startIndex": 612
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9999810473439863,
+        "startIndex": 623
+      },
+      {
+        "text": " КСУС",
+        "confidence": 0.9988104245992192,
+        "startIndex": 633
+      },
+      {
+        "text": "Пост",
+        "confidence": 0.9988104245992192,
+        "startIndex": 639
+      },
+      {
+        "text": " гидроакустики",
+        "confidence": 0.9998464550773688,
+        "startIndex": 643
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9998464550773688,
+        "startIndex": 658
+      },
+      {
+        "text": "гидроакустики",
+        "confidence": 0.9998464550773688,
+        "startIndex": 669
+      },
+      {
+        "text": " №2",
+        "confidence": 0.999977126488033,
+        "startIndex": 682
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.999977126488033,
+        "startIndex": 686
+      },
+      {
+        "text": " КАЦТС",
+        "confidence": 0.9986498755980254,
+        "startIndex": 695
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9986498755980254,
+        "startIndex": 702
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9999899304793607,
+        "startIndex": 711
+      },
+      {
+        "text": "ПК-10",
+        "confidence": 0.9999899304793607,
+        "startIndex": 719
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999754998280411,
+        "startIndex": 724
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9999754998280411,
+        "startIndex": 728
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9997999245902894,
+        "startIndex": 737
+      },
+      {
+        "text": "стрелкового",
+        "confidence": 0.9997999245902894,
+        "startIndex": 745
+      },
+      {
+        "text": " оружия",
+        "confidence": 0.9999697172231454,
+        "startIndex": 756
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9999697172231454,
+        "startIndex": 766
+      },
+      {
+        "text": " 14",
+        "confidence": 0.9999362600385031,
+        "startIndex": 773
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999362600385031,
+        "startIndex": 777
+      },
+      {
+        "text": " 64,",
+        "confidence": 0.999996870776052,
+        "startIndex": 785
+      },
+      {
+        "text": "75,",
+        "confidence": 0.999996870776052,
+        "startIndex": 790
+      },
+      {
+        "text": " 153,",
+        "confidence": 0.9999909878732586,
+        "startIndex": 793
+      },
+      {
+        "text": " 161",
+        "confidence": 0.9999920982561394,
+        "startIndex": 798
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999920982561394,
+        "startIndex": 805
+      },
+      {
+        "text": " 25,",
+        "confidence": 0.999997069452256,
+        "startIndex": 813
+      },
+      {
+        "text": "27,",
+        "confidence": 0.999997069452256,
+        "startIndex": 818
+      },
+      {
+        "text": " 56,",
+        "confidence": 0.9999956190777549,
+        "startIndex": 821
+      },
+      {
+        "text": " 58,",
+        "confidence": 0.9999890329569306,
+        "startIndex": 825
+      },
+      {
+        "text": " 78,",
+        "confidence": 0.9999924693542386,
+        "startIndex": 829
+      },
+      {
+        "text": "242",
+        "confidence": 0.9999924693542386,
+        "startIndex": 834
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999924693542386,
+        "startIndex": 840
+      },
+      {
+        "text": " 26,",
+        "confidence": 0.9999961356599046,
+        "startIndex": 848
+      },
+      {
+        "text": "57,",
+        "confidence": 0.9999961356599046,
+        "startIndex": 853
+      },
+      {
+        "text": " 79",
+        "confidence": 0.999950510254568,
+        "startIndex": 856
+      },
+      {
+        "text": "№10",
+        "confidence": 0.999950510254568,
+        "startIndex": 862
+      },
+      {
+        "text": "—",
+        "confidence": 0.999950510254568,
+        "startIndex": 868
+      }
+    ],
+    "averagePageConfidenceScore": 0.9970701741346504,
+    "minimumPageConfidenceScore": 0.9403887434820976
+  },
+  "blocks": [
+    {
+      "topLeftX": 2984,
+      "topLeftY": 263,
+      "bottomRightX": 3084,
+      "bottomRightY": 1267,
+      "content": "Продолжение таблицы 6",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 431,
+      "topLeftY": 177,
+      "bottomRightX": 3039,
+      "bottomRightY": 4685,
+      "content": "|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  закрыта | открыта |   | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |   |  приток | вытяжка  |   |   |   |\n|  Помещение запаса ЛАК | — | захлопки 4, 6 | захлопки 40, 43 | №8 | — |   |\n|  Медкладовая НЗ Аппаратная УВК Помещение буев Агрегатная ЛАК Помещение запаса ДП-64 Помещение запаса ПК-10 №1 | захлопки 42, 45, 121 головка 89 | захлопки 41, 44, 90, 91, 119 | головки 92, 120 захлопки 3, 5 | №9 | — |   |\n|  Аппаратная КСУС Пост гидроакустики Аппаратная гидроакустики №2 Помещение КАЦТС Помещение запаса ПК-10 №2 Помещение запаса стрелкового оружия | головка 14 захлопки 64, 75, 153, 161 | захлопки 25, 27, 56, 58, 78, 242 | захлопки 26, 57, 79 | №10 | — |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 1811,
+    "width": 4552
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.7813444067375084,
+        "startIndex": 3
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.999993205116773,
+        "startIndex": 14
+      },
+      {
+        "text": " 5",
+        "confidence": 0.9981717872115378,
+        "startIndex": 22
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.97055837860904,
+        "startIndex": 99
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.97055837860904,
+        "startIndex": 112
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.97055837860904,
+        "startIndex": 127
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9996546605540979,
+        "startIndex": 139
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9999340358646128,
+        "startIndex": 148
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.999842483684022,
+        "startIndex": 168
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.9999535085564613,
+        "startIndex": 183
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.999789312956622,
+        "startIndex": 204
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9990195875067477,
+        "startIndex": 218
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9524173988115018,
+        "startIndex": 228
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9524173988115018,
+        "startIndex": 236
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9524173988115018,
+        "startIndex": 242
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9524173988115018,
+        "startIndex": 249
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999588984447492,
+        "startIndex": 253
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999588984447492,
+        "startIndex": 257
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9998300176600653,
+        "startIndex": 265
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9998300176600653,
+        "startIndex": 277
+      },
+      {
+        "text": " по",
+        "confidence": 0.9998951695628572,
+        "startIndex": 281
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.9998951695628572,
+        "startIndex": 285
+      },
+      {
+        "text": "номер",
+        "confidence": 0.9998951695628572,
+        "startIndex": 292
+      },
+      {
+        "text": "приток",
+        "confidence": 0.9998951695628572,
+        "startIndex": 312
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.9998951695628572,
+        "startIndex": 321
+      },
+      {
+        "text": "МСК",
+        "confidence": 0.9998951695628572,
+        "startIndex": 351
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9999245350537025,
+        "startIndex": 354
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9994377767836293,
+        "startIndex": 362
+      },
+      {
+        "text": " в",
+        "confidence": 0.994462107179737,
+        "startIndex": 366
+      },
+      {
+        "text": "кабине",
+        "confidence": 0.994462107179737,
+        "startIndex": 369
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9994968048077519,
+        "startIndex": 375
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9994968048077519,
+        "startIndex": 382
+      },
+      {
+        "text": " 228",
+        "confidence": 0.9945394276723052,
+        "startIndex": 390
+      },
+      {
+        "text": "–",
+        "confidence": 0.9945394276723052,
+        "startIndex": 397
+      },
+      {
+        "text": "–",
+        "confidence": 0.9945394276723052,
+        "startIndex": 401
+      },
+      {
+        "text": "№1",
+        "confidence": 0.9945394276723052,
+        "startIndex": 405
+      },
+      {
+        "text": "СККВ",
+        "confidence": 0.9945394276723052,
+        "startIndex": 408
+      },
+      {
+        "text": "–",
+        "confidence": 0.9945394276723052,
+        "startIndex": 415
+      },
+      {
+        "text": "МСК",
+        "confidence": 0.9945394276723052,
+        "startIndex": 426
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9999894203655005,
+        "startIndex": 429
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9995361006695939,
+        "startIndex": 437
+      },
+      {
+        "text": "в",
+        "confidence": 0.9995361006695939,
+        "startIndex": 442
+      },
+      {
+        "text": " кладовой",
+        "confidence": 0.9999466634823502,
+        "startIndex": 443
+      },
+      {
+        "text": " костюмов",
+        "confidence": 0.9999474601634056,
+        "startIndex": 452
+      },
+      {
+        "text": "экипажа",
+        "confidence": 0.9999474601634056,
+        "startIndex": 462
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9999809268801936,
+        "startIndex": 469
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999881984200047,
+        "startIndex": 473
+      },
+      {
+        "text": " в",
+        "confidence": 0.9998589743003471,
+        "startIndex": 475
+      },
+      {
+        "text": "помещении",
+        "confidence": 0.9998589743003471,
+        "startIndex": 478
+      },
+      {
+        "text": "дежурного",
+        "confidence": 0.9998589743003471,
+        "startIndex": 488
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9999123566817698,
+        "startIndex": 497
+      },
+      {
+        "text": "ЛАК",
+        "confidence": 0.9999123566817698,
+        "startIndex": 506
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999123566817698,
+        "startIndex": 512
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999123566817698,
+        "startIndex": 516
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9999123566817698,
+        "startIndex": 520
+      },
+      {
+        "text": " 229",
+        "confidence": 0.9990704018370895,
+        "startIndex": 527
+      },
+      {
+        "text": "№2",
+        "confidence": 0.9990704018370895,
+        "startIndex": 534
+      },
+      {
+        "text": "СККВ",
+        "confidence": 0.9990704018370895,
+        "startIndex": 537
+      },
+      {
+        "text": "При",
+        "confidence": 0.9990704018370895,
+        "startIndex": 547
+      },
+      {
+        "text": " необхо-",
+        "confidence": 0.9962915915442195,
+        "startIndex": 550
+      },
+      {
+        "text": "димости",
+        "confidence": 0.9962915915442195,
+        "startIndex": 559
+      },
+      {
+        "text": "стравливания",
+        "confidence": 0.9962915915442195,
+        "startIndex": 567
+      },
+      {
+        "text": "избыточного",
+        "confidence": 0.9962915915442195,
+        "startIndex": 580
+      },
+      {
+        "text": "воздуха",
+        "confidence": 0.9962915915442195,
+        "startIndex": 592
+      },
+      {
+        "text": "открыть",
+        "confidence": 0.9962915915442195,
+        "startIndex": 600
+      },
+      {
+        "text": "головку",
+        "confidence": 0.9962915915442195,
+        "startIndex": 608
+      },
+      {
+        "text": " 229",
+        "confidence": 0.9998730809449127,
+        "startIndex": 615
+      }
+    ],
+    "averagePageConfidenceScore": 0.9912725308148279,
+    "minimumPageConfidenceScore": 0.7813444067375084
+  },
+  "blocks": [
+    {
+      "topLeftX": 0,
+      "topLeftY": 0,
+      "bottomRightX": 4552,
+      "bottomRightY": 1811,
+      "content": "|  Продолжение таблицы 5  |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n|   |  открыта |   | закрыта | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |  приток | вытяжка  |   |   |   |   |\n|  МСК экипажа ЛАК в кабине ЛАК | захлопка 228 | – | – | №1 СККВ | – |   |\n|  МСК экипажа ЛАК в кладовой костюмов экипажа ЛАК и в помещении дежурного экипажа ЛАК | – | – | головка 229 | №2 СККВ |  | При необхо- димости стравливания избыточного воздуха открыть головку 229  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

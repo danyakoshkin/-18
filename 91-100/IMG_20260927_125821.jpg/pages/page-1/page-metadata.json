@@ -1,0 +1,365 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 3334,
+    "width": 4618
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "#",
+        "confidence": 0.77729988964086,
+        "startIndex": 0
+      },
+      {
+        "text": " Продолжение",
+        "confidence": 0.9965462008792612,
+        "startIndex": 1
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999872447683118,
+        "startIndex": 13
+      },
+      {
+        "text": " 7",
+        "confidence": 0.9999894501239062,
+        "startIndex": 21
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9996129267835769,
+        "startIndex": 28
+      },
+      {
+        "text": " обслуживаемого",
+        "confidence": 0.740207636229427,
+        "startIndex": 40
+      },
+      {
+        "text": " помещения",
+        "confidence": 0.9999936273320724,
+        "startIndex": 55
+      },
+      {
+        "text": "Номер",
+        "confidence": 0.9999936273320724,
+        "startIndex": 68
+      },
+      {
+        "text": " кондиционера,",
+        "confidence": 0.9995932162621213,
+        "startIndex": 73
+      },
+      {
+        "text": " позиция",
+        "confidence": 0.9950437648942951,
+        "startIndex": 87
+      },
+      {
+        "text": " вентилятора",
+        "confidence": 0.999920548109525,
+        "startIndex": 95
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999399221272516,
+        "startIndex": 107
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.999755399873563,
+        "startIndex": 110
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999982118638471,
+        "startIndex": 116
+      },
+      {
+        "text": " его",
+        "confidence": 0.9999973774024795,
+        "startIndex": 118
+      },
+      {
+        "text": " номер",
+        "confidence": 0.999784580432047,
+        "startIndex": 122
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.999784580432047,
+        "startIndex": 131
+      },
+      {
+        "text": " питания,",
+        "confidence": 0.9998113426592695,
+        "startIndex": 134
+      },
+      {
+        "text": " место",
+        "confidence": 0.99998879445232,
+        "startIndex": 143
+      },
+      {
+        "text": " его",
+        "confidence": 0.9999828341569776,
+        "startIndex": 149
+      },
+      {
+        "text": " установки",
+        "confidence": 0.9999491179029459,
+        "startIndex": 153
+      },
+      {
+        "text": "Тип",
+        "confidence": 0.9999491179029459,
+        "startIndex": 166
+      },
+      {
+        "text": " аппаратуры",
+        "confidence": 0.999231618122058,
+        "startIndex": 169
+      },
+      {
+        "text": " включения,",
+        "confidence": 0.9998751338141726,
+        "startIndex": 180
+      },
+      {
+        "text": " место",
+        "confidence": 0.9999957084838798,
+        "startIndex": 191
+      },
+      {
+        "text": " ее",
+        "confidence": 0.9999389685688888,
+        "startIndex": 197
+      },
+      {
+        "text": " установки",
+        "confidence": 0.9998566023593468,
+        "startIndex": 200
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.8743273175134602,
+        "startIndex": 243
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9999579900968166,
+        "startIndex": 249
+      },
+      {
+        "text": "Кубрик",
+        "confidence": 0.9999579900968166,
+        "startIndex": 253
+      },
+      {
+        "text": " №5",
+        "confidence": 0.9775661829463904,
+        "startIndex": 259
+      },
+      {
+        "text": "62",
+        "confidence": 0.9775661829463904,
+        "startIndex": 265
+      },
+      {
+        "text": "№3СКВ",
+        "confidence": 0.9775661829463904,
+        "startIndex": 268
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.9775661829463904,
+        "startIndex": 276
+      },
+      {
+        "text": "3-ЩР1В",
+        "confidence": 0.9775661829463904,
+        "startIndex": 280
+      },
+      {
+        "text": "коридор",
+        "confidence": 0.9775661829463904,
+        "startIndex": 287
+      },
+      {
+        "text": " №1",
+        "confidence": 0.999921655149778,
+        "startIndex": 294
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.999921655149778,
+        "startIndex": 300
+      },
+      {
+        "text": " автоматический",
+        "confidence": 0.9917882338261866,
+        "startIndex": 315
+      },
+      {
+        "text": " выключатель;",
+        "confidence": 0.9656807240019549,
+        "startIndex": 330
+      },
+      {
+        "text": "пускатель",
+        "confidence": 0.9656807240019549,
+        "startIndex": 344
+      },
+      {
+        "text": "ПЭММ.380.00.55",
+        "confidence": 0.9656807240019549,
+        "startIndex": 354
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999941587791524,
+        "startIndex": 368
+      },
+      {
+        "text": " вентиляторной",
+        "confidence": 0.9902203140905191,
+        "startIndex": 370
+      },
+      {
+        "text": " №1;",
+        "confidence": 0.9998338893961431,
+        "startIndex": 384
+      },
+      {
+        "text": "63",
+        "confidence": 0.9998338893961431,
+        "startIndex": 399
+      },
+      {
+        "text": "Нагреватель",
+        "confidence": 0.9998338893961431,
+        "startIndex": 402
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9728468095601277,
+        "startIndex": 413
+      },
+      {
+        "text": "НВЭ1-0,63/40-380-50",
+        "confidence": 0.9728468095601277,
+        "startIndex": 422
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.9728468095601277,
+        "startIndex": 447
+      },
+      {
+        "text": " автоматический",
+        "confidence": 0.9999660902742972,
+        "startIndex": 462
+      },
+      {
+        "text": " выключатель;",
+        "confidence": 0.9996537587755063,
+        "startIndex": 477
+      },
+      {
+        "text": "автоматически",
+        "confidence": 0.9996537587755063,
+        "startIndex": 491
+      },
+      {
+        "text": " от",
+        "confidence": 0.999657033339134,
+        "startIndex": 504
+      },
+      {
+        "text": " датчиков-реле",
+        "confidence": 0.9980998952054642,
+        "startIndex": 507
+      },
+      {
+        "text": " температуры",
+        "confidence": 0.9998991907605378,
+        "startIndex": 521
+      },
+      {
+        "text": "61",
+        "confidence": 0.9998991907605378,
+        "startIndex": 544
+      },
+      {
+        "text": "№4СКВ",
+        "confidence": 0.9998991907605378,
+        "startIndex": 547
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.9998991907605378,
+        "startIndex": 558
+      },
+      {
+        "text": " автоматический",
+        "confidence": 0.9999834778804212,
+        "startIndex": 573
+      },
+      {
+        "text": " выключатель;",
+        "confidence": 0.9998105051589828,
+        "startIndex": 588
+      },
+      {
+        "text": "пускатель",
+        "confidence": 0.9998105051589828,
+        "startIndex": 602
+      },
+      {
+        "text": "ПЭММ.380.00.55",
+        "confidence": 0.9998105051589828,
+        "startIndex": 612
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999988079084972,
+        "startIndex": 626
+      },
+      {
+        "text": " вентиляторной",
+        "confidence": 0.9999976328506649,
+        "startIndex": 628
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999985638163209,
+        "startIndex": 642
+      }
+    ],
+    "averagePageConfidenceScore": 0.9854338700228774,
+    "minimumPageConfidenceScore": 0.740207636229427
+  },
+  "blocks": [
+    {
+      "topLeftX": 287,
+      "topLeftY": 2069,
+      "bottomRightX": 508,
+      "bottomRightY": 3134,
+      "content": "# Продолжение таблицы 7",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 448,
+      "topLeftY": 20,
+      "bottomRightX": 3966,
+      "bottomRightY": 3327,
+      "content": "|  Наименование обслуживаемого помещения | Номер кондиционера, позиция вентилятора по схеме и его номер | Щит питания, место его установки | Тип аппаратуры включения, место ее установки  |\n| --- | --- | --- | --- |\n|  Кубрик №4 Кубрик №5 | 62 №3СКВ | Щит 3-ЩР1В коридор №1 | Соответствующий автоматический выключатель; пускатель ПЭММ.380.00.55 в вентиляторной №1;  |\n|   |  63 Нагреватель воздуха НВЭ1-0,63/40-380-50 |  | Соответствующий автоматический выключатель; автоматически от датчиков-реле температуры  |\n|   |  61 №4СКВ |  | Соответствующий автоматический выключатель; пускатель ПЭММ.380.00.55 в вентиляторной №1  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

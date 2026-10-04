@@ -1,0 +1,674 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4629,
+    "width": 3020
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Наименование",
+        "confidence": 0.9778429435941939,
+        "startIndex": 3
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9778429435941939,
+        "startIndex": 16
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9778429435941939,
+        "startIndex": 31
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9585973092459291,
+        "startIndex": 43
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9998592741023101,
+        "startIndex": 52
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.9883519906302689,
+        "startIndex": 72
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.9965569591470597,
+        "startIndex": 87
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9965569591470597,
+        "startIndex": 152
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.9134259540677118,
+        "startIndex": 162
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9134259540677118,
+        "startIndex": 176
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9134259540677118,
+        "startIndex": 184
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9134259540677118,
+        "startIndex": 190
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9134259540677118,
+        "startIndex": 197
+      },
+      {
+        "text": " по",
+        "confidence": 0.999615170202021,
+        "startIndex": 201
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.999615170202021,
+        "startIndex": 205
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.999615170202021,
+        "startIndex": 213
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.999615170202021,
+        "startIndex": 225
+      },
+      {
+        "text": " по",
+        "confidence": 0.9822693198251641,
+        "startIndex": 229
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.9822693198251641,
+        "startIndex": 233
+      },
+      {
+        "text": "номер",
+        "confidence": 0.9822693198251641,
+        "startIndex": 240
+      },
+      {
+        "text": "приток",
+        "confidence": 0.9822693198251641,
+        "startIndex": 262
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.9822693198251641,
+        "startIndex": 271
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9822693198251641,
+        "startIndex": 294
+      },
+      {
+        "text": "гидроакустики",
+        "confidence": 0.9822693198251641,
+        "startIndex": 305
+      },
+      {
+        "text": " №",
+        "confidence": 0.9999959469005546,
+        "startIndex": 318
+      },
+      {
+        "text": " 1",
+        "confidence": 0.9966093833116791,
+        "startIndex": 320
+      },
+      {
+        "text": "Барбет",
+        "confidence": 0.9966093833116791,
+        "startIndex": 323
+      },
+      {
+        "text": " А-190",
+        "confidence": 0.9993388733076312,
+        "startIndex": 329
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9993388733076312,
+        "startIndex": 336
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9985117659746554,
+        "startIndex": 345
+      },
+      {
+        "text": "А-190",
+        "confidence": 0.9985117659746554,
+        "startIndex": 353
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9985117659746554,
+        "startIndex": 361
+      },
+      {
+        "text": " 23,",
+        "confidence": 0.9998729458910776,
+        "startIndex": 369
+      },
+      {
+        "text": "24,",
+        "confidence": 0.9998729458910776,
+        "startIndex": 374
+      },
+      {
+        "text": " 71",
+        "confidence": 0.999720131266703,
+        "startIndex": 377
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.999720131266703,
+        "startIndex": 383
+      },
+      {
+        "text": " 18",
+        "confidence": 0.9999687450583241,
+        "startIndex": 391
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9999687450583241,
+        "startIndex": 397
+      },
+      {
+        "text": " 19",
+        "confidence": 0.9932438461212997,
+        "startIndex": 405
+      },
+      {
+        "text": "№1",
+        "confidence": 0.9932438461212997,
+        "startIndex": 411
+      },
+      {
+        "text": "—",
+        "confidence": 0.9932438461212997,
+        "startIndex": 416
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9932438461212997,
+        "startIndex": 427
+      },
+      {
+        "text": " РТВ",
+        "confidence": 0.9981075841766284,
+        "startIndex": 437
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9979791232728863,
+        "startIndex": 441
+      },
+      {
+        "text": "—",
+        "confidence": 0.9979791232728863,
+        "startIndex": 447
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9979791232728863,
+        "startIndex": 451
+      },
+      {
+        "text": " 16",
+        "confidence": 0.9994748180020897,
+        "startIndex": 459
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9994748180020897,
+        "startIndex": 465
+      },
+      {
+        "text": " 15",
+        "confidence": 0.9999016140680453,
+        "startIndex": 472
+      },
+      {
+        "text": "№2",
+        "confidence": 0.9999016140680453,
+        "startIndex": 478
+      },
+      {
+        "text": "—",
+        "confidence": 0.9999016140680453,
+        "startIndex": 483
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9999016140680453,
+        "startIndex": 494
+      },
+      {
+        "text": " РТВ",
+        "confidence": 0.999984950056861,
+        "startIndex": 504
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9992179786032972,
+        "startIndex": 508
+      },
+      {
+        "text": "Пост",
+        "confidence": 0.9992179786032972,
+        "startIndex": 512
+      },
+      {
+        "text": " РТВ",
+        "confidence": 0.9999287442626626,
+        "startIndex": 516
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9999287442626626,
+        "startIndex": 523
+      },
+      {
+        "text": " 52,",
+        "confidence": 0.9996911271316875,
+        "startIndex": 530
+      },
+      {
+        "text": "219,",
+        "confidence": 0.9996911271316875,
+        "startIndex": 535
+      },
+      {
+        "text": " 222",
+        "confidence": 0.9999726797151415,
+        "startIndex": 539
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999726797151415,
+        "startIndex": 546
+      },
+      {
+        "text": " 29,",
+        "confidence": 0.9999030867782129,
+        "startIndex": 554
+      },
+      {
+        "text": "32,",
+        "confidence": 0.9999030867782129,
+        "startIndex": 559
+      },
+      {
+        "text": " 54,",
+        "confidence": 0.9999689470902297,
+        "startIndex": 562
+      },
+      {
+        "text": " 84",
+        "confidence": 0.9999793060180948,
+        "startIndex": 566
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999793060180948,
+        "startIndex": 572
+      },
+      {
+        "text": " 51,",
+        "confidence": 0.999806156762155,
+        "startIndex": 580
+      },
+      {
+        "text": "53",
+        "confidence": 0.999806156762155,
+        "startIndex": 585
+      },
+      {
+        "text": "№3",
+        "confidence": 0.999806156762155,
+        "startIndex": 590
+      },
+      {
+        "text": "—",
+        "confidence": 0.999806156762155,
+        "startIndex": 595
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.999806156762155,
+        "startIndex": 606
+      },
+      {
+        "text": " РТВ",
+        "confidence": 0.9998556076418905,
+        "startIndex": 616
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9982167600833439,
+        "startIndex": 620
+      },
+      {
+        "text": "Спецканцелярия",
+        "confidence": 0.9982167600833439,
+        "startIndex": 624
+      },
+      {
+        "text": "Агрегатная",
+        "confidence": 0.9982167600833439,
+        "startIndex": 639
+      },
+      {
+        "text": "электроэнергетики",
+        "confidence": 0.9982167600833439,
+        "startIndex": 650
+      },
+      {
+        "text": "№1",
+        "confidence": 0.9982167600833439,
+        "startIndex": 668
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9982167600833439,
+        "startIndex": 673
+      },
+      {
+        "text": " 219,",
+        "confidence": 0.9983022572609371,
+        "startIndex": 680
+      },
+      {
+        "text": "222",
+        "confidence": 0.9983022572609371,
+        "startIndex": 686
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9983022572609371,
+        "startIndex": 690
+      },
+      {
+        "text": " 85",
+        "confidence": 0.9999548080426233,
+        "startIndex": 698
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999548080426233,
+        "startIndex": 704
+      },
+      {
+        "text": " 30,",
+        "confidence": 0.9999730897960177,
+        "startIndex": 712
+      },
+      {
+        "text": "33,",
+        "confidence": 0.9999730897960177,
+        "startIndex": 717
+      },
+      {
+        "text": " 84,",
+        "confidence": 0.9999625104464328,
+        "startIndex": 720
+      },
+      {
+        "text": " 88",
+        "confidence": 0.9903638363381135,
+        "startIndex": 724
+      },
+      {
+        "text": "задвижка",
+        "confidence": 0.9903638363381135,
+        "startIndex": 728
+      },
+      {
+        "text": " 35",
+        "confidence": 0.9999817491965686,
+        "startIndex": 736
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9999817491965686,
+        "startIndex": 742
+      },
+      {
+        "text": " 31,",
+        "confidence": 0.9999499457630612,
+        "startIndex": 749
+      },
+      {
+        "text": "36",
+        "confidence": 0.9999499457630612,
+        "startIndex": 754
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9999499457630612,
+        "startIndex": 757
+      },
+      {
+        "text": " 28",
+        "confidence": 0.998330133167055,
+        "startIndex": 765
+      },
+      {
+        "text": "№4",
+        "confidence": 0.998330133167055,
+        "startIndex": 771
+      },
+      {
+        "text": "—",
+        "confidence": 0.998330133167055,
+        "startIndex": 776
+      },
+      {
+        "text": "(Приложение",
+        "confidence": 0.996750279280274,
+        "startIndex": 785
+      },
+      {
+        "text": " А.",
+        "confidence": 0.9961939104736517,
+        "startIndex": 796
+      },
+      {
+        "text": " Рисунки",
+        "confidence": 0.9977438773369576,
+        "startIndex": 799
+      },
+      {
+        "text": " А.1,",
+        "confidence": 0.9997515087073262,
+        "startIndex": 807
+      },
+      {
+        "text": " А.2,",
+        "confidence": 0.9999820952024436,
+        "startIndex": 812
+      },
+      {
+        "text": " А.3,",
+        "confidence": 0.9999904395203426,
+        "startIndex": 817
+      },
+      {
+        "text": " А.4,",
+        "confidence": 0.999985265996632,
+        "startIndex": 822
+      },
+      {
+        "text": " А.5,",
+        "confidence": 0.999988937530171,
+        "startIndex": 827
+      },
+      {
+        "text": " А.6,",
+        "confidence": 0.9999788527993192,
+        "startIndex": 832
+      },
+      {
+        "text": " А.7,",
+        "confidence": 0.9999841454604544,
+        "startIndex": 837
+      },
+      {
+        "text": " А.8)",
+        "confidence": 0.9998411234223369,
+        "startIndex": 842
+      },
+      {
+        "text": "Таблица",
+        "confidence": 0.9991905094827512,
+        "startIndex": 849
+      },
+      {
+        "text": " 6",
+        "confidence": 0.9995436700358915,
+        "startIndex": 856
+      },
+      {
+        "text": " –",
+        "confidence": 0.9625710034064506,
+        "startIndex": 858
+      },
+      {
+        "text": " Положение",
+        "confidence": 0.9999009947906229,
+        "startIndex": 860
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9999680132906734,
+        "startIndex": 870
+      },
+      {
+        "text": " системы",
+        "confidence": 0.9998808049160824,
+        "startIndex": 879
+      },
+      {
+        "text": " кондиционирования",
+        "confidence": 0.9998872292305201,
+        "startIndex": 887
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999961853172863,
+        "startIndex": 905
+      },
+      {
+        "text": " и",
+        "confidence": 0.9999810460826691,
+        "startIndex": 913
+      },
+      {
+        "text": " системы",
+        "confidence": 0.9999165604564946,
+        "startIndex": 915
+      },
+      {
+        "text": " комфортного",
+        "confidence": 0.9993766126206288,
+        "startIndex": 923
+      },
+      {
+        "text": " кондиционирования",
+        "confidence": 0.9404258026769744,
+        "startIndex": 935
+      },
+      {
+        "text": " воздуха",
+        "confidence": 0.9999917746265009,
+        "startIndex": 953
+      },
+      {
+        "text": " костюмов",
+        "confidence": 0.9994989571313281,
+        "startIndex": 961
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9998226074527118,
+        "startIndex": 970
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9969536510725321,
+        "startIndex": 978
+      },
+      {
+        "text": " в",
+        "confidence": 0.9998066799057459,
+        "startIndex": 982
+      },
+      {
+        "text": " режиме",
+        "confidence": 0.9999917746265009,
+        "startIndex": 984
+      },
+      {
+        "text": " герметизации",
+        "confidence": 0.9986437794245161,
+        "startIndex": 991
+      }
+    ],
+    "averagePageConfidenceScore": 0.9929077469713591,
+    "minimumPageConfidenceScore": 0.9134259540677118
+  },
+  "blocks": [
+    {
+      "topLeftX": 139,
+      "topLeftY": 130,
+      "bottomRightX": 2388,
+      "bottomRightY": 4495,
+      "content": "|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  закрыта | открыта |   | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |  | приток | вытяжка |  |  |   |\n|  Аппаратная гидроакустики № 1 Барбет А-190 Помещение запаса А-190 | захлопки 23, 24, 71 | захлопка 18 | захлопка 19 | №1 | — |   |\n|  Аппаратная РТВ №1 | — | захлопка 16 | головка 15 | №2 | — |   |\n|  Аппаратная РТВ №3 Пост РТВ | головки 52, 219, 222 | захлопки 29, 32, 54, 84 | захлопки 51, 53 | №3 | — |   |\n|  Аппаратная РТВ №2 Спецканцелярия Агрегатная электроэнергетики №1 | головки 219, 222 захлопка 85 | захлопки 30, 33, 84, 88 задвижка 35 | головки 31, 36 захлопка 28 | №4 | — |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 2506,
+      "topLeftY": 806,
+      "bottomRightX": 2627,
+      "bottomRightY": 3211,
+      "content": "(Приложение А. Рисунки А.1, А.2, А.3, А.4, А.5, А.6, А.7, А.8)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 2651,
+      "topLeftY": 209,
+      "bottomRightX": 2899,
+      "bottomRightY": 3874,
+      "content": "Таблица 6 – Положение арматуры системы кондиционирования воздуха и системы комфортного кондиционирования воздуха костюмов экипажа ЛАК в режиме герметизации",
+      "confidenceScores": null,
+      "type": "caption"
+    }
+  ]
+}

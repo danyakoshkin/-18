@@ -1,0 +1,535 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4606,
+    "width": 2809
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999851858352943,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999947548186582,
+        "startIndex": 11
+      },
+      {
+        "text": " 5",
+        "confidence": 0.9999884964443033,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.99651492396954,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.99651492396954,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.99651492396954,
+        "startIndex": 54
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9980937294833104,
+        "startIndex": 66
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9999043880741395,
+        "startIndex": 75
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.9990840866664642,
+        "startIndex": 95
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.999780906260536,
+        "startIndex": 110
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.999843650573274,
+        "startIndex": 175
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9996933888314313,
+        "startIndex": 189
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9588536055007416,
+        "startIndex": 199
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9588536055007416,
+        "startIndex": 207
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9588536055007416,
+        "startIndex": 213
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9588536055007416,
+        "startIndex": 220
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999486314427628,
+        "startIndex": 224
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999486314427628,
+        "startIndex": 228
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999229668758473,
+        "startIndex": 236
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9999229668758473,
+        "startIndex": 248
+      },
+      {
+        "text": " по",
+        "confidence": 0.9995372296779861,
+        "startIndex": 252
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.9995372296779861,
+        "startIndex": 256
+      },
+      {
+        "text": "номер",
+        "confidence": 0.9995372296779861,
+        "startIndex": 263
+      },
+      {
+        "text": "приток",
+        "confidence": 0.9995372296779861,
+        "startIndex": 283
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.9995372296779861,
+        "startIndex": 292
+      },
+      {
+        "text": "Амбулатория",
+        "confidence": 0.9995372296779861,
+        "startIndex": 322
+      },
+      {
+        "text": "Лазарет",
+        "confidence": 0.9995372296779861,
+        "startIndex": 334
+      },
+      {
+        "text": "Медкладовая",
+        "confidence": 0.9995372296779861,
+        "startIndex": 342
+      },
+      {
+        "text": "Санкладовая",
+        "confidence": 0.9995372296779861,
+        "startIndex": 354
+      },
+      {
+        "text": "Санузел",
+        "confidence": 0.9995372296779861,
+        "startIndex": 366
+      },
+      {
+        "text": " лазарета",
+        "confidence": 0.9997460771285892,
+        "startIndex": 373
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.9997460771285892,
+        "startIndex": 383
+      },
+      {
+        "text": " №10",
+        "confidence": 0.9999338172872695,
+        "startIndex": 396
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9999338172872695,
+        "startIndex": 403
+      },
+      {
+        "text": " 181,",
+        "confidence": 0.9996436302954007,
+        "startIndex": 410
+      },
+      {
+        "text": "215",
+        "confidence": 0.9996436302954007,
+        "startIndex": 416
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9996436302954007,
+        "startIndex": 420
+      },
+      {
+        "text": " 185",
+        "confidence": 0.9999982178262634,
+        "startIndex": 428
+      },
+      {
+        "text": "головки",
+        "confidence": 0.9999982178262634,
+        "startIndex": 435
+      },
+      {
+        "text": " 183,",
+        "confidence": 0.9999932830949686,
+        "startIndex": 442
+      },
+      {
+        "text": "184",
+        "confidence": 0.9999932830949686,
+        "startIndex": 448
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9999932830949686,
+        "startIndex": 452
+      },
+      {
+        "text": " 211",
+        "confidence": 0.9904667021445389,
+        "startIndex": 460
+      },
+      {
+        "text": "–",
+        "confidence": 0.9904667021445389,
+        "startIndex": 467
+      },
+      {
+        "text": "№20",
+        "confidence": 0.9904667021445389,
+        "startIndex": 471
+      },
+      {
+        "text": "–",
+        "confidence": 0.9904667021445389,
+        "startIndex": 477
+      },
+      {
+        "text": "Вентиляторная",
+        "confidence": 0.9904667021445389,
+        "startIndex": 488
+      },
+      {
+        "text": " №11",
+        "confidence": 0.9999741057616881,
+        "startIndex": 501
+      },
+      {
+        "text": "Пост",
+        "confidence": 0.9999741057616881,
+        "startIndex": 506
+      },
+      {
+        "text": " ЗРК",
+        "confidence": 0.9995183042493325,
+        "startIndex": 510
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9995183042493325,
+        "startIndex": 515
+      },
+      {
+        "text": " ДАК",
+        "confidence": 0.9997237821796923,
+        "startIndex": 524
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9997237821796923,
+        "startIndex": 529
+      },
+      {
+        "text": "спутниковой",
+        "confidence": 0.9997237821796923,
+        "startIndex": 540
+      },
+      {
+        "text": " связи",
+        "confidence": 0.9998547244592977,
+        "startIndex": 551
+      },
+      {
+        "text": "Коридор",
+        "confidence": 0.9998547244592977,
+        "startIndex": 558
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9999586521949951,
+        "startIndex": 565
+      },
+      {
+        "text": "Кладовая",
+        "confidence": 0.9999586521949951,
+        "startIndex": 569
+      },
+      {
+        "text": " камбуза",
+        "confidence": 0.9966578665236621,
+        "startIndex": 577
+      },
+      {
+        "text": "Кладовая",
+        "confidence": 0.9966578665236621,
+        "startIndex": 586
+      },
+      {
+        "text": " сухих",
+        "confidence": 0.9998740928552249,
+        "startIndex": 594
+      },
+      {
+        "text": "продуктов",
+        "confidence": 0.9998740928552249,
+        "startIndex": 601
+      },
+      {
+        "text": "Тамбур",
+        "confidence": 0.9998740928552249,
+        "startIndex": 611
+      },
+      {
+        "text": " №30",
+        "confidence": 0.9999263138505383,
+        "startIndex": 617
+      },
+      {
+        "text": "Барбет",
+        "confidence": 0.9999263138505383,
+        "startIndex": 622
+      },
+      {
+        "text": " АК-630М",
+        "confidence": 0.9997914512814459,
+        "startIndex": 628
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999414554876945,
+        "startIndex": 636
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9999414554876945,
+        "startIndex": 642
+      },
+      {
+        "text": " 195",
+        "confidence": 0.9999306637327607,
+        "startIndex": 649
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9999306637327607,
+        "startIndex": 654
+      },
+      {
+        "text": " 126,",
+        "confidence": 0.999986138165948,
+        "startIndex": 662
+      },
+      {
+        "text": "133,",
+        "confidence": 0.999986138165948,
+        "startIndex": 668
+      },
+      {
+        "text": " 135",
+        "confidence": 0.9997948849044028,
+        "startIndex": 672
+      },
+      {
+        "text": "задвижка",
+        "confidence": 0.9997948849044028,
+        "startIndex": 677
+      },
+      {
+        "text": " 132",
+        "confidence": 0.9999952138093333,
+        "startIndex": 685
+      },
+      {
+        "text": "головка",
+        "confidence": 0.9999952138093333,
+        "startIndex": 692
+      },
+      {
+        "text": " 129",
+        "confidence": 0.9981260780672465,
+        "startIndex": 699
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9981260780672465,
+        "startIndex": 704
+      },
+      {
+        "text": "127,",
+        "confidence": 0.9981260780672465,
+        "startIndex": 713
+      },
+      {
+        "text": " 130,",
+        "confidence": 0.999980855927883,
+        "startIndex": 717
+      },
+      {
+        "text": " 134",
+        "confidence": 0.999997615821475,
+        "startIndex": 722
+      },
+      {
+        "text": "задвижка",
+        "confidence": 0.999997615821475,
+        "startIndex": 727
+      },
+      {
+        "text": " 131",
+        "confidence": 0.9999873699102886,
+        "startIndex": 735
+      },
+      {
+        "text": "захлопка",
+        "confidence": 0.9999873699102886,
+        "startIndex": 742
+      },
+      {
+        "text": " 128",
+        "confidence": 0.9999060366668252,
+        "startIndex": 750
+      },
+      {
+        "text": "№21",
+        "confidence": 0.9999060366668252,
+        "startIndex": 757
+      },
+      {
+        "text": "–",
+        "confidence": 0.9999060366668252,
+        "startIndex": 763
+      },
+      {
+        "text": "При",
+        "confidence": 0.9999060366668252,
+        "startIndex": 767
+      },
+      {
+        "text": " необхо-",
+        "confidence": 0.9974182754545073,
+        "startIndex": 770
+      },
+      {
+        "text": "димости",
+        "confidence": 0.9974182754545073,
+        "startIndex": 779
+      },
+      {
+        "text": "подачи",
+        "confidence": 0.9974182754545073,
+        "startIndex": 787
+      },
+      {
+        "text": "воздуха",
+        "confidence": 0.9974182754545073,
+        "startIndex": 794
+      },
+      {
+        "text": " в",
+        "confidence": 0.9990351266213686,
+        "startIndex": 801
+      },
+      {
+        "text": "барбет",
+        "confidence": 0.9990351266213686,
+        "startIndex": 804
+      },
+      {
+        "text": " АК-",
+        "confidence": 0.99960830275705,
+        "startIndex": 810
+      },
+      {
+        "text": "630М",
+        "confidence": 0.99960830275705,
+        "startIndex": 815
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9954483365990907,
+        "startIndex": 819
+      },
+      {
+        "text": "откройте",
+        "confidence": 0.9954483365990907,
+        "startIndex": 823
+      },
+      {
+        "text": "захлопку",
+        "confidence": 0.9954483365990907,
+        "startIndex": 832
+      },
+      {
+        "text": " 128",
+        "confidence": 0.9999816644653189,
+        "startIndex": 840
+      }
+    ],
+    "averagePageConfidenceScore": 0.9972394531545754,
+    "minimumPageConfidenceScore": 0.9588536055007416
+  },
+  "blocks": [
+    {
+      "topLeftX": 2607,
+      "topLeftY": 157,
+      "bottomRightX": 2691,
+      "bottomRightY": 1134,
+      "content": "Продолжение таблицы 5",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 51,
+      "bottomRightX": 2607,
+      "bottomRightY": 4606,
+      "content": "|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  открыта |   | закрыта | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |  приток | вытяжка  |   |   |   |   |\n|  Амбулатория Лазарет Медкладовая Санкладовая Санузел лазарета Вентиляторная №10 | головки 181, 215 захлопка 185 | головки 183, 184 захлопка 211 | – | №20 | – |   |\n|  Вентиляторная №11 Пост ЗРК Помещение ДАК Аппаратная спутниковой связи Коридор №4 Кладовая камбуза Кладовая сухих продуктов Тамбур №30 Барбет АК-630М №2 | головка 195 захлопки 126, 133, 135 задвижка 132 | головка 129 захлопки 127, 130, 134 задвижка 131 | захлопка 128 | №21 | – | При необхо- димости подачи воздуха в барбет АК- 630М №2 откройте захлопку 128  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

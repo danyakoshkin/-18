@@ -1,0 +1,770 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 3219,
+    "width": 4592
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9999788572357322,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999648344963598,
+        "startIndex": 11
+      },
+      {
+        "text": " 7",
+        "confidence": 0.9999709137829148,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9657430859902438,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9657430859902438,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9657430859902438,
+        "startIndex": 54
+      },
+      {
+        "text": "Номер",
+        "confidence": 0.9657430859902438,
+        "startIndex": 66
+      },
+      {
+        "text": "кондиционера,",
+        "confidence": 0.9657430859902438,
+        "startIndex": 72
+      },
+      {
+        "text": " позиция",
+        "confidence": 0.9950213006933323,
+        "startIndex": 85
+      },
+      {
+        "text": "вентилятора",
+        "confidence": 0.9950213006933323,
+        "startIndex": 94
+      },
+      {
+        "text": "по",
+        "confidence": 0.9950213006933323,
+        "startIndex": 106
+      },
+      {
+        "text": " схеме",
+        "confidence": 0.9998380810274453,
+        "startIndex": 108
+      },
+      {
+        "text": " и",
+        "confidence": 0.9997087427888063,
+        "startIndex": 114
+      },
+      {
+        "text": "его",
+        "confidence": 0.9997087427888063,
+        "startIndex": 117
+      },
+      {
+        "text": " номер",
+        "confidence": 0.999082625097016,
+        "startIndex": 120
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.999082625097016,
+        "startIndex": 129
+      },
+      {
+        "text": "питания,",
+        "confidence": 0.999082625097016,
+        "startIndex": 133
+      },
+      {
+        "text": "место",
+        "confidence": 0.999082625097016,
+        "startIndex": 142
+      },
+      {
+        "text": " его",
+        "confidence": 0.9999848291316286,
+        "startIndex": 147
+      },
+      {
+        "text": "установки",
+        "confidence": 0.9999848291316286,
+        "startIndex": 152
+      },
+      {
+        "text": "Тип",
+        "confidence": 0.9999848291316286,
+        "startIndex": 164
+      },
+      {
+        "text": " аппаратуры",
+        "confidence": 0.9997844186990087,
+        "startIndex": 167
+      },
+      {
+        "text": "включения,",
+        "confidence": 0.9997844186990087,
+        "startIndex": 179
+      },
+      {
+        "text": " место",
+        "confidence": 0.9999952316511552,
+        "startIndex": 189
+      },
+      {
+        "text": " ее",
+        "confidence": 0.9993771575709479,
+        "startIndex": 195
+      },
+      {
+        "text": "установки",
+        "confidence": 0.9993771575709479,
+        "startIndex": 199
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9993771575709479,
+        "startIndex": 241
+      },
+      {
+        "text": "ГРЩ",
+        "confidence": 0.9993771575709479,
+        "startIndex": 251
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9990310604176336,
+        "startIndex": 254
+      },
+      {
+        "text": "ЦПНК",
+        "confidence": 0.9990310604176336,
+        "startIndex": 258
+      },
+      {
+        "text": "Агрегатная",
+        "confidence": 0.9990310604176336,
+        "startIndex": 263
+      },
+      {
+        "text": "электроэнергетики",
+        "confidence": 0.9990310604176336,
+        "startIndex": 274
+      },
+      {
+        "text": " №2",
+        "confidence": 0.999180920192706,
+        "startIndex": 291
+      },
+      {
+        "text": "№5",
+        "confidence": 0.999180920192706,
+        "startIndex": 297
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.999180920192706,
+        "startIndex": 302
+      },
+      {
+        "text": "4-ЩР2В",
+        "confidence": 0.999180920192706,
+        "startIndex": 306
+      },
+      {
+        "text": "помещение",
+        "confidence": 0.999180920192706,
+        "startIndex": 313
+      },
+      {
+        "text": "холодильных",
+        "confidence": 0.999180920192706,
+        "startIndex": 323
+      },
+      {
+        "text": "машин",
+        "confidence": 0.999180920192706,
+        "startIndex": 335
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.999180920192706,
+        "startIndex": 343
+      },
+      {
+        "text": "автоматический",
+        "confidence": 0.999180920192706,
+        "startIndex": 359
+      },
+      {
+        "text": "выключатель;",
+        "confidence": 0.999180920192706,
+        "startIndex": 374
+      },
+      {
+        "text": "местное",
+        "confidence": 0.999180920192706,
+        "startIndex": 387
+      },
+      {
+        "text": " –",
+        "confidence": 0.9386637574061597,
+        "startIndex": 394
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999401605169844,
+        "startIndex": 396
+      },
+      {
+        "text": " пульта",
+        "confidence": 0.9997783496378316,
+        "startIndex": 398
+      },
+      {
+        "text": "управления",
+        "confidence": 0.9997783496378316,
+        "startIndex": 406
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999742796433952,
+        "startIndex": 416
+      },
+      {
+        "text": "кондиционере;",
+        "confidence": 0.9999742796433952,
+        "startIndex": 420
+      },
+      {
+        "text": "дистанционное",
+        "confidence": 0.9999742796433952,
+        "startIndex": 434
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999866487378297,
+        "startIndex": 447
+      },
+      {
+        "text": " с",
+        "confidence": 0.9951591412648734,
+        "startIndex": 449
+      },
+      {
+        "text": "ПДУ",
+        "confidence": 0.9951591412648734,
+        "startIndex": 452
+      },
+      {
+        "text": " в",
+        "confidence": 0.9998817583680537,
+        "startIndex": 455
+      },
+      {
+        "text": " ЦПНК.",
+        "confidence": 0.9980595340171319,
+        "startIndex": 457
+      },
+      {
+        "text": "СКП-ЗКП",
+        "confidence": 0.9980595340171319,
+        "startIndex": 470
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9980595340171319,
+        "startIndex": 478
+      },
+      {
+        "text": " старшин",
+        "confidence": 0.9999836536939232,
+        "startIndex": 483
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9998728731897675,
+        "startIndex": 491
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9998728731897675,
+        "startIndex": 495
+      },
+      {
+        "text": " старшин",
+        "confidence": 0.9999977946337015,
+        "startIndex": 500
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9998606409598172,
+        "startIndex": 508
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9998606409598172,
+        "startIndex": 512
+      },
+      {
+        "text": " старшин",
+        "confidence": 0.999998152259737,
+        "startIndex": 517
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9998975033050608,
+        "startIndex": 525
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9998975033050608,
+        "startIndex": 529
+      },
+      {
+        "text": " старшин",
+        "confidence": 0.9999969750752619,
+        "startIndex": 534
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9998851737735334,
+        "startIndex": 542
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9998851737735334,
+        "startIndex": 546
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999059150222426,
+        "startIndex": 551
+      },
+      {
+        "text": " №8",
+        "confidence": 0.9998316347253909,
+        "startIndex": 560
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9998316347253909,
+        "startIndex": 564
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.999993099161669,
+        "startIndex": 569
+      },
+      {
+        "text": " №9",
+        "confidence": 0.9994948038745558,
+        "startIndex": 578
+      },
+      {
+        "text": "Строевая",
+        "confidence": 0.9994948038745558,
+        "startIndex": 582
+      },
+      {
+        "text": " канцелярия",
+        "confidence": 0.9999329406238284,
+        "startIndex": 590
+      },
+      {
+        "text": "№6",
+        "confidence": 0.9999329406238284,
+        "startIndex": 604
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.9999329406238284,
+        "startIndex": 609
+      },
+      {
+        "text": "7-ЩР1В",
+        "confidence": 0.9999329406238284,
+        "startIndex": 613
+      },
+      {
+        "text": "вентиляторная",
+        "confidence": 0.9999329406238284,
+        "startIndex": 620
+      },
+      {
+        "text": "№4",
+        "confidence": 0.9999329406238284,
+        "startIndex": 634
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.9999329406238284,
+        "startIndex": 639
+      },
+      {
+        "text": "автоматический",
+        "confidence": 0.9999329406238284,
+        "startIndex": 655
+      },
+      {
+        "text": "выключатель;",
+        "confidence": 0.9999329406238284,
+        "startIndex": 670
+      },
+      {
+        "text": "местное",
+        "confidence": 0.9999329406238284,
+        "startIndex": 683
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999977350285647,
+        "startIndex": 690
+      },
+      {
+        "text": " с",
+        "confidence": 1,
+        "startIndex": 692
+      },
+      {
+        "text": " пульта",
+        "confidence": 0.9999715162278702,
+        "startIndex": 694
+      },
+      {
+        "text": "управления",
+        "confidence": 0.9999715162278702,
+        "startIndex": 702
+      },
+      {
+        "text": " на",
+        "confidence": 0.9996623638501292,
+        "startIndex": 712
+      },
+      {
+        "text": "кондиционере.",
+        "confidence": 0.9996623638501292,
+        "startIndex": 716
+      },
+      {
+        "text": "Аппаратная",
+        "confidence": 0.9996623638501292,
+        "startIndex": 736
+      },
+      {
+        "text": " ЗРК",
+        "confidence": 0.9996476387749305,
+        "startIndex": 746
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999563972048398,
+        "startIndex": 750
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9999563972048398,
+        "startIndex": 754
+      },
+      {
+        "text": "ПУ",
+        "confidence": 0.9999563972048398,
+        "startIndex": 764
+      },
+      {
+        "text": " ЗРК",
+        "confidence": 0.9998860242919816,
+        "startIndex": 766
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999907020155911,
+        "startIndex": 770
+      },
+      {
+        "text": "№7",
+        "confidence": 0.9999907020155911,
+        "startIndex": 776
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.9999907020155911,
+        "startIndex": 781
+      },
+      {
+        "text": "8-ЩР2В",
+        "confidence": 0.9999907020155911,
+        "startIndex": 785
+      },
+      {
+        "text": "коридор",
+        "confidence": 0.9999907020155911,
+        "startIndex": 792
+      },
+      {
+        "text": " №8",
+        "confidence": 0.9999956020334427,
+        "startIndex": 799
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.9999956020334427,
+        "startIndex": 805
+      },
+      {
+        "text": "автоматический",
+        "confidence": 0.9999956020334427,
+        "startIndex": 821
+      },
+      {
+        "text": "выключатель;",
+        "confidence": 0.9999956020334427,
+        "startIndex": 836
+      },
+      {
+        "text": "местное",
+        "confidence": 0.9999956020334427,
+        "startIndex": 849
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999952316511552,
+        "startIndex": 856
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999994039539004,
+        "startIndex": 858
+      },
+      {
+        "text": " пульта",
+        "confidence": 0.9999734125244972,
+        "startIndex": 860
+      },
+      {
+        "text": "управления",
+        "confidence": 0.9999734125244972,
+        "startIndex": 868
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999936514076626,
+        "startIndex": 878
+      },
+      {
+        "text": "кондиционере;",
+        "confidence": 0.9999936514076626,
+        "startIndex": 882
+      },
+      {
+        "text": "дистанционное",
+        "confidence": 0.9999936514076626,
+        "startIndex": 896
+      },
+      {
+        "text": " –",
+        "confidence": 0.999984264621273,
+        "startIndex": 909
+      },
+      {
+        "text": " с",
+        "confidence": 0.9997226897941371,
+        "startIndex": 911
+      },
+      {
+        "text": "ЩСУС",
+        "confidence": 0.9997226897941371,
+        "startIndex": 914
+      },
+      {
+        "text": " ППЗ",
+        "confidence": 0.9990393167514332,
+        "startIndex": 918
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999823573372132,
+        "startIndex": 922
+      },
+      {
+        "text": " посту",
+        "confidence": 0.9999608518977083,
+        "startIndex": 924
+      },
+      {
+        "text": "«Дозор».",
+        "confidence": 0.9999608518977083,
+        "startIndex": 931
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9999608518977083,
+        "startIndex": 946
+      },
+      {
+        "text": " запаса",
+        "confidence": 0.9985769575349371,
+        "startIndex": 955
+      },
+      {
+        "text": "ЛАК",
+        "confidence": 0.9985769575349371,
+        "startIndex": 963
+      },
+      {
+        "text": "№8",
+        "confidence": 0.9985769575349371,
+        "startIndex": 969
+      },
+      {
+        "text": "Щит",
+        "confidence": 0.9985769575349371,
+        "startIndex": 974
+      },
+      {
+        "text": "9-ЩР1В",
+        "confidence": 0.9985769575349371,
+        "startIndex": 978
+      },
+      {
+        "text": "Тамбур",
+        "confidence": 0.9985769575349371,
+        "startIndex": 985
+      },
+      {
+        "text": " №21",
+        "confidence": 0.9999963186684289,
+        "startIndex": 991
+      },
+      {
+        "text": "Соответствующий",
+        "confidence": 0.9999963186684289,
+        "startIndex": 998
+      },
+      {
+        "text": "автоматический",
+        "confidence": 0.9999963186684289,
+        "startIndex": 1014
+      },
+      {
+        "text": "выключатель;",
+        "confidence": 0.9999963186684289,
+        "startIndex": 1029
+      },
+      {
+        "text": "местное",
+        "confidence": 0.9999963186684289,
+        "startIndex": 1042
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999994039539004,
+        "startIndex": 1049
+      },
+      {
+        "text": " с",
+        "confidence": 0.9999991655356624,
+        "startIndex": 1051
+      },
+      {
+        "text": " пульта",
+        "confidence": 0.99998039643041,
+        "startIndex": 1053
+      },
+      {
+        "text": "управления",
+        "confidence": 0.99998039643041,
+        "startIndex": 1061
+      },
+      {
+        "text": " на",
+        "confidence": 0.9999957176685577,
+        "startIndex": 1071
+      },
+      {
+        "text": "кондиционере;",
+        "confidence": 0.9999957176685577,
+        "startIndex": 1075
+      },
+      {
+        "text": "дистанционное",
+        "confidence": 0.9999957176685577,
+        "startIndex": 1089
+      },
+      {
+        "text": " –",
+        "confidence": 0.9999985694905718,
+        "startIndex": 1102
+      },
+      {
+        "text": " с",
+        "confidence": 0.999986150897536,
+        "startIndex": 1104
+      },
+      {
+        "text": "ЩСУС",
+        "confidence": 0.999986150897536,
+        "startIndex": 1107
+      },
+      {
+        "text": " ППЗ",
+        "confidence": 0.9999896289390395,
+        "startIndex": 1111
+      },
+      {
+        "text": " в",
+        "confidence": 0.9999963045256735,
+        "startIndex": 1115
+      },
+      {
+        "text": " посту",
+        "confidence": 0.9999802242171515,
+        "startIndex": 1117
+      },
+      {
+        "text": "«Дозор».",
+        "confidence": 0.9999802242171515,
+        "startIndex": 1124
+      }
+    ],
+    "averagePageConfidenceScore": 0.9979631713505899,
+    "minimumPageConfidenceScore": 0.9386637574061597
+  },
+  "blocks": [
+    {
+      "topLeftX": 23,
+      "topLeftY": 1937,
+      "bottomRightX": 129,
+      "bottomRightY": 2906,
+      "content": "Продолжение таблицы 7",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 129,
+      "bottomRightX": 4422,
+      "bottomRightY": 3132,
+      "content": "|  Наименование обслуживаемого помещения | Номер кондиционера, позиция вентилятора по схеме и его номер | Щит питания, место его установки | Тип аппаратуры включения, место ее установки  |\n| --- | --- | --- | --- |\n|  Помещение ГРЩ №1 ЦПНК Агрегатная электроэнергетики №2 | №5 | Щит 4-ЩР2В помещение холодильных машин | Соответствующий автоматический выключатель; местное – с пульта управления на кондиционере; дистанционное – с ПДУ в ЦПНК.  |\n|  СКП-ЗКП Каюта старшин №1 Каюта старшин №2 Каюта старшин №3 Каюта старшин №4 Каюта офицеров №8 Каюта офицеров №9 Строевая канцелярия | №6 | Щит 7-ЩР1В вентиляторная №4 | Соответствующий автоматический выключатель; местное – с пульта управления на кондиционере.  |\n|  Аппаратная ЗРК №1 Помещение ПУ ЗРК №1 | №7 | Щит 8-ЩР2В коридор №8 | Соответствующий автоматический выключатель; местное – с пульта управления на кондиционере; дистанционное – с ЩСУС ППЗ в посту «Дозор».  |\n|  Помещение запаса ЛАК | №8 | Щит 9-ЩР1В Тамбур №21 | Соответствующий автоматический выключатель; местное – с пульта управления на кондиционере; дистанционное – с ЩСУС ППЗ в посту «Дозор».  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

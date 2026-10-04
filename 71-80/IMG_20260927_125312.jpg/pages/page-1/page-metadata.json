@@ -1,0 +1,565 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4728,
+    "width": 3142
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9994663747302472,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999539873315005,
+        "startIndex": 11
+      },
+      {
+        "text": " 5",
+        "confidence": 0.9973391530838956,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9927564096898438,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9927564096898438,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9927564096898438,
+        "startIndex": 54
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9988533278074448,
+        "startIndex": 66
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9998570387007738,
+        "startIndex": 75
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.9997588654720065,
+        "startIndex": 95
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.9999880527173843,
+        "startIndex": 110
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.999734806445568,
+        "startIndex": 175
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9995505081885894,
+        "startIndex": 189
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9423882478344511,
+        "startIndex": 199
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9423882478344511,
+        "startIndex": 207
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9423882478344511,
+        "startIndex": 213
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9423882478344511,
+        "startIndex": 220
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999049900238336,
+        "startIndex": 224
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999049900238336,
+        "startIndex": 228
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.999585653059847,
+        "startIndex": 236
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.999585653059847,
+        "startIndex": 248
+      },
+      {
+        "text": " по",
+        "confidence": 0.9998791112400682,
+        "startIndex": 252
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.9998791112400682,
+        "startIndex": 256
+      },
+      {
+        "text": "номер",
+        "confidence": 0.9998791112400682,
+        "startIndex": 263
+      },
+      {
+        "text": "приток",
+        "confidence": 0.9998791112400682,
+        "startIndex": 283
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.9998791112400682,
+        "startIndex": 292
+      },
+      {
+        "text": "Малая",
+        "confidence": 0.9998791112400682,
+        "startIndex": 322
+      },
+      {
+        "text": " кают-",
+        "confidence": 0.9675944014186867,
+        "startIndex": 327
+      },
+      {
+        "text": "компания",
+        "confidence": 0.9675944014186867,
+        "startIndex": 334
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9518435857824243,
+        "startIndex": 345
+      },
+      {
+        "text": " 138,",
+        "confidence": 0.9999709829142794,
+        "startIndex": 353
+      },
+      {
+        "text": "142,",
+        "confidence": 0.9999709829142794,
+        "startIndex": 359
+      },
+      {
+        "text": " 168,",
+        "confidence": 0.999969794411204,
+        "startIndex": 363
+      },
+      {
+        "text": " 174",
+        "confidence": 0.998925446664723,
+        "startIndex": 368
+      },
+      {
+        "text": "задвижка",
+        "confidence": 0.998925446664723,
+        "startIndex": 373
+      },
+      {
+        "text": " 169",
+        "confidence": 0.999990562797927,
+        "startIndex": 381
+      },
+      {
+        "text": "захлопки",
+        "confidence": 0.9995772710977853,
+        "startIndex": 388
+      },
+      {
+        "text": "140,",
+        "confidence": 0.9995772710977853,
+        "startIndex": 397
+      },
+      {
+        "text": " 141,",
+        "confidence": 0.9999958992188862,
+        "startIndex": 401
+      },
+      {
+        "text": " 148,",
+        "confidence": 0.9999919393658441,
+        "startIndex": 406
+      },
+      {
+        "text": "155",
+        "confidence": 0.9999919393658441,
+        "startIndex": 412
+      },
+      {
+        "text": "--",
+        "confidence": 0.9880280836648019,
+        "startIndex": 418
+      },
+      {
+        "text": "80,",
+        "confidence": 0.9880280836648019,
+        "startIndex": 423
+      },
+      {
+        "text": " 81",
+        "confidence": 0.9999640024165319,
+        "startIndex": 426
+      },
+      {
+        "text": "167",
+        "confidence": 0.9941338212029217,
+        "startIndex": 432
+      },
+      {
+        "text": "№6СКВ",
+        "confidence": 0.9941338212029217,
+        "startIndex": 436
+      },
+      {
+        "text": "(приточ-",
+        "confidence": 0.9941338212029217,
+        "startIndex": 442
+      },
+      {
+        "text": "ный)",
+        "confidence": 0.9941338212029217,
+        "startIndex": 451
+      },
+      {
+        "text": "157",
+        "confidence": 0.9941338212029217,
+        "startIndex": 456
+      },
+      {
+        "text": "№7СКВ",
+        "confidence": 0.9941338212029217,
+        "startIndex": 460
+      },
+      {
+        "text": "(вытяжной)",
+        "confidence": 0.9941338212029217,
+        "startIndex": 466
+      },
+      {
+        "text": "При",
+        "confidence": 0.9998805152039991,
+        "startIndex": 479
+      },
+      {
+        "text": " необхо-",
+        "confidence": 0.9994485038816968,
+        "startIndex": 482
+      },
+      {
+        "text": "димости",
+        "confidence": 0.9994485038816968,
+        "startIndex": 491
+      },
+      {
+        "text": "подогрева",
+        "confidence": 0.9994485038816968,
+        "startIndex": 499
+      },
+      {
+        "text": "наружного",
+        "confidence": 0.9994485038816968,
+        "startIndex": 509
+      },
+      {
+        "text": "воздуха",
+        "confidence": 0.9994485038816968,
+        "startIndex": 519
+      },
+      {
+        "text": "включить",
+        "confidence": 0.9994485038816968,
+        "startIndex": 527
+      },
+      {
+        "text": "нагреватель",
+        "confidence": 0.9994485038816968,
+        "startIndex": 536
+      },
+      {
+        "text": "воздуха",
+        "confidence": 0.9994485038816968,
+        "startIndex": 548
+      },
+      {
+        "text": " 170,",
+        "confidence": 0.9997470028652193,
+        "startIndex": 555
+      },
+      {
+        "text": "задвижку",
+        "confidence": 0.9997470028652193,
+        "startIndex": 561
+      },
+      {
+        "text": " 169",
+        "confidence": 0.9985992888495491,
+        "startIndex": 569
+      },
+      {
+        "text": "закрыть",
+        "confidence": 0.9985992888495491,
+        "startIndex": 574
+      },
+      {
+        "text": "Столовая",
+        "confidence": 0.9985992888495491,
+        "startIndex": 588
+      },
+      {
+        "text": " команды",
+        "confidence": 0.9999521454286664,
+        "startIndex": 596
+      },
+      {
+        "text": "48,",
+        "confidence": 0.9999521454286664,
+        "startIndex": 619
+      },
+      {
+        "text": " 49,",
+        "confidence": 0.999984493690382,
+        "startIndex": 622
+      },
+      {
+        "text": "50,",
+        "confidence": 0.999984493690382,
+        "startIndex": 627
+      },
+      {
+        "text": " 83",
+        "confidence": 0.999834875093138,
+        "startIndex": 630
+      },
+      {
+        "text": "Буфетная",
+        "confidence": 0.999834875093138,
+        "startIndex": 648
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9989586886021796,
+        "startIndex": 656
+      },
+      {
+        "text": "82",
+        "confidence": 0.9989586886021796,
+        "startIndex": 674
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9989586886021796,
+        "startIndex": 691
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999896686744769,
+        "startIndex": 696
+      },
+      {
+        "text": " №1",
+        "confidence": 0.9999862231111526,
+        "startIndex": 705
+      },
+      {
+        "text": "175",
+        "confidence": 0.9999862231111526,
+        "startIndex": 723
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999862231111526,
+        "startIndex": 741
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999941720243496,
+        "startIndex": 746
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9999861482397421,
+        "startIndex": 755
+      },
+      {
+        "text": "151",
+        "confidence": 0.9999861482397421,
+        "startIndex": 773
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999861482397421,
+        "startIndex": 791
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999971124952686,
+        "startIndex": 796
+      },
+      {
+        "text": " №3",
+        "confidence": 0.9999805504555072,
+        "startIndex": 805
+      },
+      {
+        "text": "176",
+        "confidence": 0.9999805504555072,
+        "startIndex": 823
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999805504555072,
+        "startIndex": 841
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999979866918673,
+        "startIndex": 846
+      },
+      {
+        "text": " №4",
+        "confidence": 0.9999797602151002,
+        "startIndex": 855
+      },
+      {
+        "text": "150",
+        "confidence": 0.9999797602151002,
+        "startIndex": 873
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999797602151002,
+        "startIndex": 891
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999987681722039,
+        "startIndex": 896
+      },
+      {
+        "text": " №5",
+        "confidence": 0.999971099758871,
+        "startIndex": 905
+      },
+      {
+        "text": "177",
+        "confidence": 0.999971099758871,
+        "startIndex": 923
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.999971099758871,
+        "startIndex": 941
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.99999888738124,
+        "startIndex": 946
+      },
+      {
+        "text": " №6",
+        "confidence": 0.9999659328115181,
+        "startIndex": 955
+      },
+      {
+        "text": "149",
+        "confidence": 0.9999659328115181,
+        "startIndex": 973
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999659328115181,
+        "startIndex": 991
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999988608902913,
+        "startIndex": 996
+      },
+      {
+        "text": " №7",
+        "confidence": 0.9999739144625218,
+        "startIndex": 1005
+      },
+      {
+        "text": "178",
+        "confidence": 0.9999739144625218,
+        "startIndex": 1023
+      },
+      {
+        "text": "Большая",
+        "confidence": 0.9999739144625218,
+        "startIndex": 1041
+      },
+      {
+        "text": " кают-",
+        "confidence": 0.999920022925938,
+        "startIndex": 1048
+      },
+      {
+        "text": "компания",
+        "confidence": 0.999920022925938,
+        "startIndex": 1055
+      },
+      {
+        "text": "144,",
+        "confidence": 0.999920022925938,
+        "startIndex": 1078
+      },
+      {
+        "text": " 145,",
+        "confidence": 0.9999410735259415,
+        "startIndex": 1082
+      },
+      {
+        "text": "147",
+        "confidence": 0.9999410735259415,
+        "startIndex": 1088
+      }
+    ],
+    "averagePageConfidenceScore": 0.9957149547536075,
+    "minimumPageConfidenceScore": 0.9423882478344511
+  },
+  "blocks": [
+    {
+      "topLeftX": 2953,
+      "topLeftY": 312,
+      "bottomRightX": 3041,
+      "bottomRightY": 1292,
+      "content": "Продолжение таблицы 5",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 359,
+      "topLeftY": 213,
+      "bottomRightX": 2963,
+      "bottomRightY": 4586,
+      "content": "|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  открыта |   | закрыта | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |  приток | вытяжка  |   |   |   |   |\n|  Малая кают- компания | захлопки 138, 142, 168, 174 задвижка 169 | захлопки 140, 141, 148, 155 | -- | 80, 81 | 167 №6СКВ (приточ- ный) 157 №7СКВ (вытяжной) | При необхо- димости подогрева наружного воздуха включить нагреватель воздуха 170, задвижку 169 закрыть  |\n|  Столовая команды |   |   |   | 48, 49, 50, 83  |   |   |\n|  Буфетная №1 |   |   |   | 82  |   |   |\n|  Каюта офицеров №1 |   |   |   | 175  |   |   |\n|  Каюта офицеров №2 |   |   |   | 151  |   |   |\n|  Каюта офицеров №3 |   |   |   | 176  |   |   |\n|  Каюта офицеров №4 |   |   |   | 150  |   |   |\n|  Каюта офицеров №5 |   |   |   | 177  |   |   |\n|  Каюта офицеров №6 |   |   |   | 149  |   |   |\n|  Каюта офицеров №7 |   |   |   | 178  |   |   |\n|  Большая кают- компания |   |   |   | 144, 145, 147  |   |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

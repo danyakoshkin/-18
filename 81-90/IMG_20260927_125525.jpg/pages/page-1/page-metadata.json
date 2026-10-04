@@ -1,0 +1,410 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 200,
+    "height": 4595,
+    "width": 3204
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "Продолжение",
+        "confidence": 0.9996851556677825,
+        "startIndex": 0
+      },
+      {
+        "text": " таблицы",
+        "confidence": 0.9999763971175267,
+        "startIndex": 11
+      },
+      {
+        "text": " 6",
+        "confidence": 0.9998521494787601,
+        "startIndex": 19
+      },
+      {
+        "text": "Наименование",
+        "confidence": 0.9947409198021223,
+        "startIndex": 26
+      },
+      {
+        "text": "обслуживаемого",
+        "confidence": 0.9947409198021223,
+        "startIndex": 39
+      },
+      {
+        "text": "помещения",
+        "confidence": 0.9947409198021223,
+        "startIndex": 54
+      },
+      {
+        "text": "Положение",
+        "confidence": 0.9949513124291001,
+        "startIndex": 66
+      },
+      {
+        "text": " арматуры",
+        "confidence": 0.9999442500099398,
+        "startIndex": 75
+      },
+      {
+        "text": "Включить",
+        "confidence": 0.9994215502508552,
+        "startIndex": 95
+      },
+      {
+        "text": "Примечание",
+        "confidence": 0.9959418131868516,
+        "startIndex": 110
+      },
+      {
+        "text": "закрыта",
+        "confidence": 0.9992304983364904,
+        "startIndex": 175
+      },
+      {
+        "text": "открыта",
+        "confidence": 0.9998117145717131,
+        "startIndex": 185
+      },
+      {
+        "text": "кондици",
+        "confidence": 0.9742903196740729,
+        "startIndex": 199
+      },
+      {
+        "text": "онер,",
+        "confidence": 0.9742903196740729,
+        "startIndex": 207
+      },
+      {
+        "text": "номер,",
+        "confidence": 0.9742903196740729,
+        "startIndex": 213
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9742903196740729,
+        "startIndex": 220
+      },
+      {
+        "text": " по",
+        "confidence": 0.9999599994030548,
+        "startIndex": 224
+      },
+      {
+        "text": "схеме",
+        "confidence": 0.9999599994030548,
+        "startIndex": 228
+      },
+      {
+        "text": "вентилятор,",
+        "confidence": 0.9999193501173624,
+        "startIndex": 236
+      },
+      {
+        "text": "поз.",
+        "confidence": 0.9999193501173624,
+        "startIndex": 248
+      },
+      {
+        "text": " по",
+        "confidence": 0.9993770683834227,
+        "startIndex": 252
+      },
+      {
+        "text": "схеме,",
+        "confidence": 0.9993770683834227,
+        "startIndex": 256
+      },
+      {
+        "text": "номер",
+        "confidence": 0.9993770683834227,
+        "startIndex": 263
+      },
+      {
+        "text": "приток",
+        "confidence": 0.9993770683834227,
+        "startIndex": 287
+      },
+      {
+        "text": "вытяжка",
+        "confidence": 0.9993770683834227,
+        "startIndex": 296
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9993770683834227,
+        "startIndex": 322
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999883176299156,
+        "startIndex": 327
+      },
+      {
+        "text": " №6",
+        "confidence": 0.9226915817701431,
+        "startIndex": 336
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9226915817701431,
+        "startIndex": 340
+      },
+      {
+        "text": " офицеров",
+        "confidence": 0.9999923971696615,
+        "startIndex": 345
+      },
+      {
+        "text": " №7",
+        "confidence": 0.9997141432657531,
+        "startIndex": 354
+      },
+      {
+        "text": "Большая",
+        "confidence": 0.9997141432657531,
+        "startIndex": 358
+      },
+      {
+        "text": " кают-",
+        "confidence": 0.9969711698203768,
+        "startIndex": 365
+      },
+      {
+        "text": "компания",
+        "confidence": 0.9969711698203768,
+        "startIndex": 372
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9969711698203768,
+        "startIndex": 381
+      },
+      {
+        "text": " ОПИ",
+        "confidence": 0.9968457543243032,
+        "startIndex": 390
+      },
+      {
+        "text": "Буфетная",
+        "confidence": 0.9968457543243032,
+        "startIndex": 395
+      },
+      {
+        "text": " №2",
+        "confidence": 0.9998970996970948,
+        "startIndex": 403
+      },
+      {
+        "text": "Кладовая",
+        "confidence": 0.9998970996970948,
+        "startIndex": 407
+      },
+      {
+        "text": " костюмов",
+        "confidence": 0.9997986289872083,
+        "startIndex": 415
+      },
+      {
+        "text": "экипажа",
+        "confidence": 0.9997986289872083,
+        "startIndex": 425
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9990772579651792,
+        "startIndex": 432
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9990772579651792,
+        "startIndex": 437
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9999172507027138,
+        "startIndex": 442
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9998221925435598,
+        "startIndex": 450
+      },
+      {
+        "text": "Помещение",
+        "confidence": 0.9998221925435598,
+        "startIndex": 455
+      },
+      {
+        "text": " дежур-",
+        "confidence": 0.9996937096902581,
+        "startIndex": 464
+      },
+      {
+        "text": "ного",
+        "confidence": 0.9996937096902581,
+        "startIndex": 472
+      },
+      {
+        "text": " экипажа",
+        "confidence": 0.9999924154021902,
+        "startIndex": 476
+      },
+      {
+        "text": " ЛАК",
+        "confidence": 0.9996721180645233,
+        "startIndex": 484
+      },
+      {
+        "text": "Кабинет",
+        "confidence": 0.9996721180645233,
+        "startIndex": 489
+      },
+      {
+        "text": " командира",
+        "confidence": 0.9998109034263034,
+        "startIndex": 496
+      },
+      {
+        "text": "Спальня",
+        "confidence": 0.9998109034263034,
+        "startIndex": 507
+      },
+      {
+        "text": " командира",
+        "confidence": 0.9999670528550948,
+        "startIndex": 514
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999670528550948,
+        "startIndex": 525
+      },
+      {
+        "text": " старшего",
+        "confidence": 0.9999352520986171,
+        "startIndex": 530
+      },
+      {
+        "text": "помощника",
+        "confidence": 0.9999352520986171,
+        "startIndex": 540
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.9999352520986171,
+        "startIndex": 550
+      },
+      {
+        "text": " командира",
+        "confidence": 0.999682246645098,
+        "startIndex": 555
+      },
+      {
+        "text": "БЧ-5",
+        "confidence": 0.999682246645098,
+        "startIndex": 566
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.999682246645098,
+        "startIndex": 571
+      },
+      {
+        "text": " заместителя",
+        "confidence": 0.999946655597812,
+        "startIndex": 576
+      },
+      {
+        "text": "командира",
+        "confidence": 0.999946655597812,
+        "startIndex": 589
+      },
+      {
+        "text": "Каюта",
+        "confidence": 0.999946655597812,
+        "startIndex": 599
+      },
+      {
+        "text": " флагмана",
+        "confidence": 0.9998789267909296,
+        "startIndex": 604
+      },
+      {
+        "text": "176,",
+        "confidence": 0.9998789267909296,
+        "startIndex": 625
+      },
+      {
+        "text": " 177",
+        "confidence": 0.9998855385115731,
+        "startIndex": 629
+      },
+      {
+        "text": "178,",
+        "confidence": 0.9998855385115731,
+        "startIndex": 634
+      },
+      {
+        "text": " 179,",
+        "confidence": 0.999990259090783,
+        "startIndex": 638
+      },
+      {
+        "text": "198,",
+        "confidence": 0.999990259090783,
+        "startIndex": 644
+      },
+      {
+        "text": " 205,",
+        "confidence": 0.9999987142449104,
+        "startIndex": 648
+      },
+      {
+        "text": "206,",
+        "confidence": 0.9999987142449104,
+        "startIndex": 654
+      },
+      {
+        "text": " 207,",
+        "confidence": 0.9999992677150759,
+        "startIndex": 658
+      },
+      {
+        "text": "208,",
+        "confidence": 0.9999992677150759,
+        "startIndex": 664
+      },
+      {
+        "text": " 214",
+        "confidence": 0.9999659599819376,
+        "startIndex": 668
+      }
+    ],
+    "averagePageConfidenceScore": 0.9958555813300074,
+    "minimumPageConfidenceScore": 0.9226915817701431
+  },
+  "blocks": [
+    {
+      "topLeftX": 3031,
+      "topLeftY": 170,
+      "bottomRightX": 3108,
+      "bottomRightY": 1150,
+      "content": "Продолжение таблицы 6",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 69,
+      "bottomRightX": 3031,
+      "bottomRightY": 4554,
+      "content": "|  Наименование обслуживаемого помещения | Положение арматуры |   |   | Включить |   | Примечание  |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  закрыта | открыта |   | кондици онер, номер, поз. по схеме | вентилятор, поз. по схеме, номер  |   |\n|   |   |  приток | вытяжка  |   |   |   |\n|  Каюта офицеров №6 Каюта офицеров №7 Большая кают- компания Помещение ОПИ Буфетная №2 Кладовая костюмов экипажа ЛАК Каюта экипажа ЛАК Помещение дежур- ного экипажа ЛАК Кабинет командира Спальня командира Каюта старшего помощника Каюта командира БЧ-5 Каюта заместителя командира Каюта флагмана |  |  |  | 176, 177 178, 179, 198, 205, 206, 207, 208, 214 |  |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}
